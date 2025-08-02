@@ -6,7 +6,7 @@
    * 看这里！我们把 "center center" 修改为了 "center top"
    * center top 的意思是：水平方向依然居中，但垂直方向请对齐到顶部！
    */
-  --global-bg: url(/img/cover/zyp.jpeg) no-repeat center top fixed !important;
+  --global-bg: url(/img/cover/zyp.jpeg) no-repeat 50% 20% fixed !important;
 }
 
 /*
