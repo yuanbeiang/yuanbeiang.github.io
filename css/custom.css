@@ -3,13 +3,10 @@
  */
 :root {
   /*
-   * 强行把 --global-bg 这个变量的值，定义为我们的背景图。
-   * no-repeat: 背景不重复
-   * center center: 背景图居中
-   * fixed: 滚动页面时，背景图不动
-   * !important: 这是一个“王炸”，确保我们的规则有最高优先级。
+   * 看这里！我们把 "center center" 修改为了 "center top"
+   * center top 的意思是：水平方向依然居中，但垂直方向请对齐到顶部！
    */
-  --global-bg: url(/img/cover/zyp.jpeg) no-repeat center center fixed !important;
+  --global-bg: url(/img/cover/zyp.jpeg) no-repeat center top fixed !important;
 }
 
 /*
