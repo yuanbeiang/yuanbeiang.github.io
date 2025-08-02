@@ -37,7 +37,7 @@
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
       
-        <content type="html"><![CDATA[body { background: red !important; }]]></content>
+        <content type="html"><![CDATA[/* * ʹ�� :root �������Ч��Ϊȫ��CSS�������¸�ֵ */:root {    /*   * ǿ�а� --global-bg ���������ֵ������Ϊ���ǵı���ͼ��   * no-repeat: �������ظ�   * center center: ����ͼ����   * fixed: ����ҳ��ʱ������ͼ����   * !important: ����һ������ը����ȷ�����ǵĹ�����������ȼ���   */    --global-bg: url(/img/cover/zyp.jpeg) no-repeat center center fixed !important;}/* * Ϊ��ȷ��ͼƬ���Զ������Ը���������Ļ���ټ�һ�����չ��� */body {    background-size: cover !important;}]]></content>
       
     </entry>
     
