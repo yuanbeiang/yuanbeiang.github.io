@@ -18,3 +18,8 @@
 body {
   background-size: cover !important;
 }
+
+
+#page-header {
+  background: transparent !important;
+}
