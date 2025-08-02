@@ -1,0 +1,20 @@
+/*
+ * 使用 :root 可以最高效地为全局CSS变量重新赋值
+ */
+:root {
+  /*
+   * 强行把 --global-bg 这个变量的值，定义为我们的背景图。
+   * no-repeat: 背景不重复
+   * center center: 背景图居中
+   * fixed: 滚动页面时，背景图不动
+   * !important: 这是一个“王炸”，确保我们的规则有最高优先级，不会被其他规则覆盖。
+   */
+  --global-bg: url(/img/cover/zyp.jpeg) no-repeat center center fixed !important;
+}
+
+/*
+ * 为了确保图片能自动拉伸以覆盖整个屏幕，再加一个保险规则
+ */
+body {
+  background-size: cover !important;
+}
