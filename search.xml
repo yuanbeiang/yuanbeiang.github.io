@@ -1,65 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>正规方程补充</title>
-      <link href="/2025/08/09/%E6%AD%A3%E8%A7%84%E6%96%B9%E7%A8%8B%E8%A1%A5%E5%85%85/"/>
-      <url>/2025/08/09/%E6%AD%A3%E8%A7%84%E6%96%B9%E7%A8%8B%E8%A1%A5%E5%85%85/</url>
-      
-        <content type="html"><![CDATA[<h2 id="正规方程在矩阵不可逆-奇异矩阵-的情况下的解决办法"><a href="#正规方程在矩阵不可逆-奇异矩阵-的情况下的解决办法" class="headerlink" title="正规方程在矩阵不可逆(奇异矩阵)的情况下的解决办法"></a>正规方程在矩阵不可逆(奇异矩阵)的情况下的解决办法</h2><p> 首先呢，这种情况极少数发生，而且即使发生了，如果用octave中的pinv，如果不可逆也能求出伪逆<br><img src="/img/ML/p1.png" alt=""></p><h3 id="为什么-X-TX-会出现不可逆的情况？"><a href="#为什么-X-TX-会出现不可逆的情况？" class="headerlink" title="为什么$X^TX$会出现不可逆的情况？"></a>为什么$X^TX$会出现不可逆的情况？</h3><ol><li>包含了多余的特征，比如一个以米为单位，另一个以英尺为单位，线性相关</li><li>运行的算法的特征太多了($m\le n$)<br>在此情况下，我们通常要删掉一些特征或者使用<strong>正则化</strong></li></ol>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>markdown基本使用方法</title>
+    <url>/2025/08/01/markdown%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</url>
+    <content><![CDATA[<h1 id="Markdown基本用法"><a href="#Markdown基本用法" class="headerlink" title="Markdown基本用法"></a>Markdown基本用法</h1><h2 id="1-标题"><a href="#1-标题" class="headerlink" title="1.标题"></a>1.标题</h2><p>井号的个数表示不同级的标题</p>
+<h2 id="2-换行"><a href="#2-换行" class="headerlink" title="2.换行"></a>2.换行</h2><ol>
+<li>换行注意要加两个空格，不然怕在其他渲染器里失效</li>
+<li>如果中间空一行，那就是新起一段</li>
+</ol>
+<h2 id="3-强调（加粗和斜体）"><a href="#3-强调（加粗和斜体）" class="headerlink" title="3.强调（加粗和斜体）"></a>3.强调（加粗和斜体）</h2><ol>
+<li>加粗：左右各加两个*</li>
+<li>斜体：左右各加一个*</li>
+<li>快捷键（前提安装了扩展）<ol>
+<li>斜体：ctrl+i</li>
+<li>加粗：ctrl+b</li>
+</ol>
+</li>
+</ol>
+<h2 id="4-列表"><a href="#4-列表" class="headerlink" title="4.列表"></a>4.列表</h2><ol>
+<li>tab键可以继续缩进列表</li>
+<li>列表编号你自己写的数字不用在意，系统会自动渲染成正确的顺序</li>
+<li>如果要重新从1开始哦编号，只需要在两个列表之间加一个段落就行</li>
+</ol>
+<h2 id="5-图片"><a href="#5-图片" class="headerlink" title="5.图片"></a>5.图片</h2><p>先把图片保存到文件夹，然后输入![]（） 括号里在加上一个英文句号，然后就可以选择照片</p>
+<h2 id="6-插入公式"><a href="#6-插入公式" class="headerlink" title="6.插入公式"></a>6.插入公式</h2><ol>
+<li>用$$括起来即可</li>
+<li>markdown all in one可以提供自动补全(怎么失效了┭┮﹏┭┮)</li>
+<li>文字中插入公式：ctrl+m<br>注意在第一个美元符号前加空格，以保证兼容性</li>
+<li>如果按两下ctrl+m，那就是单独一段的公式</li>
+</ol>
+<h2 id="7-表格"><a href="#7-表格" class="headerlink" title="7.表格"></a>7.表格</h2><ol>
+<li>表格第一行代表标头</li>
+<li>用  |   隔开</li>
+<li>表头下面需要加上一行—-|—-|—-</li>
+<li>表格默认左对齐，—-:右对齐，:—-:居中对齐</li>
+<li>alt+shift+f 格式化，使表格在文本中变得好看一点</li>
+</ol>
+<h2 id="8-链接"><a href="#8-链接" class="headerlink" title="8.链接"></a>8.链接</h2><ol>
+<li>把链接复制之后ctrl+v到选中的文字（安装扩展后）</li>
+</ol>
+<h2 id="9-代码块"><a href="#9-代码块" class="headerlink" title="9.代码块"></a>9.代码块</h2><ol>
+<li>一对```</li>
+<li>后面加上使用的编程语言名称即可实现高亮</li>
+</ol>
+<h2 id="10-导出为pdf"><a href="#10-导出为pdf" class="headerlink" title="10.导出为pdf"></a>10.导出为pdf</h2><p>按此方法能保证公式渲染正确</p>
+<h2 id="11-其他语法"><a href="#11-其他语法" class="headerlink" title="11.其他语法"></a>11.其他语法</h2><p>这里是<a href="https://markdown.com.cn/basic-syntax/">链接</a><br>如果latex公式出现问题，请访问此<a href="https://rickliu.com/posts/f9538327001b/index.html">链接</a></p>
+<blockquote>
+<p>最后来张图片~<br><img src="/img/Yojiro.jpg" alt=""></p>
+</blockquote>
+]]></content>
       <categories>
-          
-          <category> 傻瓜1号 </category>
-          
-          <category> 傻瓜2号 </category>
-          
+        <category>傻瓜1号</category>
+        <category>傻瓜2号</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 博客 </tag>
-            
-            <tag> 傻瓜 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>markdown基本使用方法</title>
-      <link href="/2025/08/01/markdown%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/"/>
-      <url>/2025/08/01/markdown%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</url>
-      
-        <content type="html"><![CDATA[<h1 id="Markdown基本用法"><a href="#Markdown基本用法" class="headerlink" title="Markdown基本用法"></a>Markdown基本用法</h1><h2 id="1-标题"><a href="#1-标题" class="headerlink" title="1.标题"></a>1.标题</h2><p>井号的个数表示不同级的标题</p><h2 id="2-换行"><a href="#2-换行" class="headerlink" title="2.换行"></a>2.换行</h2><ol><li>换行注意要加两个空格，不然怕在其他渲染器里失效</li><li>如果中间空一行，那就是新起一段</li></ol><h2 id="3-强调（加粗和斜体）"><a href="#3-强调（加粗和斜体）" class="headerlink" title="3.强调（加粗和斜体）"></a>3.强调（加粗和斜体）</h2><ol><li>加粗：左右各加两个*</li><li>斜体：左右各加一个*</li><li>快捷键（前提安装了扩展）<ol><li>斜体：ctrl+i</li><li>加粗：ctrl+b</li></ol></li></ol><h2 id="4-列表"><a href="#4-列表" class="headerlink" title="4.列表"></a>4.列表</h2><ol><li>tab键可以继续缩进列表</li><li>列表编号你自己写的数字不用在意，系统会自动渲染成正确的顺序</li><li>如果要重新从1开始哦编号，只需要在两个列表之间加一个段落就行</li></ol><h2 id="5-图片"><a href="#5-图片" class="headerlink" title="5.图片"></a>5.图片</h2><p>先把图片保存到文件夹，然后输入![]（） 括号里在加上一个英文句号，然后就可以选择照片</p><h2 id="6-插入公式"><a href="#6-插入公式" class="headerlink" title="6.插入公式"></a>6.插入公式</h2><ol><li>用$$括起来即可</li><li>markdown all in one可以提供自动补全(怎么失效了┭┮﹏┭┮)</li><li>文字中插入公式：ctrl+m<br>注意在第一个美元符号前加空格，以保证兼容性</li><li>如果按两下ctrl+m，那就是单独一段的公式</li></ol><h2 id="7-表格"><a href="#7-表格" class="headerlink" title="7.表格"></a>7.表格</h2><ol><li>表格第一行代表标头</li><li>用  |   隔开</li><li>表头下面需要加上一行—-|—-|—-</li><li>表格默认左对齐，—-:右对齐，:—-:居中对齐</li><li>alt+shift+f 格式化，使表格在文本中变得好看一点</li></ol><h2 id="8-链接"><a href="#8-链接" class="headerlink" title="8.链接"></a>8.链接</h2><ol><li>把链接复制之后ctrl+v到选中的文字（安装扩展后）</li></ol><h2 id="9-代码块"><a href="#9-代码块" class="headerlink" title="9.代码块"></a>9.代码块</h2><ol><li>一对```</li><li>后面加上使用的编程语言名称即可实现高亮</li></ol><h2 id="10-导出为pdf"><a href="#10-导出为pdf" class="headerlink" title="10.导出为pdf"></a>10.导出为pdf</h2><p>按此方法能保证公式渲染正确</p><h2 id="11-其他语法"><a href="#11-其他语法" class="headerlink" title="11.其他语法"></a>11.其他语法</h2><p>这里是<a href="https://markdown.com.cn/basic-syntax/">链接</a><br>如果latex公式出现问题，请访问此<a href="https://rickliu.com/posts/f9538327001b/index.html">链接</a></p><blockquote><p>最后来张图片~<br><img src="/img/Yojiro.jpg" alt=""></p></blockquote>]]></content>
-      
-      
+      <tags>
+        <tag>博客</tag>
+        <tag>傻瓜</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>正规方程补充</title>
+    <url>/2025/08/09/%E6%AD%A3%E8%A7%84%E6%96%B9%E7%A8%8B%E8%A1%A5%E5%85%85/</url>
+    <content><![CDATA[<h2 id="正规方程在矩阵不可逆-奇异矩阵-的情况下的解决办法"><a href="#正规方程在矩阵不可逆-奇异矩阵-的情况下的解决办法" class="headerlink" title="正规方程在矩阵不可逆(奇异矩阵)的情况下的解决办法"></a>正规方程在矩阵不可逆(奇异矩阵)的情况下的解决办法</h2><p> 首先呢，这种情况极少数发生，而且即使发生了，如果用octave中的pinv，如果不可逆也能求出伪逆<br><img src="/img/ML/p1.png" alt=""></p>
+<h3 id="为什么-X-TX-会出现不可逆的情况？"><a href="#为什么-X-TX-会出现不可逆的情况？" class="headerlink" title="为什么$X^TX$会出现不可逆的情况？"></a>为什么$X^TX$会出现不可逆的情况？</h3><ol>
+<li>包含了多余的特征，比如一个以米为单位，另一个以英尺为单位，线性相关</li>
+<li>运行的算法的特征太多了($m\le n$)<br>在此情况下，我们通常要删掉一些特征或者使用<strong>正则化</strong></li>
+</ol>
+]]></content>
       <categories>
-          
-          <category> 傻瓜1号 </category>
-          
-          <category> 傻瓜2号 </category>
-          
+        <category>傻瓜1号</category>
+        <category>傻瓜2号</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 博客 </tag>
-            
-            <tag> 傻瓜 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>博客</tag>
+        <tag>傻瓜</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>向量化</title>
+    <url>/2025/08/10/%E5%90%91%E9%87%8F%E5%8C%96/</url>
+    <content><![CDATA[<h2 id="向量化"><a href="#向量化" class="headerlink" title="向量化"></a>向量化</h2><ol>
+<li>通过编程环境内置的或者说易于获取的线性代数库，而不是自己去编写，可以大大加快运行速度(尤其是在特征量非常大的时候)，并且更加有效利用计算机的并行硬件系统</li>
+<li>代码更少，出错概率小!<br><img src="/img/ML/p2.png" alt=""><br><img src="/img/ML/p3.png" alt=""></li>
+</ol>
+]]></content>
+      <categories>
+        <category>傻瓜1号</category>
+        <category>傻瓜2号</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>傻瓜</tag>
+      </tags>
+  </entry>
 </search>
