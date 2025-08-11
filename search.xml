@@ -1,64 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>markdown基本使用方法</title>
-    <url>/2025/08/01/markdown%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</url>
-    <content><![CDATA[<h1 id="Markdown基本用法"><a href="#Markdown基本用法" class="headerlink" title="Markdown基本用法"></a>Markdown基本用法</h1><h2 id="1-标题"><a href="#1-标题" class="headerlink" title="1.标题"></a>1.标题</h2><p>井号的个数表示不同级的标题</p>
-<h2 id="2-换行"><a href="#2-换行" class="headerlink" title="2.换行"></a>2.换行</h2><ol>
-<li>换行注意要加两个空格，不然怕在其他渲染器里失效</li>
-<li>如果中间空一行，那就是新起一段</li>
-</ol>
-<h2 id="3-强调（加粗和斜体）"><a href="#3-强调（加粗和斜体）" class="headerlink" title="3.强调（加粗和斜体）"></a>3.强调（加粗和斜体）</h2><ol>
-<li>加粗：左右各加两个*</li>
-<li>斜体：左右各加一个*</li>
-<li>快捷键（前提安装了扩展）<ol>
-<li>斜体：ctrl+i</li>
-<li>加粗：ctrl+b</li>
-</ol>
-</li>
-</ol>
-<h2 id="4-列表"><a href="#4-列表" class="headerlink" title="4.列表"></a>4.列表</h2><ol>
-<li>tab键可以继续缩进列表</li>
-<li>列表编号你自己写的数字不用在意，系统会自动渲染成正确的顺序</li>
-<li>如果要重新从1开始哦编号，只需要在两个列表之间加一个段落就行</li>
-</ol>
-<h2 id="5-图片"><a href="#5-图片" class="headerlink" title="5.图片"></a>5.图片</h2><p>先把图片保存到文件夹，然后输入![]（） 括号里在加上一个英文句号，然后就可以选择照片</p>
-<h2 id="6-插入公式"><a href="#6-插入公式" class="headerlink" title="6.插入公式"></a>6.插入公式</h2><ol>
-<li>用$$括起来即可</li>
-<li>markdown all in one可以提供自动补全(怎么失效了┭┮﹏┭┮)</li>
-<li>文字中插入公式：ctrl+m<br>注意在第一个美元符号前加空格，以保证兼容性</li>
-<li>如果按两下ctrl+m，那就是单独一段的公式</li>
-</ol>
-<h2 id="7-表格"><a href="#7-表格" class="headerlink" title="7.表格"></a>7.表格</h2><ol>
-<li>表格第一行代表标头</li>
-<li>用  |   隔开</li>
-<li>表头下面需要加上一行—-|—-|—-</li>
-<li>表格默认左对齐，—-:右对齐，:—-:居中对齐</li>
-<li>alt+shift+f 格式化，使表格在文本中变得好看一点</li>
-</ol>
-<h2 id="8-链接"><a href="#8-链接" class="headerlink" title="8.链接"></a>8.链接</h2><ol>
-<li>把链接复制之后ctrl+v到选中的文字（安装扩展后）</li>
-</ol>
-<h2 id="9-代码块"><a href="#9-代码块" class="headerlink" title="9.代码块"></a>9.代码块</h2><ol>
-<li>一对```</li>
-<li>后面加上使用的编程语言名称即可实现高亮</li>
-</ol>
-<h2 id="10-导出为pdf"><a href="#10-导出为pdf" class="headerlink" title="10.导出为pdf"></a>10.导出为pdf</h2><p>按此方法能保证公式渲染正确</p>
-<h2 id="11-其他语法"><a href="#11-其他语法" class="headerlink" title="11.其他语法"></a>11.其他语法</h2><p>这里是<a href="https://markdown.com.cn/basic-syntax/">链接</a><br>如果latex公式出现问题，请访问此<a href="https://rickliu.com/posts/f9538327001b/index.html">链接</a></p>
-<blockquote>
-<p>最后来张图片~<br><img src="/img/Yojiro.jpg" alt=""></p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>傻瓜1号</category>
-        <category>傻瓜2号</category>
-      </categories>
-      <tags>
-        <tag>博客</tag>
-        <tag>傻瓜</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>向量化</title>
     <url>/2025/08/10/%E5%90%91%E9%87%8F%E5%8C%96/</url>
     <content><![CDATA[<h2 id="向量化"><a href="#向量化" class="headerlink" title="向量化"></a>向量化</h2><ol>
@@ -126,6 +68,64 @@
 <h4 id="part-4-多类别分类问题"><a href="#part-4-多类别分类问题" class="headerlink" title="part 4 多类别分类问题"></a>part 4 多类别分类问题</h4><p><strong>通过“一对多”的分类算法实现</strong></p>
 <p>比如说这个例子，我们要将训练集转化为三个独立的二元分类问题<br><img src="/img/ML/p13.png" alt=""></p>
 <p>在三个分类器中运行输入x，然后选择 $h$最大的类别作为预测值</p>
+]]></content>
+      <categories>
+        <category>傻瓜1号</category>
+        <category>傻瓜2号</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>傻瓜</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>markdown基本使用方法</title>
+    <url>/2025/08/01/markdown%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</url>
+    <content><![CDATA[<h1 id="Markdown基本用法"><a href="#Markdown基本用法" class="headerlink" title="Markdown基本用法"></a>Markdown基本用法</h1><h2 id="1-标题"><a href="#1-标题" class="headerlink" title="1.标题"></a>1.标题</h2><p>井号的个数表示不同级的标题</p>
+<h2 id="2-换行"><a href="#2-换行" class="headerlink" title="2.换行"></a>2.换行</h2><ol>
+<li>换行注意要加两个空格，不然怕在其他渲染器里失效</li>
+<li>如果中间空一行，那就是新起一段</li>
+</ol>
+<h2 id="3-强调（加粗和斜体）"><a href="#3-强调（加粗和斜体）" class="headerlink" title="3.强调（加粗和斜体）"></a>3.强调（加粗和斜体）</h2><ol>
+<li>加粗：左右各加两个*</li>
+<li>斜体：左右各加一个*</li>
+<li>快捷键（前提安装了扩展）<ol>
+<li>斜体：ctrl+i</li>
+<li>加粗：ctrl+b</li>
+</ol>
+</li>
+</ol>
+<h2 id="4-列表"><a href="#4-列表" class="headerlink" title="4.列表"></a>4.列表</h2><ol>
+<li>tab键可以继续缩进列表</li>
+<li>列表编号你自己写的数字不用在意，系统会自动渲染成正确的顺序</li>
+<li>如果要重新从1开始哦编号，只需要在两个列表之间加一个段落就行</li>
+</ol>
+<h2 id="5-图片"><a href="#5-图片" class="headerlink" title="5.图片"></a>5.图片</h2><p>先把图片保存到文件夹，然后输入![]（） 括号里在加上一个英文句号，然后就可以选择照片</p>
+<h2 id="6-插入公式"><a href="#6-插入公式" class="headerlink" title="6.插入公式"></a>6.插入公式</h2><ol>
+<li>用$$括起来即可</li>
+<li>markdown all in one可以提供自动补全(怎么失效了┭┮﹏┭┮)</li>
+<li>文字中插入公式：ctrl+m<br>注意在第一个美元符号前加空格，以保证兼容性</li>
+<li>如果按两下ctrl+m，那就是单独一段的公式</li>
+</ol>
+<h2 id="7-表格"><a href="#7-表格" class="headerlink" title="7.表格"></a>7.表格</h2><ol>
+<li>表格第一行代表标头</li>
+<li>用  |   隔开</li>
+<li>表头下面需要加上一行—-|—-|—-</li>
+<li>表格默认左对齐，—-:右对齐，:—-:居中对齐</li>
+<li>alt+shift+f 格式化，使表格在文本中变得好看一点</li>
+</ol>
+<h2 id="8-链接"><a href="#8-链接" class="headerlink" title="8.链接"></a>8.链接</h2><ol>
+<li>把链接复制之后ctrl+v到选中的文字（安装扩展后）</li>
+</ol>
+<h2 id="9-代码块"><a href="#9-代码块" class="headerlink" title="9.代码块"></a>9.代码块</h2><ol>
+<li>一对```</li>
+<li>后面加上使用的编程语言名称即可实现高亮</li>
+</ol>
+<h2 id="10-导出为pdf"><a href="#10-导出为pdf" class="headerlink" title="10.导出为pdf"></a>10.导出为pdf</h2><p>按此方法能保证公式渲染正确</p>
+<h2 id="11-其他语法"><a href="#11-其他语法" class="headerlink" title="11.其他语法"></a>11.其他语法</h2><p>这里是<a href="https://markdown.com.cn/basic-syntax/">链接</a><br>如果latex公式出现问题，请访问此<a href="https://rickliu.com/posts/f9538327001b/index.html">链接</a></p>
+<blockquote>
+<p>最后来张图片~<br><img src="/img/Yojiro.jpg" alt=""></p>
+</blockquote>
 ]]></content>
       <categories>
         <category>傻瓜1号</category>
