@@ -1,41 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>向量化</title>
-    <url>/2025/08/10/%E5%90%91%E9%87%8F%E5%8C%96/</url>
-    <content><![CDATA[<h2 id="向量化"><a href="#向量化" class="headerlink" title="向量化"></a>向量化</h2><ol>
-<li>通过编程环境内置的或者说易于获取的线性代数库，而不是自己去编写，可以大大加快运行速度(尤其是在特征量非常大的时候)，并且更加有效利用计算机的并行硬件系统</li>
-<li>代码更少，出错概率小!<br><img src="/img/ML/p2.png" alt=""><br><img src="/img/ML/p3.png" alt=""></li>
-</ol>
-]]></content>
-      <categories>
-        <category>傻瓜1号</category>
-        <category>傻瓜2号</category>
-      </categories>
-      <tags>
-        <tag>博客</tag>
-        <tag>傻瓜</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>正规方程补充</title>
-    <url>/2025/08/09/%E6%AD%A3%E8%A7%84%E6%96%B9%E7%A8%8B%E8%A1%A5%E5%85%85/</url>
-    <content><![CDATA[<h2 id="正规方程在矩阵不可逆-奇异矩阵-的情况下的解决办法"><a href="#正规方程在矩阵不可逆-奇异矩阵-的情况下的解决办法" class="headerlink" title="正规方程在矩阵不可逆(奇异矩阵)的情况下的解决办法"></a>正规方程在矩阵不可逆(奇异矩阵)的情况下的解决办法</h2><p> 首先呢，这种情况极少数发生，而且即使发生了，如果用octave中的pinv，如果不可逆也能求出伪逆<br><img src="/img/ML/p1.png" alt=""></p>
-<h3 id="为什么-X-TX-会出现不可逆的情况？"><a href="#为什么-X-TX-会出现不可逆的情况？" class="headerlink" title="为什么$X^TX$会出现不可逆的情况？"></a>为什么$X^TX$会出现不可逆的情况？</h3><ol>
-<li>包含了多余的特征，比如一个以米为单位，另一个以英尺为单位，线性相关</li>
-<li>运行的算法的特征太多了($m\le n$)<br>在此情况下，我们通常要删掉一些特征或者使用<strong>正则化</strong></li>
-</ol>
-]]></content>
-      <categories>
-        <category>傻瓜1号</category>
-        <category>傻瓜2号</category>
-      </categories>
-      <tags>
-        <tag>博客</tag>
-        <tag>傻瓜</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>markdown基本使用方法</title>
     <url>/2025/08/01/markdown%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</url>
     <content><![CDATA[<h1 id="Markdown基本用法"><a href="#Markdown基本用法" class="headerlink" title="Markdown基本用法"></a>Markdown基本用法</h1><h2 id="1-标题"><a href="#1-标题" class="headerlink" title="1.标题"></a>1.标题</h2><p>井号的个数表示不同级的标题</p>
@@ -83,6 +48,84 @@
 <blockquote>
 <p>最后来张图片~<br><img src="/img/Yojiro.jpg" alt=""></p>
 </blockquote>
+]]></content>
+      <categories>
+        <category>傻瓜1号</category>
+        <category>傻瓜2号</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>傻瓜</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>向量化</title>
+    <url>/2025/08/10/%E5%90%91%E9%87%8F%E5%8C%96/</url>
+    <content><![CDATA[<h2 id="向量化"><a href="#向量化" class="headerlink" title="向量化"></a>向量化</h2><ol>
+<li>通过编程环境内置的或者说易于获取的线性代数库，而不是自己去编写，可以大大加快运行速度(尤其是在特征量非常大的时候)，并且更加有效利用计算机的并行硬件系统</li>
+<li>代码更少，出错概率小!<br><img src="/img/ML/p2.png" alt=""><br><img src="/img/ML/p3.png" alt=""></li>
+</ol>
+]]></content>
+      <categories>
+        <category>傻瓜1号</category>
+        <category>傻瓜2号</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>傻瓜</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>正规方程补充</title>
+    <url>/2025/08/09/%E6%AD%A3%E8%A7%84%E6%96%B9%E7%A8%8B%E8%A1%A5%E5%85%85/</url>
+    <content><![CDATA[<h2 id="正规方程在矩阵不可逆-奇异矩阵-的情况下的解决办法"><a href="#正规方程在矩阵不可逆-奇异矩阵-的情况下的解决办法" class="headerlink" title="正规方程在矩阵不可逆(奇异矩阵)的情况下的解决办法"></a>正规方程在矩阵不可逆(奇异矩阵)的情况下的解决办法</h2><p> 首先呢，这种情况极少数发生，而且即使发生了，如果用octave中的pinv，如果不可逆也能求出伪逆<br><img src="/img/ML/p1.png" alt=""></p>
+<h3 id="为什么-X-TX-会出现不可逆的情况？"><a href="#为什么-X-TX-会出现不可逆的情况？" class="headerlink" title="为什么$X^TX$会出现不可逆的情况？"></a>为什么$X^TX$会出现不可逆的情况？</h3><ol>
+<li>包含了多余的特征，比如一个以米为单位，另一个以英尺为单位，线性相关</li>
+<li>运行的算法的特征太多了($m\le n$)<br>在此情况下，我们通常要删掉一些特征或者使用<strong>正则化</strong></li>
+</ol>
+]]></content>
+      <categories>
+        <category>傻瓜1号</category>
+        <category>傻瓜2号</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>傻瓜</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>分类问题</title>
+    <url>/2025/08/10/%E5%88%86%E7%B1%BB%E9%97%AE%E9%A2%98/</url>
+    <content><![CDATA[<h2 id="分类问题"><a href="#分类问题" class="headerlink" title="分类问题"></a>分类问题</h2><h3 id="基本介绍"><a href="#基本介绍" class="headerlink" title="基本介绍"></a>基本介绍</h3><p>要预测的变量y是一个离散值</p>
+<ol>
+<li><p>正类/负类</p>
+<p>一般来说，负类表示没有某样东西</p>
+</li>
+<li><p>不推荐将线性回归用于分类问题</p>
+</li>
+</ol>
+<hr>
+<p>对于标签y为离散值0或1，我们使用分类算法——<strong>logistic回归算法</strong>  </p>
+<p>特点是算法的输出或者说预测值一直介于0和1之间，不会大于1或者小于0</p>
+<p>还有，虽然名字中带有“回归”二字，但是它是一种分类算法，叫做这个只是因为历史原因<br><img src="/img/ML/p4.png" alt=""></p>
+<hr>
+<h3 id="logistic回归"><a href="#logistic回归" class="headerlink" title="logistic回归"></a>logistic回归</h3><h4 id="part-1-假设函数的表示方法"><a href="#part-1-假设函数的表示方法" class="headerlink" title="part 1 假设函数的表示方法"></a>part 1 假设函数的表示方法</h4><p><img src="/img/ML/p5.png" alt=""><br><img src="/img/ML/p6.png" alt=""><br>假设函数解读：给定参数 $\theta$,对具有 $x$特征的病人， $y=1$的概率</p>
+<h4 id="part-2-决策边界的概念"><a href="#part-2-决策边界的概念" class="headerlink" title="part 2 决策边界的概念"></a>part 2 决策边界的概念</h4><p><em>假设函数是如何做出预测的</em><br><img src="/img/ML/p7.png" alt=""></p>
+<p><em>决策边界例子</em><br><img src="/img/ML/p8.png" alt=""><br><img src="/img/ML/p9.png" alt=""><br>注意，决策边界是假设函数的一个属性，由参数 $\theta$决定，<strong>它不是数据集的属性！</strong></p>
+<h4 id="part-3-如何拟合logistic回归模型的参数-theta"><a href="#part-3-如何拟合logistic回归模型的参数-theta" class="headerlink" title="part 3 如何拟合logistic回归模型的参数 $\theta$"></a>part 3 如何拟合logistic回归模型的参数 $\theta$</h4><ol>
+<li><p>代价函数<br><img src="/img/ML/p10.png" alt=""><br><em>保证是凸函数</em></p>
+</li>
+<li><p>找出使J($\theta$)最小的 $\theta$</p>
+<p>我们要知道，假设的输出实际上就是在输入为$x$，并且以 $\theta$为参数时使 $y=1$的概率，</p>
+<p>最小化代价函数的方法是——<strong>梯度下降法</strong><br><img src="/img/ML/p11.png" alt=""></p>
+<p>如果有n个特征，那就有一个 $(n+1)$维参数向量 $\theta$。通过上面那个式子来同时更新所有 $\theta$的值（从0到n）</p>
+<p>注意别把此处的更新规则与线性回归的混为一谈，二者看似形式一样，但是此处的假设函数 $h(\theta)$的定义已经发生了变化<br><img src="/img/ML/p12.png" alt=""></p>
+<p>拓：不要用for循环实现参数更新，效率太低，用向量化来实现把n+1个参数同时更新</p>
+</li>
+</ol>
+<h4 id="part-4-多类别分类问题"><a href="#part-4-多类别分类问题" class="headerlink" title="part 4 多类别分类问题"></a>part 4 多类别分类问题</h4><p><strong>通过“一对多”的分类算法实现</strong></p>
+<p>比如说这个例子，我们要将训练集转化为三个独立的二元分类问题<br><img src="/img/ML/p13.png" alt=""></p>
+<p>在三个分类器中运行输入x，然后选择 $h$最大的类别作为预测值</p>
 ]]></content>
       <categories>
         <category>傻瓜1号</category>
