@@ -1,201 +1,517 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>8.31</title>
-      <link href="/2025/08/31/8.31/"/>
-      <url>/2025/08/31/8.31/</url>
-      
-        <content type="html"><![CDATA[<h2 id="8-31"><a href="#8-31" class="headerlink" title="8.31"></a>8.31</h2>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>8.31</title>
+    <url>/2025/08/31/8.31/</url>
+    <content><![CDATA[<h2 id="8-31"><a href="#8-31" class="headerlink" title="8.31"></a>8.31</h2>]]></content>
       <categories>
-          
-          <category> 日记 </category>
-          
+        <category>日记</category>
       </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>本科生科研CV</title>
-      <link href="/2025/08/30/%E6%9C%AC%E7%A7%91%E7%94%9F%E7%A7%91%E7%A0%94CV/"/>
-      <url>/2025/08/30/%E6%9C%AC%E7%A7%91%E7%94%9F%E7%A7%91%E7%A0%94CV/</url>
-      
-        <content type="html"><![CDATA[<h2 id="本科生科研CV"><a href="#本科生科研CV" class="headerlink" title="本科生科研CV"></a>本科生科研CV</h2><ol><li>不要超过一页，word文档一面就行</li><li>东西要写的简单</li><li>从你做的最好的然后一个一个往下写(显得自信，厉害)</li><li>照片弄得好看一点</li><li>说明自己时间充足</li></ol>]]></content>
-      
-      
+  </entry>
+  <entry>
+    <title>markdown基本使用方法</title>
+    <url>/2025/08/01/markdown%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</url>
+    <content><![CDATA[<h1 id="Markdown基本用法"><a href="#Markdown基本用法" class="headerlink" title="Markdown基本用法"></a>Markdown基本用法</h1><h2 id="1-标题"><a href="#1-标题" class="headerlink" title="1.标题"></a>1.标题</h2><p>井号的个数表示不同级的标题</p>
+<h2 id="2-换行"><a href="#2-换行" class="headerlink" title="2.换行"></a>2.换行</h2><ol>
+<li>换行注意要加两个空格，不然怕在其他渲染器里失效</li>
+<li>如果中间空一行，那就是新起一段</li>
+</ol>
+<h2 id="3-强调（加粗和斜体）"><a href="#3-强调（加粗和斜体）" class="headerlink" title="3.强调（加粗和斜体）"></a>3.强调（加粗和斜体）</h2><ol>
+<li>加粗：左右各加两个*</li>
+<li>斜体：左右各加一个*</li>
+<li>快捷键（前提安装了扩展）<ol>
+<li>斜体：ctrl+i</li>
+<li>加粗：ctrl+b</li>
+</ol>
+</li>
+</ol>
+<h2 id="4-列表"><a href="#4-列表" class="headerlink" title="4.列表"></a>4.列表</h2><ol>
+<li>tab键可以继续缩进列表</li>
+<li>列表编号你自己写的数字不用在意，系统会自动渲染成正确的顺序</li>
+<li>如果要重新从1开始哦编号，只需要在两个列表之间加一个段落就行</li>
+</ol>
+<h2 id="5-图片"><a href="#5-图片" class="headerlink" title="5.图片"></a>5.图片</h2><p>先把图片保存到文件夹，然后输入![]（） 括号里在加上一个英文句号，然后就可以选择照片</p>
+<h2 id="6-插入公式"><a href="#6-插入公式" class="headerlink" title="6.插入公式"></a>6.插入公式</h2><ol>
+<li>用$$括起来即可</li>
+<li>markdown all in one可以提供自动补全(怎么失效了┭┮﹏┭┮)</li>
+<li>文字中插入公式：ctrl+m<br>注意在第一个美元符号前加空格，以保证兼容性</li>
+<li>如果按两下ctrl+m，那就是单独一段的公式</li>
+</ol>
+<h2 id="7-表格"><a href="#7-表格" class="headerlink" title="7.表格"></a>7.表格</h2><ol>
+<li>表格第一行代表标头</li>
+<li>用  |   隔开</li>
+<li>表头下面需要加上一行—-|—-|—-</li>
+<li>表格默认左对齐，—-:右对齐，:—-:居中对齐</li>
+<li>alt+shift+f 格式化，使表格在文本中变得好看一点</li>
+</ol>
+<h2 id="8-链接"><a href="#8-链接" class="headerlink" title="8.链接"></a>8.链接</h2><ol>
+<li>把链接复制之后ctrl+v到选中的文字（安装扩展后）</li>
+</ol>
+<h2 id="9-代码块"><a href="#9-代码块" class="headerlink" title="9.代码块"></a>9.代码块</h2><ol>
+<li>一对```</li>
+<li>后面加上使用的编程语言名称即可实现高亮</li>
+</ol>
+<h2 id="10-导出为pdf"><a href="#10-导出为pdf" class="headerlink" title="10.导出为pdf"></a>10.导出为pdf</h2><p>按此方法能保证公式渲染正确</p>
+<h2 id="11-其他语法"><a href="#11-其他语法" class="headerlink" title="11.其他语法"></a>11.其他语法</h2><p>这里是<a href="https://markdown.com.cn/basic-syntax/">链接</a><br>如果latex公式出现问题，请访问此<a href="https://rickliu.com/posts/f9538327001b/index.html">链接</a></p>
+<blockquote>
+<p>最后来张图片~<br><img src="/img/Yojiro.jpg" alt=""></p>
+</blockquote>
+]]></content>
       <categories>
-          
-          <category> 科研 </category>
-          
+        <category>工具使用教程</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 简历 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>知识点积累</title>
-      <link href="/2025/08/17/%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92%E4%BD%9C%E4%B8%9A/"/>
-      <url>/2025/08/17/%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92%E4%BD%9C%E4%B8%9A/</url>
-      
-        <content type="html"><![CDATA[<p><img src="/img/ML/p36.png" alt=""></p><h3 id="1-线性回归与逻辑回归里的假设函数和代价函数向量化是咋实现的啊┭┮﹏┭┮"><a href="#1-线性回归与逻辑回归里的假设函数和代价函数向量化是咋实现的啊┭┮﹏┭┮" class="headerlink" title="1.线性回归与逻辑回归里的假设函数和代价函数向量化是咋实现的啊┭┮﹏┭┮"></a>1.线性回归与逻辑回归里的假设函数和代价函数向量化是咋实现的啊┭┮﹏┭┮</h3><h3 id="2-那逻辑回归中梯度下降函数的向量化呢"><a href="#2-那逻辑回归中梯度下降函数的向量化呢" class="headerlink" title="2.那逻辑回归中梯度下降函数的向量化呢"></a>2.那逻辑回归中梯度下降函数的向量化呢</h3><h3 id="3-fig-ax-plt-subplots-后面的式子看不懂"><a href="#3-fig-ax-plt-subplots-后面的式子看不懂" class="headerlink" title="3.fig,ax=plt.subplots()后面的式子看不懂"></a>3.fig,ax=plt.subplots()后面的式子看不懂</h3><h3 id="4-data为啥可以用两个"><a href="#4-data为啥可以用两个" class="headerlink" title="4.data为啥可以用两个[]"></a>4.data为啥可以用两个[]</h3><p><img src="/img/ML/p37.png" alt=""></p><p><img src="/img/ML/p38.png" alt=""></p>]]></content>
-      
-      
+      <tags>
+        <tag>markdown</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>三、pytorch加载数据初认识</title>
+    <url>/2025/08/31/pytorch%E5%8A%A0%E8%BD%BD%E6%95%B0%E6%8D%AE%E5%88%9D%E8%AE%A4%E8%AF%86/</url>
+    <content><![CDATA[]]></content>
       <categories>
-          
-          <category> 机器学习 </category>
-          
+        <category>深度学习入门</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 作业 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>神经网络</title>
-      <link href="/2025/08/16/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
-      <url>/2025/08/16/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/</url>
-      
-        <content type="html"><![CDATA[<h2 id="神经网络"><a href="#神经网络" class="headerlink" title="神经网络"></a>神经网络</h2><h3 id="part-1-神经网络的基本概念"><a href="#part-1-神经网络的基本概念" class="headerlink" title="part 1 神经网络的基本概念"></a>part 1 神经网络的基本概念</h3><p>为什么已经有了线性回归和logistic回归算法，还需要研究神经网络？</p><p><strong>因为它在学习复杂的非线性假设上被证明是一种好得多的算法，即使输入特征空间或n很大，也能轻松搞定</strong></p><p><img src="/img/ML/p23.png" alt=""><br>$x_0$被称为偏置单元或偏置神经元</p><p>带有sigmoid或者logistic<strong>激活函数</strong>的人工神经元</p><p>激活函数是指非线性函数$g(z)$，$g(z)=\frac{1}{1+e^{-z}}$</p><p>$\theta$可以称为模型的参数，但在大多数文献中叫模型的<strong>权重</strong></p><p><img src="/img/ML/p24.png" alt=""><br>神经网络其实就是一组神经元连接在一起的集合</p><p>任何非输入层和非输出层，都是隐藏层</p><p><img src="/img/ML/p25.png" alt=""><br>$a^{(j)}_i$表示第j层第i个神经元或单元的<strong>激活项</strong>，激活项是指由一个具体神经元计算并输出的值</p><p>此外，我们的神经网络被这些矩阵参数化——$\theta^{(j)}$，即权重矩阵。它控制从某一层到下一层的映射</p><p>在此图，$\theta^{(1)}$就是控制着从三个输入单元到三个隐藏单元的映射的参数矩阵，它是一个3*4矩阵<br><img src="/img/ML/p26.png" alt=""></p><p>最后在输出层我们还有一个单元，它计算h(x),也可以写成$a^{(3)}_1$</p><p><strong>总结一下</strong>，我们讲解了这样一张图是如何定义一个人工神经网络的。其中的神经网络定义了函数h从输入x到输出y的映射。这些假设被参数化，记作$\Theta$，这样一来，改变$\Theta$就能得到不同的假设</p><h3 id="part-2-神经网络的具体实现"><a href="#part-2-神经网络的具体实现" class="headerlink" title="part 2 神经网络的具体实现"></a>part 2 神经网络的具体实现</h3><p>a和z的上标表示这些值与哪一层有关</p><p>这些z的值都是神经元输入值的加权线性组合(所谓加权，其实就是这些系数不是随便取，而是有特殊意义，常常被叫做“权重”。权重大，就影响大，权重小，就影响小<br>。。。。。哎呀就是x的系数是权重啦)</p><p><strong>前向传播：我们从输入单元的激活项开始，然后向前传播给隐藏层，计算隐藏层的激活项，然后我们继续前向传播，并计算输出层的激活项。这个依次计算激活项，从输入层到隐藏层再到输出层的过程叫前向传播</strong></p><p><img src="/img/ML/p27.png" alt=""></p><p>这张图推导出的是向前传播的向量化实现方法</p><p><a href="https://www.bilibili.com/video/BV164411b7dx?t=200.1&amp;p=46">图没看懂就点这个，精准空降</a></p><h3 id="part-3-前向传播如何帮助我们了解神经网络的作用和它为什么能帮助我们学习有趣的非线性假设函数"><a href="#part-3-前向传播如何帮助我们了解神经网络的作用和它为什么能帮助我们学习有趣的非线性假设函数" class="headerlink" title="part 3 前向传播如何帮助我们了解神经网络的作用和它为什么能帮助我们学习有趣的非线性假设函数"></a>part 3 前向传播如何帮助我们了解神经网络的作用和它为什么能帮助我们学习有趣的非线性假设函数</h3><h4 id="基础概念"><a href="#基础概念" class="headerlink" title="基础概念"></a>基础概念</h4><p><img src="/img/ML/p28.png" alt=""></p><p>把x遮住，你会发现它的形式与逻辑回归一样。区别在于，输入项由x变成a，这就带来了极大地可操作性，因为由x到a的参数可以自己设计。</p><p><img src="/img/ML/p29.png" alt=""><br>神经网络中神经元的连接方式被称为神经网络的<strong>架构</strong></p><h4 id="具体例子"><a href="#具体例子" class="headerlink" title="具体例子"></a>具体例子</h4><p><img src="/img/ML/p30.png" alt=""><br>我们想做的是学习一个非线性的判断边界来区分正样本和负样本</p><p>具体来说，我们需要计算目标函数，如图<br><img src="/img/ML/p31.png" alt=""></p><p>我们如何构建一个神经网络来拟合这样的训练集(XNOR)呢</p><h5 id="基础"><a href="#基础" class="headerlink" title="基础"></a>基础</h5><p>我们先从能够拟合AND运算的网络入手(只含单个神经元)<br><img src="/img/ML/p32.png" alt=""></p><p>首先我们要加一个偏置单元(+1单元)，然后对偏重/参数进行赋值</p><p>通过写出真值表，我们就能弄清楚逻辑函数的取值是怎样的</p><p>逻辑或同理<br><img src="/img/ML/p33.png" alt=""></p><h5 id="进阶"><a href="#进阶" class="headerlink" title="进阶"></a>进阶</h5><p>实现逻辑非运算，大体思想就是在预期得到非结果的变量前面放一个很大的<strong>负权重</strong><br><img src="/img/ML/p34.png" alt=""></p><h5 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h5><p>为啥神经网络可以计算这种复杂的函数呢？</p><p>我们的输入都放在输入层，然后在中间放一个隐藏层，用来计算一些关于输入的略微复杂的功能，然后再继续增加一层，用于计算一个更复杂的非线性函数</p><p>当神经网络有很多层时，在第二层中有一些关于输入的相对简单的函数，第三层又在此基础上计算更加复杂的方程，再往后一层，计算的函数越来越复杂</p><h3 id="part-4-如何利用神经网络解决多类别分类问题"><a href="#part-4-如何利用神经网络解决多类别分类问题" class="headerlink" title="part 4 如何利用神经网络解决多类别分类问题"></a>part 4 如何利用神经网络解决多类别分类问题</h3><p>采用的方法本质上是<strong>一对多法的拓展</strong></p><p><img src="/img/ML/p34.png" alt=""><br>我们要做的是建立一个有四个输出单元的神经网络，现在神经网络的输出将是一个四维的向量</p><p>这其实就像一对多法，现在可以说我们有4个逻辑回归分类器，它们每一个都将识别图片中的物体是否是它那一种</p><p>$y^{（i）}$</p><p>每一个训练样本都由($x^{（i）}，y^{（i）}$)组成。其中$x^{（i）}$就是四种物体其中一种的图像，而$y^{（i）}$就是这些向量中的一个</p><p>我们希望找到一个办法，让神经网络的输出值$h_\Theta(x^{(i)})$约等于$y^{(i)}$，并且它俩在该例子中都是四维向量，分别代表四种不同的类别</p><h3 id="part-5-神经网络的代价函数"><a href="#part-5-神经网络的代价函数" class="headerlink" title="part 5 神经网络的代价函数"></a>part 5 神经网络的代价函数</h3><p><img src="/img/ML/p39.png" alt=""><br><img src="/img/ML/p40.png" alt=""><br>正则化那一项不包括i=0，因为i=0的都是偏置项的参数</p><h3 id="part-6-反向传播算法"><a href="#part-6-反向传播算法" class="headerlink" title="part 6 反向传播算法"></a>part 6 反向传播算法</h3><p><img src="/img/ML/p41.png" alt=""><br>我们需要计算need那里面的两个，j我们可以通过上面的公式来求，重点是计算偏导项(参数的偏导数)</p><p><img src="/img/ML/p42.png" alt=""><br>通过把前向传播算法向量化，我们得到了神经网络结构里的每一个神经元的<strong>激活值</strong></p><p>接下来，为了计算偏导项，我们采用<strong>反向传播算法</strong></p><p><img src="/img/ML/p43.png" alt=""><br>反向传播算法从直观上说，就是对每一个结点计算这样一项$\delta^{(l)}_j$,代表第l层的第j个结点的误差</p><p>注意理解$g’$，指的是对激活函数g在输入值为$z(3)$的时候所求的导数。得到的结果就是右边那个a一堆</p><p>没有$\delta^{(0)}$，因为是输入层，不存在误差</p><p><img src="/img/ML/p44.png" alt=""><br>$\Delta^{(l)}$是一个矩阵，不是一个列向量！！！你自己想一下嘛。对了，它叫梯度累加器</p><p>最后求D的时候除以m是因为求平均值</p><p><img src="/img/ML/p45.png" alt=""><br><img src="/img/ML/p46.png" alt=""></p><p>对比一下前向传播和反向传播，其实非常相似。要注意的是，反向传播求$\delta$时注意不要加上偏置单元，没有用，永远都是1</p><h4 id="展开参数"><a href="#展开参数" class="headerlink" title="展开参数"></a>展开参数</h4><p>高级优化算法假定$\theta$是参数向量，假定梯度值也为向量。</p><p>然而在神经网络里，参数是矩阵，梯度值也是矩阵，因此要通过thetaVec转化为长向量<br><img src="/img/ML/p47.png" alt=""><br>过程详情图</p><h4 id="梯度检测"><a href="#梯度检测" class="headerlink" title="梯度检测"></a>梯度检测</h4><p><img src="/img/ML/p48.png" alt=""><br><img src="/img/ML/p49.png" alt=""><br><img src="/img/ML/p50.png" alt=""><br><img src="/img/ML/p51.png" alt=""><br>在训练之前要关掉梯度检验，不然会严重拖慢运行速度</p><h4 id="随机初始化"><a href="#随机初始化" class="headerlink" title="随机初始化"></a>随机初始化</h4><p><img src="/img/ML/p52.png" alt=""></p><p>逻辑回归当中我们是把参数全初始化为0，但是在神经网络中如果把参数全部初始化为0，那么不管进行多少次迭代，参数都相等，所有的隐藏单元都以相同的函数作为输入。这是一种高度冗余的现象，阻止了神经网络去学习任何有趣的东西。</p><p>因此，在神经网络问题当中有必要进行<strong>随机初始化</strong></p><p><img src="/img/ML/p53.png" alt=""><br>我们刚才碰到的这种问题叫做<strong>对称权重问题</strong>，也就是所有的权重都是一样的，随机初始化用来解决这一问题</p><p>对每一个$\theta$值，我们将其初始化为一个范围在$[-\epsilon,+\epsilon]$的随机值</p><p>rand(10,11)会生成一个值都介于0到1之间的10x11随机矩阵</p><p>总而言之，为了训练神经网络，应首先要将权重随机初始化为一个接近0的范围在$[-\epsilon,+\epsilon]$的数，然后进行反向传播，再进行梯度检验，最后使用梯度下降或者其他高级优化算法来最小化代价函数J</p><p>上面的表述有些问题，看看ai studio给的正确解答</p><p>您这个问题问得实在是太好了！您的总结已经非常接近正确答案了，但其中有一个非常关键的、也是最容易让初学者混淆的<strong>顺序问题</strong>。</p><p>您问的“那啥时候前向传播啊”，正好就打在了这个问题的七寸上。</p><p>您的总结顺序是：<code>初始化 → 反向传播 → 梯度检验 → 梯度下降</code>。<br><strong>这个顺序是不对的。</strong></p><p>让我们来梳理一下正确、清晰的完整流程。这个流程分为两个阶段：</p><ol><li><strong>开发与检验阶段 (一次性工作)</strong></li><li><strong>训练阶段 (成千上万次循环)</strong></li></ol><hr><h3 id="正确的流程"><a href="#正确的流程" class="headerlink" title="正确的流程"></a>正确的流程</h3><h4 id="阶段一：开发与检验-在你写代码时，只做一次"><a href="#阶段一：开发与检验-在你写代码时，只做一次" class="headerlink" title="阶段一：开发与检验 (在你写代码时，只做一次)"></a>阶段一：开发与检验 (在你写代码时，只做一次)</h4><p>这个阶段的目标是：<strong>确保你写的反向传播算法是100%正确的。</strong></p><ol><li><p><strong>编码实现</strong>：</p><ul><li>实现<strong>前向传播</strong>函数：输入数据和权重，输出预测值和成本 $J$。</li><li>实现<strong>反向传播</strong>函数：利用前向传播过程中的中间结果，计算出梯度矩阵 $D^{(1)}, D^{(2)}, …$。</li></ul></li><li><p><strong>进行梯度检验 (Gradient Checking)</strong>：</p><ul><li><strong>目的</strong>：验证你写的反向传播对不对。</li><li><strong>做法</strong>：<br>a. 使用我们之前讨论的<strong>数值近似方法</strong>（那个“向前走一步，向后走一步”的慢方法）计算出一个“标准答案”梯度 <code>grad_numerical</code>。<br>b. 调用你写的<strong>反向传播函数</strong>，得到一个“你的答案”梯度 <code>grad_backprop</code>。<br>c. <strong>对比</strong>这两个梯度向量。如果它们几乎完全相等，恭喜你，你的代码写对了！</li></ul></li><li><p><strong>关闭梯度检验</strong>：</p><ul><li>一旦你确认了你的反向传播代码是正确的，<strong>就必须把梯度检验功能关掉！</strong> 否则，你的训练会慢到无法忍受。</li></ul></li></ol><h4 id="阶段二：训练-在你确认代码无误后，反复执行"><a href="#阶段二：训练-在你确认代码无误后，反复执行" class="headerlink" title="阶段二：训练 (在你确认代码无误后，反复执行)"></a>阶段二：训练 (在你确认代码无误后，反复执行)</h4><p>这个阶段的目标是：<strong>利用你已经验证过的代码，真正地去学习和优化参数。</strong> 这就是梯度下降（或高级优化算法）发挥作用的地方，它是一个<strong>循环</strong>。</p><p><strong>现在，我们来回答您最核心的问题：“啥时候前向传播？”</strong></p><ol><li><p><strong>第0步：初始化</strong></p><ul><li>将权重 $\Theta$ 随机初始化为接近0的小数。<strong>(这一步只在循环开始前做一次)</strong></li></ul></li><li><p><strong>开始训练循环 (例如，循环1000次)</strong></p><ul><li><p><strong>第1步：前向传播 (Forward Propagation) - 答案在这里！</strong></p><ul><li><strong>目的</strong>：根据<strong>当前</strong>的权重 $\Theta$，计算出网络对训练数据的预测值。</li><li><strong>过程</strong>：将一批训练数据输入网络，从第一层开始，逐层向后计算，直到得到最后一层的输出。</li><li><strong>这是每一次迭代中，必须做的第一件事！</strong> 就像下山前，你必须先知道自己当前所在位置的海拔。</li></ul></li><li><p><strong>第2步：计算代价函数 (Cost Function)</strong></p><ul><li><strong>目的</strong>：评估当前预测的好坏。</li><li><strong>过程</strong>：将<strong>前向传播</strong>得到的预测值与真实标签进行比较，计算出成本 $J(\Theta)$。</li></ul></li><li><p><strong>第3步：反向传播 (Backpropagation)</strong></p><ul><li><strong>目的</strong>：计算梯度，即“下山地图”。</li><li><strong>过程</strong>：从刚刚计算出的成本（误差）出发，从后向前逐层计算代价函数对<strong>每一层权重</strong>的偏导数（梯度）。<strong>这一步严重依赖前向传播过程中产生的中间值</strong> (比如每一层的激活值 $a^{(l)}$ 和加权输入 $z^{(l)}$)。</li></ul></li><li><p><strong>第4步：更新权重 (Weight Update)</strong></p><ul><li><strong>目的</strong>：朝着山谷最低点迈出一步。</li><li><strong>过程</strong>：使用<strong>梯度下降</strong>或<strong>高级优化算法</strong>，根据<strong>反向传播</strong>计算出的梯度，来更新权重 $\Theta$。</li><li>例如，梯度下降：$\Theta := \Theta - \alpha \cdot (\text{梯度})$</li></ul></li></ul></li><li><p><strong>回到第1步，开始下一次循环</strong></p><ul><li>用<strong>刚刚更新过</strong>的权重，重复进行“前向传播 → 计算代价 → 反向传播 → 更新权重”这个过程，直到成本不再下降或达到设定的迭代次数。</li></ul></li></ol><h3 id="总结与修正"><a href="#总结与修正" class="headerlink" title="总结与修正"></a>总结与修正</h3><p>所以，正确的流程应该是这样的：</p><ol><li><p><strong>一次性工作</strong>：</p><ul><li><code>初始化权重</code></li><li><code>(可选，仅在开发时) 运行梯度检验，确认代码无误后关闭</code></li></ul></li><li><p><strong>核心训练循环 (反复执行)</strong>：</p><ul><li><code>For i = 1 to N:</code><ul><li><strong><code>前向传播</code></strong> (计算预测和成本)</li><li><strong><code>反向传播</code></strong> (计算梯度)</li><li><strong><code>更新权重</code></strong> (使用梯度下降等优化算法)</li></ul></li></ul></li></ol><p><strong>所以，前向传播不是在反向传播之前或之后的一次性步骤，而是</strong>在每一次训练迭代中，都必须执行的第一步<strong>。它们是“你唱我和”的搭档，在每一次迭代中都紧密地捆绑在一起：</strong>前向传播算结果，反向传播算原因，优化器根据原因去修正。**</p><h3 id="part-7-神经网络算法总体实现过程"><a href="#part-7-神经网络算法总体实现过程" class="headerlink" title="part 7 神经网络算法总体实现过程"></a>part 7 神经网络算法总体实现过程</h3><ol><li><p>选择网络架构</p><p>比如每一层有多少个影藏单元，以及有多少个隐藏层</p><p>那么该如何选择呢？</p><p>首先我们由训练集就可以知道输入单元的个数了，输出单元的数量同理<br><img src="/img/ML/p54.png" alt=""><br><strong>注意</strong>，如果你的多元分类问题y的取值范围是在1到10之间，记得把输出y重新写成向量的形式，如图，我们把第一类重新写成这种形式的向量，第二个也是</p><p>如果其中一个样本被分到第五类，也就是y=5，那么在神经网络中就不能直接用数值5来表达，而是用一个向量来表达，这个向量的第五个位置值是1，其他都是0</p></li></ol><p>   <strong>那么对于隐藏层的数目和隐藏单元的个数呢?</strong></p><p>   一个合理的默认选项是只使用单个隐藏层，如果使用的不止一个的话，同样也有一个合理的默认选项，那就是每一个隐藏层通常都应有相同的单元数</p><p>   通常情况下，隐藏单元越多越好</p><ol><li><p>训练神经网络需要实现的步骤</p><ol><li>构建神经网络然后随机初始化权重</li><li>执行前向传播算法</li><li>计算出代价函数$J(\theta)$</li><li><p>执行反向传播算法<br><img src="/img/ML/p55.png" alt=""><br>具体来讲，我们对所有的m个训练样本使用for循环遍历，在这个for循环里，我们对这个样本进行前向和反向算法，这样就可以得到神经网络每一层中每一个单元对应的激励值和$\delta$项</p><p>接下来还是在for循环，我们要计算出$\Delta^{(l)}$</p><p>然后在循环外，我们将计算出J对参数的偏导数项，记得还要把正则化项lambda值考虑在内</p></li><li><p>梯度检查</p><p>  以保证我们的反向传播算法得到的结果是正确的</p></li><li><p>停用梯度检查</p></li><li><p>使用一个最优化算法，比如说梯度下降法或者更高级的优化算法，将这些优化算法和反向传播算法相结合。顺带一提，对于神经网络，代价函数是一个非凸函数，因此理论上可能停留在局部最小值，但影响不大，效果还是蛮好的</p></li></ol></li></ol>]]></content>
-      
-      
+      <tags>
+        <tag>python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>二、pycharm与jupyter使用与对比</title>
+    <url>/2025/08/31/pycharm%E4%B8%8Ejupyter%E4%BD%BF%E7%94%A8%E4%B8%8E%E5%AF%B9%E6%AF%94/</url>
+    <content><![CDATA[<p> 我不用pycharm，它的两种方法与vscode一样的<br> jupyter notebook的话，先打开Anaconda Prompt,然后输入如图所示代码<br> <img src="/img/pyt_beg/p3.png" alt=""></p>
+<p> 三者优缺点：<br>  <img src="/img/pyt_beg/p4.png" alt=""></p>
+]]></content>
       <categories>
-          
-          <category> 机器学习 </category>
-          
+        <category>深度学习入门</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 神经网络 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类问题</title>
-      <link href="/2025/08/10/%E5%88%86%E7%B1%BB%E9%97%AE%E9%A2%98/"/>
-      <url>/2025/08/10/%E5%88%86%E7%B1%BB%E9%97%AE%E9%A2%98/</url>
-      
-        <content type="html"><![CDATA[<h2 id="分类问题"><a href="#分类问题" class="headerlink" title="分类问题"></a>分类问题</h2><h3 id="基本介绍"><a href="#基本介绍" class="headerlink" title="基本介绍"></a>基本介绍</h3><p>要预测的变量y是一个离散值</p><ol><li><p>正类/负类</p><p>一般来说，负类表示没有某样东西</p></li><li><p>不推荐将线性回归用于分类问题</p></li></ol><hr><p>对于标签y为离散值0或1，我们使用分类算法——<strong>logistic回归算法</strong>  </p><p>特点是算法的输出或者说预测值一直介于0和1之间，不会大于1或者小于0</p><p>还有，虽然名字中带有“回归”二字，但是它是一种分类算法，叫做这个只是因为历史原因<br><img src="/img/ML/p4.png" alt=""></p><hr><h3 id="logistic回归"><a href="#logistic回归" class="headerlink" title="logistic回归"></a>logistic回归</h3><h4 id="part-1-假设函数的表示方法"><a href="#part-1-假设函数的表示方法" class="headerlink" title="part 1 假设函数的表示方法"></a>part 1 假设函数的表示方法</h4><p><img src="/img/ML/p5.png" alt=""><br><img src="/img/ML/p6.png" alt=""><br>假设函数解读：给定参数 $\theta$,对具有 $x$特征的病人， $y=1$的概率</p><h4 id="part-2-决策边界的概念"><a href="#part-2-决策边界的概念" class="headerlink" title="part 2 决策边界的概念"></a>part 2 决策边界的概念</h4><p><em>假设函数是如何做出预测的</em><br><img src="/img/ML/p7.png" alt=""></p><p><em>决策边界例子</em><br><img src="/img/ML/p8.png" alt=""><br><img src="/img/ML/p9.png" alt=""><br>注意，决策边界是假设函数的一个属性，由参数 $\theta$决定，<strong>它不是数据集的属性！</strong></p><h4 id="part-3-如何拟合logistic回归模型的参数-theta"><a href="#part-3-如何拟合logistic回归模型的参数-theta" class="headerlink" title="part 3 如何拟合logistic回归模型的参数 $\theta$"></a>part 3 如何拟合logistic回归模型的参数 $\theta$</h4><ol><li><p>代价函数<br><img src="/img/ML/p10.png" alt=""><br><em>保证是凸函数</em></p></li><li><p>找出使J($\theta$)最小的 $\theta$</p><p>我们要知道，假设的输出实际上就是在输入为$x$，并且以 $\theta$为参数时使 $y=1$的概率，</p><p>最小化代价函数的方法是——<strong>梯度下降法</strong><br><img src="/img/ML/p11.png" alt=""></p><p>如果有n个特征，那就有一个 $(n+1)$维参数向量 $\theta$。通过上面那个式子来同时更新所有 $\theta$的值（从0到n）</p><p>注意别把此处的更新规则与线性回归的混为一谈，二者看似形式一样，但是此处的假设函数 $h(\theta)$的定义已经发生了变化<br><img src="/img/ML/p12.png" alt=""></p><p>拓：不要用for循环实现参数更新，效率太低，用向量化来实现把n+1个参数同时更新</p></li></ol><h4 id="part-4-多类别分类问题"><a href="#part-4-多类别分类问题" class="headerlink" title="part 4 多类别分类问题"></a>part 4 多类别分类问题</h4><p><strong>通过“一对多”的分类算法实现</strong></p><p>比如说这个例子，我们要将训练集转化为三个独立的二元分类问题<br><img src="/img/ML/p13.png" alt=""></p><p>在三个分类器中运行输入x，然后选择 $h$最大的类别作为预测值</p><h4 id="part-5-过拟合问题"><a href="#part-5-过拟合问题" class="headerlink" title="part 5 过拟合问题"></a>part 5 过拟合问题</h4><p><img src="/img/ML/p14.png" alt=""><br><img src="/img/ML/p15.png" alt=""><br><img src="/img/ML/p16.png" alt=""></p><p>当我们使用一维或二维数据时，我们可以通过绘出假设模型的图像来研究问题所在，再选择合适的多项式阶数，<strong>但是这并不总是有用</strong></p><p>更多的时候，我们的学习问题需要有很多特征变量，并且这不仅仅是选择多项式阶次的问题，。当特征变量很多时，绘图变得更难，通过数据的可视化来决定保留哪些特征变量也更难</p><p>但是，如果我们有过多的变量而只有非常少的训练数据，就会出现<strong>过拟合</strong>的问题</p><p>有两个办法来解决过拟合的问题</p><p>第一个办法是尽量减少选取的变量，但不推荐！！！因为担心丢失了有用的信息</p><p>第二个才是我们主要的方法，<strong>正则化</strong></p><h4 id="part-6-正则化"><a href="#part-6-正则化" class="headerlink" title="part 6 正则化"></a>part 6 正则化</h4><p><strong>核心：我们将保留所有的特征变量，但是减少量级(或者说是参数 $\theta_j$的大小)</strong></p><p>当我们进行正则化的时候，我们还将写出相应的代价函数，关键是加入<strong>惩罚项</strong><br><img src="/img/ML/p17.png" alt=""><br>核心思想就是使参数尽量地小，以使假设模型更简单</p><p>由于在实际情况中，我们不知道到底哪些参数要缩小，所以我们要通过一个代价函数来对所有参数进行一个操作(在原来的代价函数后面添加一个新的项——<strong>正则化项</strong>，注意求和是从1开始，不从0开始)</p><p>$\lambda$被称为正则化参数，作用是控制两个不同目标之间的取舍——拟合数据与保持参数尽量地小(保持假设模型的相对简单，避免过拟合的情况)<br><img src="/img/ML/p18.png" alt=""><br><em>优化后的曲线并不是二次函数，但是却相对更平滑，更简单</em></p><p>如果$\lambda$被设得太大的话，那么对每个参数的惩罚程度就太大了，都趋近于0，最后只剩$\theta_0$，变成用一条直线去拟合数据了，这就是一个<strong>欠拟合</strong>的例子，因此，正则化参数$\lambda$的选择尤其重要，接下来我们就会讲到如何自动地选择它</p><h4 id="part-7-线性回归的正则化"><a href="#part-7-线性回归的正则化" class="headerlink" title="part 7 线性回归的正则化"></a>part 7 线性回归的正则化</h4><h5 id="算法一：梯度下降法"><a href="#算法一：梯度下降法" class="headerlink" title="算法一：梯度下降法"></a>算法一：梯度下降法</h5><p>把$\theta_0$的更新单独写出来，因为它不需要被惩罚</p><p>当我们进行正则化线性回归时，我们要做的就是每次迭代时，都将$\theta_j$乘以一个比1略小的数。从数学的角度来看，我们做的就是对代价函数进行梯度下降<br><img src="/img/ML/p19.png" alt=""></p><h5 id="算法二：正规方程"><a href="#算法二：正规方程" class="headerlink" title="算法二：正规方程"></a>算法二：正规方程</h5><p>我们的做法就是建立一个设计矩阵$X$，它的每一行都代表一个单独的训练样本。然后建立一个向量$y$，它是一个m维的向量，包含了训练集里的所有标签。</p><p>所以$X$是一个$m\times(n+1)$维的矩阵，y是一个m维的向量<br><img src="/img/ML/p20.png" alt=""></p><p>最后再来谈谈不可逆的问题，如果m小于n，那么$(X^TX)$是不可逆的(奇异矩阵，矩阵退化)</p><p>幸运的是，在正则化中已经考虑到了这个问题，<strong>只要正则化参数$\lambda$是严格大于0的，我们就可以确定$(X^TX)$+后面那个矩阵，得到的一定不是奇异矩阵，一定是可逆的！</strong><br><img src="/img/ML/p21.png" alt=""><br>因此，进行正则化还可以解决一些X的转置乘X出现不可逆的问题</p><p>好了，我们学会了实现正则化线性回归，利用它，我们就能避免出现过拟合的问题，即使在一个很小的训练集里拥有大量的特征</p><h4 id="part-8-逻辑回归的正则化"><a href="#part-8-逻辑回归的正则化" class="headerlink" title="part 8 逻辑回归的正则化"></a>part 8 逻辑回归的正则化</h4><p><img src="/img/ML/p22.png" alt=""><br>总体思路与线性回归的正则化中的梯度下降法相同，但是要注意虽然二者形式看似相同，但$h_\theta(x)$并不一样！</p><p>还有哦，刚才在线性回归里忘记强调了，方括号里的式子就是代价函数对$\theta_j$的偏导数</p><p>拓：<br><img src="/img/ML/p37.png" alt=""></p>]]></content>
-      
-      
+      <tags>
+        <tag>python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>vscode使用pytorch</title>
+    <url>/2025/08/31/vscode%E4%BD%BF%E7%94%A8pytorch/</url>
+    <content><![CDATA[<p>好的，这是一个非常经典且实用的组合。在VS Code中使用已经配置好的Anaconda和PyTorch环境，主要分为以下几个关键步骤。我会为你提供详细的指引。</p>
+<h3 id="核心步骤概览"><a href="#核心步骤概览" class="headerlink" title="核心步骤概览"></a>核心步骤概览</h3><ol>
+<li><strong>安装VS Code的Python扩展：</strong> 这是让VS Code识别和管理Python环境的基础。</li>
+<li><strong>在VS Code中选择正确的Conda环境：</strong> 确保你的VS Code使用的是安装了PyTorch的那个Anaconda环境。</li>
+<li><strong>验证环境是否配置成功：</strong> 在VS Code中运行代码，检查PyTorch能否被正确导入和使用。</li>
+</ol>
+<hr>
+<h3 id="详细操作指南"><a href="#详细操作指南" class="headerlink" title="详细操作指南"></a>详细操作指南</h3><h4 id="步骤一：安装VS-Code的Python扩展"><a href="#步骤一：安装VS-Code的Python扩展" class="headerlink" title="步骤一：安装VS Code的Python扩展"></a>步骤一：安装VS Code的Python扩展</h4><p>如果你还没有安装，这是第一步，也是最重要的一步。</p>
+<ol>
+<li>打开VS Code。</li>
+<li>点击左侧边栏的<strong>扩展(Extensions)</strong>图标（看起来像四个方块）。</li>
+<li>在搜索框中输入 <code>Python</code>。</li>
+<li>找到由<strong>Microsoft</strong>发布的Python扩展，点击<strong>安装(Install)</strong>。</li>
+</ol>
+<h4 id="步骤二：在VS-Code中选择你的Conda环境"><a href="#步骤二：在VS-Code中选择你的Conda环境" class="headerlink" title="步骤二：在VS Code中选择你的Conda环境"></a>步骤二：在VS Code中选择你的Conda环境</h4><p>安装好Python扩展后，VS Code就能够识别你的Anaconda环境了。现在你需要告诉它具体使用哪一个。</p>
+<ol>
+<li><p><strong>打开或创建一个Python项目：</strong></p>
+<ul>
+<li>在VS Code中，通过 <code>文件(File)</code> &gt; <code>打开文件夹(Open Folder)</code> 打开一个你的项目文件夹。</li>
+<li>在文件夹中创建一个Python文件，例如 <code>test.py</code>。</li>
+</ul>
+</li>
+<li><p><strong>选择Python解释器：</strong></p>
+<ul>
+<li>按下快捷键 <code>Ctrl+Shift+P</code> (在macOS上是 <code>Cmd+Shift+P</code>) 打开命令面板。</li>
+<li>在命令面板中输入并选择 <strong><code>Python: Select Interpreter</code></strong> (Python: 选择解释器)。</li>
+<li>稍等片刻，VS Code会列出它找到的所有Python环境，包括你的Anaconda环境。</li>
+<li>从列表中找到并选择你<strong>安装了PyTorch的那个Conda环境</strong>。它通常会带有 <code>(&#39;your_env_name&#39;: conda)</code> 这样的标识。如果你没有为PyTorch创建新环境，就选择 <code>base</code> 环境。</li>
+</ul>
+</li>
+<li><p><strong>激活终端中的Conda环境：</strong></p>
+<ul>
+<li>选择了解释器后，打开一个新的VS Code集成终端 (<code>视图(View)</code> &gt; <code>终端(Terminal)</code> 或快捷键 <code>Ctrl+`` </code>)。</li>
+<li>通常情况下，VS Code会自动为你激活所选的Conda环境。你会看到终端提示符前面有 <code>(your_env_name)</code> 的字样，例如 <code>(base) C:\Users\YourName\Project&gt;</code>。</li>
+<li>如果终端没有自动激活，你可以在终端中手动运行 <code>conda activate your_env_name</code> 来激活（将 <code>your_env_name</code> 替换为你的环境名）。</li>
+</ul>
+</li>
+</ol>
+<h4 id="步骤三：验证PyTorch是否可用"><a href="#步骤三：验证PyTorch是否可用" class="headerlink" title="步骤三：验证PyTorch是否可用"></a>步骤三：验证PyTorch是否可用</h4><p>最后一步是写一小段代码来确认一切都已就绪。</p>
+<ol>
+<li><p>在你创建的 <code>test.py</code> 文件中，输入以下代码：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><code class="hljs python"><span class="hljs-keyword">import</span> torch<br><br><span class="hljs-built_in">print</span>(<span class="hljs-string">f&quot;PyTorch Version: <span class="hljs-subst">&#123;torch.__version__&#125;</span>&quot;</span>)<br><span class="hljs-built_in">print</span>(<span class="hljs-string">f&quot;CUDA is available: <span class="hljs-subst">&#123;torch.cuda.is_available()&#125;</span>&quot;</span>) <span class="hljs-comment"># 检查GPU是否可用</span><br><span class="hljs-keyword">if</span> torch.cuda.is_available():<br>    <span class="hljs-built_in">print</span>(<span class="hljs-string">f&quot;CUDA Version: <span class="hljs-subst">&#123;torch.version.cuda&#125;</span>&quot;</span>)<br>    <span class="hljs-built_in">print</span>(<span class="hljs-string">f&quot;Current GPU: <span class="hljs-subst">&#123;torch.cuda.get_device_name(torch.cuda.current_device())&#125;</span>&quot;</span>)<br><br><span class="hljs-comment"># 创建一个张量(tensor)</span><br>x = torch.rand(<span class="hljs-number">5</span>, <span class="hljs-number">3</span>)<br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;\nA random tensor:&quot;</span>)<br><span class="hljs-built_in">print</span>(x)<br></code></pre></td></tr></table></figure>
+</li>
+<li><p><strong>运行代码：</strong></p>
+<ul>
+<li>在文件编辑区点击鼠标右键，选择 <strong><code>在终端中运行 Python 文件 (Run Python File in Terminal)</code></strong>。</li>
+<li>或者点击VS Code右上角的绿色三角形“运行”按钮。</li>
+</ul>
+</li>
+<li><p><strong>检查输出：</strong></p>
+<ul>
+<li>观察VS Code下方的终端窗口。如果一切正常，它会打印出你安装的PyTorch版本号、CUDA是否可用以及一个随机生成的张量，不会报告 <code>ModuleNotFoundError</code>。</li>
+</ul>
+</li>
+</ol>
+<h3 id="常见问题与解决方法"><a href="#常见问题与解决方法" class="headerlink" title="常见问题与解决方法"></a>常见问题与解决方法</h3><ul>
+<li><p><strong>问题：VS Code找不到我的Conda环境。</strong></p>
+<ul>
+<li><strong>解决方法：</strong> 确保Anaconda已正确添加到系统的环境变量(PATH)中。 或者，在VS Code的设置(Settings)中搜索 <code>python.condaPath</code>，并手动指定你的 <code>conda.exe</code> 文件的路径。</li>
+</ul>
+</li>
+<li><p><strong>问题：选择了环境，但在终端中 <code>import torch</code> 仍然失败。</strong></p>
+<ul>
+<li><strong>解决方法：</strong> 确认VS Code右下角状态栏显示的Python解释器版本，是否确实是你安装了PyTorch的那个环境。 同时，检查终端提示符前是否显示了正确的 <code>(your_env_name)</code>。如果不是，请手动激活。</li>
+</ul>
+</li>
+<li><p><strong>问题：Jupyter Notebook (.ipynb) 文件无法使用Conda核。</strong></p>
+<ul>
+<li><strong>解决方法：</strong><ol>
+<li>确保你也安装了VS Code的 <strong>Jupyter</strong> 扩展。</li>
+<li>在<code>.ipynb</code>文件中，点击右上角的 <strong><code>选择内核(Select Kernel)</code></strong>。</li>
+<li>在弹出的列表中选择 <strong><code>Python Environments...</code></strong>，然后找到并选择你的Conda环境。</li>
+</ol>
+</li>
+</ul>
+</li>
+</ul>
+<p>通过以上步骤，你就可以顺利地在VS Code这个强大的编辑器中，利用Anaconda管理的环境和PyTorch库进行深度学习开发了。祝你编码愉快！</p>
+]]></content>
       <categories>
-          
-          <category> 机器学习 </category>
-          
+        <category>深度学习入门</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 分类问题 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>向量化</title>
-      <link href="/2025/08/10/%E5%90%91%E9%87%8F%E5%8C%96/"/>
-      <url>/2025/08/10/%E5%90%91%E9%87%8F%E5%8C%96/</url>
-      
-        <content type="html"><![CDATA[<h2 id="向量化"><a href="#向量化" class="headerlink" title="向量化"></a>向量化</h2><ol><li>通过编程环境内置的或者说易于获取的线性代数库，而不是自己去编写，可以大大加快运行速度(尤其是在特征量非常大的时候)，并且更加有效利用计算机的并行硬件系统</li><li>代码更少，出错概率小!<br><img src="/img/ML/p2.png" alt=""><br><img src="/img/ML/p3.png" alt=""></li></ol>]]></content>
-      
-      
+      <tags>
+        <tag>vscode</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一、Python学习中的两大法宝函数</title>
+    <url>/2025/08/31/Python%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E4%B8%A4%E5%A4%A7%E6%B3%95%E5%AE%9D%E5%87%BD%E6%95%B0/</url>
+    <content><![CDATA[<ol>
+<li>理解Package结构及法宝函数的作用<br><img src="/img/pyt_beg/p1.png" alt=""><br><img src="/img/pyt_beg/p2.png" alt=""></li>
+<li>实战运用两大法宝函数<br>dir(torch)<br>dir(torch.cuda)<br>dir(torch.cuda.is_available)<br>help(torch.cuda.is_available)</li>
+</ol>
+]]></content>
       <categories>
-          
-          <category> 机器学习 </category>
-          
+        <category>深度学习入门</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 向量化 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>正规方程补充</title>
-      <link href="/2025/08/09/%E6%AD%A3%E8%A7%84%E6%96%B9%E7%A8%8B%E8%A1%A5%E5%85%85/"/>
-      <url>/2025/08/09/%E6%AD%A3%E8%A7%84%E6%96%B9%E7%A8%8B%E8%A1%A5%E5%85%85/</url>
-      
-        <content type="html"><![CDATA[<h2 id="正规方程在矩阵不可逆-奇异矩阵-的情况下的解决办法"><a href="#正规方程在矩阵不可逆-奇异矩阵-的情况下的解决办法" class="headerlink" title="正规方程在矩阵不可逆(奇异矩阵)的情况下的解决办法"></a>正规方程在矩阵不可逆(奇异矩阵)的情况下的解决办法</h2><p> 首先呢，这种情况极少数发生，而且即使发生了，如果用octave中的pinv，如果不可逆也能求出伪逆<br><img src="/img/ML/p1.png" alt=""></p><h3 id="为什么-X-TX-会出现不可逆的情况？"><a href="#为什么-X-TX-会出现不可逆的情况？" class="headerlink" title="为什么$X^TX$会出现不可逆的情况？"></a>为什么$X^TX$会出现不可逆的情况？</h3><ol><li>包含了多余的特征，比如一个以米为单位，另一个以英尺为单位，线性相关</li><li>运行的算法的特征太多了($m\le n$)<br>在此情况下，我们通常要删掉一些特征或者使用<strong>正则化</strong></li></ol>]]></content>
-      
-      
+      <tags>
+        <tag>python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>分类问题</title>
+    <url>/2025/08/10/%E5%88%86%E7%B1%BB%E9%97%AE%E9%A2%98/</url>
+    <content><![CDATA[<h2 id="分类问题"><a href="#分类问题" class="headerlink" title="分类问题"></a>分类问题</h2><h3 id="基本介绍"><a href="#基本介绍" class="headerlink" title="基本介绍"></a>基本介绍</h3><p>要预测的变量y是一个离散值</p>
+<ol>
+<li><p>正类/负类</p>
+<p>一般来说，负类表示没有某样东西</p>
+</li>
+<li><p>不推荐将线性回归用于分类问题</p>
+</li>
+</ol>
+<hr>
+<p>对于标签y为离散值0或1，我们使用分类算法——<strong>logistic回归算法</strong>  </p>
+<p>特点是算法的输出或者说预测值一直介于0和1之间，不会大于1或者小于0</p>
+<p>还有，虽然名字中带有“回归”二字，但是它是一种分类算法，叫做这个只是因为历史原因<br><img src="/img/ML/p4.png" alt=""></p>
+<hr>
+<h3 id="logistic回归"><a href="#logistic回归" class="headerlink" title="logistic回归"></a>logistic回归</h3><h4 id="part-1-假设函数的表示方法"><a href="#part-1-假设函数的表示方法" class="headerlink" title="part 1 假设函数的表示方法"></a>part 1 假设函数的表示方法</h4><p><img src="/img/ML/p5.png" alt=""><br><img src="/img/ML/p6.png" alt=""><br>假设函数解读：给定参数 $\theta$,对具有 $x$特征的病人， $y=1$的概率</p>
+<h4 id="part-2-决策边界的概念"><a href="#part-2-决策边界的概念" class="headerlink" title="part 2 决策边界的概念"></a>part 2 决策边界的概念</h4><p><em>假设函数是如何做出预测的</em><br><img src="/img/ML/p7.png" alt=""></p>
+<p><em>决策边界例子</em><br><img src="/img/ML/p8.png" alt=""><br><img src="/img/ML/p9.png" alt=""><br>注意，决策边界是假设函数的一个属性，由参数 $\theta$决定，<strong>它不是数据集的属性！</strong></p>
+<h4 id="part-3-如何拟合logistic回归模型的参数-theta"><a href="#part-3-如何拟合logistic回归模型的参数-theta" class="headerlink" title="part 3 如何拟合logistic回归模型的参数 $\theta$"></a>part 3 如何拟合logistic回归模型的参数 $\theta$</h4><ol>
+<li><p>代价函数<br><img src="/img/ML/p10.png" alt=""><br><em>保证是凸函数</em></p>
+</li>
+<li><p>找出使J($\theta$)最小的 $\theta$</p>
+<p>我们要知道，假设的输出实际上就是在输入为$x$，并且以 $\theta$为参数时使 $y=1$的概率，</p>
+<p>最小化代价函数的方法是——<strong>梯度下降法</strong><br><img src="/img/ML/p11.png" alt=""></p>
+<p>如果有n个特征，那就有一个 $(n+1)$维参数向量 $\theta$。通过上面那个式子来同时更新所有 $\theta$的值（从0到n）</p>
+<p>注意别把此处的更新规则与线性回归的混为一谈，二者看似形式一样，但是此处的假设函数 $h(\theta)$的定义已经发生了变化<br><img src="/img/ML/p12.png" alt=""></p>
+<p>拓：不要用for循环实现参数更新，效率太低，用向量化来实现把n+1个参数同时更新</p>
+</li>
+</ol>
+<h4 id="part-4-多类别分类问题"><a href="#part-4-多类别分类问题" class="headerlink" title="part 4 多类别分类问题"></a>part 4 多类别分类问题</h4><p><strong>通过“一对多”的分类算法实现</strong></p>
+<p>比如说这个例子，我们要将训练集转化为三个独立的二元分类问题<br><img src="/img/ML/p13.png" alt=""></p>
+<p>在三个分类器中运行输入x，然后选择 $h$最大的类别作为预测值</p>
+<h4 id="part-5-过拟合问题"><a href="#part-5-过拟合问题" class="headerlink" title="part 5 过拟合问题"></a>part 5 过拟合问题</h4><p><img src="/img/ML/p14.png" alt=""><br><img src="/img/ML/p15.png" alt=""><br><img src="/img/ML/p16.png" alt=""></p>
+<p>当我们使用一维或二维数据时，我们可以通过绘出假设模型的图像来研究问题所在，再选择合适的多项式阶数，<strong>但是这并不总是有用</strong></p>
+<p>更多的时候，我们的学习问题需要有很多特征变量，并且这不仅仅是选择多项式阶次的问题，。当特征变量很多时，绘图变得更难，通过数据的可视化来决定保留哪些特征变量也更难</p>
+<p>但是，如果我们有过多的变量而只有非常少的训练数据，就会出现<strong>过拟合</strong>的问题</p>
+<p>有两个办法来解决过拟合的问题</p>
+<p>第一个办法是尽量减少选取的变量，但不推荐！！！因为担心丢失了有用的信息</p>
+<p>第二个才是我们主要的方法，<strong>正则化</strong></p>
+<h4 id="part-6-正则化"><a href="#part-6-正则化" class="headerlink" title="part 6 正则化"></a>part 6 正则化</h4><p><strong>核心：我们将保留所有的特征变量，但是减少量级(或者说是参数 $\theta_j$的大小)</strong></p>
+<p>当我们进行正则化的时候，我们还将写出相应的代价函数，关键是加入<strong>惩罚项</strong><br><img src="/img/ML/p17.png" alt=""><br>核心思想就是使参数尽量地小，以使假设模型更简单</p>
+<p>由于在实际情况中，我们不知道到底哪些参数要缩小，所以我们要通过一个代价函数来对所有参数进行一个操作(在原来的代价函数后面添加一个新的项——<strong>正则化项</strong>，注意求和是从1开始，不从0开始)</p>
+<p>$\lambda$被称为正则化参数，作用是控制两个不同目标之间的取舍——拟合数据与保持参数尽量地小(保持假设模型的相对简单，避免过拟合的情况)<br><img src="/img/ML/p18.png" alt=""><br><em>优化后的曲线并不是二次函数，但是却相对更平滑，更简单</em></p>
+<p>如果$\lambda$被设得太大的话，那么对每个参数的惩罚程度就太大了，都趋近于0，最后只剩$\theta_0$，变成用一条直线去拟合数据了，这就是一个<strong>欠拟合</strong>的例子，因此，正则化参数$\lambda$的选择尤其重要，接下来我们就会讲到如何自动地选择它</p>
+<h4 id="part-7-线性回归的正则化"><a href="#part-7-线性回归的正则化" class="headerlink" title="part 7 线性回归的正则化"></a>part 7 线性回归的正则化</h4><h5 id="算法一：梯度下降法"><a href="#算法一：梯度下降法" class="headerlink" title="算法一：梯度下降法"></a>算法一：梯度下降法</h5><p>把$\theta_0$的更新单独写出来，因为它不需要被惩罚</p>
+<p>当我们进行正则化线性回归时，我们要做的就是每次迭代时，都将$\theta_j$乘以一个比1略小的数。从数学的角度来看，我们做的就是对代价函数进行梯度下降<br><img src="/img/ML/p19.png" alt=""></p>
+<h5 id="算法二：正规方程"><a href="#算法二：正规方程" class="headerlink" title="算法二：正规方程"></a>算法二：正规方程</h5><p>我们的做法就是建立一个设计矩阵$X$，它的每一行都代表一个单独的训练样本。然后建立一个向量$y$，它是一个m维的向量，包含了训练集里的所有标签。</p>
+<p>所以$X$是一个$m\times(n+1)$维的矩阵，y是一个m维的向量<br><img src="/img/ML/p20.png" alt=""></p>
+<p>最后再来谈谈不可逆的问题，如果m小于n，那么$(X^TX)$是不可逆的(奇异矩阵，矩阵退化)</p>
+<p>幸运的是，在正则化中已经考虑到了这个问题，<strong>只要正则化参数$\lambda$是严格大于0的，我们就可以确定$(X^TX)$+后面那个矩阵，得到的一定不是奇异矩阵，一定是可逆的！</strong><br><img src="/img/ML/p21.png" alt=""><br>因此，进行正则化还可以解决一些X的转置乘X出现不可逆的问题</p>
+<p>好了，我们学会了实现正则化线性回归，利用它，我们就能避免出现过拟合的问题，即使在一个很小的训练集里拥有大量的特征</p>
+<h4 id="part-8-逻辑回归的正则化"><a href="#part-8-逻辑回归的正则化" class="headerlink" title="part 8 逻辑回归的正则化"></a>part 8 逻辑回归的正则化</h4><p><img src="/img/ML/p22.png" alt=""><br>总体思路与线性回归的正则化中的梯度下降法相同，但是要注意虽然二者形式看似相同，但$h_\theta(x)$并不一样！</p>
+<p>还有哦，刚才在线性回归里忘记强调了，方括号里的式子就是代价函数对$\theta_j$的偏导数</p>
+<p>拓：<br><img src="/img/ML/p37.png" alt=""></p>
+]]></content>
       <categories>
-          
-          <category> 机器学习 </category>
-          
+        <category>机器学习</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 正规方程 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>markdown基本使用方法</title>
-      <link href="/2025/08/01/markdown%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/"/>
-      <url>/2025/08/01/markdown%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</url>
-      
-        <content type="html"><![CDATA[<h1 id="Markdown基本用法"><a href="#Markdown基本用法" class="headerlink" title="Markdown基本用法"></a>Markdown基本用法</h1><h2 id="1-标题"><a href="#1-标题" class="headerlink" title="1.标题"></a>1.标题</h2><p>井号的个数表示不同级的标题</p><h2 id="2-换行"><a href="#2-换行" class="headerlink" title="2.换行"></a>2.换行</h2><ol><li>换行注意要加两个空格，不然怕在其他渲染器里失效</li><li>如果中间空一行，那就是新起一段</li></ol><h2 id="3-强调（加粗和斜体）"><a href="#3-强调（加粗和斜体）" class="headerlink" title="3.强调（加粗和斜体）"></a>3.强调（加粗和斜体）</h2><ol><li>加粗：左右各加两个*</li><li>斜体：左右各加一个*</li><li>快捷键（前提安装了扩展）<ol><li>斜体：ctrl+i</li><li>加粗：ctrl+b</li></ol></li></ol><h2 id="4-列表"><a href="#4-列表" class="headerlink" title="4.列表"></a>4.列表</h2><ol><li>tab键可以继续缩进列表</li><li>列表编号你自己写的数字不用在意，系统会自动渲染成正确的顺序</li><li>如果要重新从1开始哦编号，只需要在两个列表之间加一个段落就行</li></ol><h2 id="5-图片"><a href="#5-图片" class="headerlink" title="5.图片"></a>5.图片</h2><p>先把图片保存到文件夹，然后输入![]（） 括号里在加上一个英文句号，然后就可以选择照片</p><h2 id="6-插入公式"><a href="#6-插入公式" class="headerlink" title="6.插入公式"></a>6.插入公式</h2><ol><li>用$$括起来即可</li><li>markdown all in one可以提供自动补全(怎么失效了┭┮﹏┭┮)</li><li>文字中插入公式：ctrl+m<br>注意在第一个美元符号前加空格，以保证兼容性</li><li>如果按两下ctrl+m，那就是单独一段的公式</li></ol><h2 id="7-表格"><a href="#7-表格" class="headerlink" title="7.表格"></a>7.表格</h2><ol><li>表格第一行代表标头</li><li>用  |   隔开</li><li>表头下面需要加上一行—-|—-|—-</li><li>表格默认左对齐，—-:右对齐，:—-:居中对齐</li><li>alt+shift+f 格式化，使表格在文本中变得好看一点</li></ol><h2 id="8-链接"><a href="#8-链接" class="headerlink" title="8.链接"></a>8.链接</h2><ol><li>把链接复制之后ctrl+v到选中的文字（安装扩展后）</li></ol><h2 id="9-代码块"><a href="#9-代码块" class="headerlink" title="9.代码块"></a>9.代码块</h2><ol><li>一对```</li><li>后面加上使用的编程语言名称即可实现高亮</li></ol><h2 id="10-导出为pdf"><a href="#10-导出为pdf" class="headerlink" title="10.导出为pdf"></a>10.导出为pdf</h2><p>按此方法能保证公式渲染正确</p><h2 id="11-其他语法"><a href="#11-其他语法" class="headerlink" title="11.其他语法"></a>11.其他语法</h2><p>这里是<a href="https://markdown.com.cn/basic-syntax/">链接</a><br>如果latex公式出现问题，请访问此<a href="https://rickliu.com/posts/f9538327001b/index.html">链接</a></p><blockquote><p>最后来张图片~<br><img src="/img/Yojiro.jpg" alt=""></p></blockquote>]]></content>
-      
-      
+      <tags>
+        <tag>分类问题</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>神经网络</title>
+    <url>/2025/08/16/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/</url>
+    <content><![CDATA[<h2 id="神经网络"><a href="#神经网络" class="headerlink" title="神经网络"></a>神经网络</h2><h3 id="part-1-神经网络的基本概念"><a href="#part-1-神经网络的基本概念" class="headerlink" title="part 1 神经网络的基本概念"></a>part 1 神经网络的基本概念</h3><p>为什么已经有了线性回归和logistic回归算法，还需要研究神经网络？</p>
+<p><strong>因为它在学习复杂的非线性假设上被证明是一种好得多的算法，即使输入特征空间或n很大，也能轻松搞定</strong></p>
+<p><img src="/img/ML/p23.png" alt=""><br>$x_0$被称为偏置单元或偏置神经元</p>
+<p>带有sigmoid或者logistic<strong>激活函数</strong>的人工神经元</p>
+<p>激活函数是指非线性函数$g(z)$，$g(z)=\frac{1}{1+e^{-z}}$</p>
+<p>$\theta$可以称为模型的参数，但在大多数文献中叫模型的<strong>权重</strong></p>
+<p><img src="/img/ML/p24.png" alt=""><br>神经网络其实就是一组神经元连接在一起的集合</p>
+<p>任何非输入层和非输出层，都是隐藏层</p>
+<p><img src="/img/ML/p25.png" alt=""><br>$a^{(j)}_i$表示第j层第i个神经元或单元的<strong>激活项</strong>，激活项是指由一个具体神经元计算并输出的值</p>
+<p>此外，我们的神经网络被这些矩阵参数化——$\theta^{(j)}$，即权重矩阵。它控制从某一层到下一层的映射</p>
+<p>在此图，$\theta^{(1)}$就是控制着从三个输入单元到三个隐藏单元的映射的参数矩阵，它是一个3*4矩阵<br><img src="/img/ML/p26.png" alt=""></p>
+<p>最后在输出层我们还有一个单元，它计算h(x),也可以写成$a^{(3)}_1$</p>
+<p><strong>总结一下</strong>，我们讲解了这样一张图是如何定义一个人工神经网络的。其中的神经网络定义了函数h从输入x到输出y的映射。这些假设被参数化，记作$\Theta$，这样一来，改变$\Theta$就能得到不同的假设</p>
+<h3 id="part-2-神经网络的具体实现"><a href="#part-2-神经网络的具体实现" class="headerlink" title="part 2 神经网络的具体实现"></a>part 2 神经网络的具体实现</h3><p>a和z的上标表示这些值与哪一层有关</p>
+<p>这些z的值都是神经元输入值的加权线性组合(所谓加权，其实就是这些系数不是随便取，而是有特殊意义，常常被叫做“权重”。权重大，就影响大，权重小，就影响小<br>。。。。。哎呀就是x的系数是权重啦)</p>
+<p><strong>前向传播：我们从输入单元的激活项开始，然后向前传播给隐藏层，计算隐藏层的激活项，然后我们继续前向传播，并计算输出层的激活项。这个依次计算激活项，从输入层到隐藏层再到输出层的过程叫前向传播</strong></p>
+<p><img src="/img/ML/p27.png" alt=""></p>
+<p>这张图推导出的是向前传播的向量化实现方法</p>
+<p><a href="https://www.bilibili.com/video/BV164411b7dx?t=200.1&amp;p=46">图没看懂就点这个，精准空降</a></p>
+<h3 id="part-3-前向传播如何帮助我们了解神经网络的作用和它为什么能帮助我们学习有趣的非线性假设函数"><a href="#part-3-前向传播如何帮助我们了解神经网络的作用和它为什么能帮助我们学习有趣的非线性假设函数" class="headerlink" title="part 3 前向传播如何帮助我们了解神经网络的作用和它为什么能帮助我们学习有趣的非线性假设函数"></a>part 3 前向传播如何帮助我们了解神经网络的作用和它为什么能帮助我们学习有趣的非线性假设函数</h3><h4 id="基础概念"><a href="#基础概念" class="headerlink" title="基础概念"></a>基础概念</h4><p><img src="/img/ML/p28.png" alt=""></p>
+<p>把x遮住，你会发现它的形式与逻辑回归一样。区别在于，输入项由x变成a，这就带来了极大地可操作性，因为由x到a的参数可以自己设计。</p>
+<p><img src="/img/ML/p29.png" alt=""><br>神经网络中神经元的连接方式被称为神经网络的<strong>架构</strong></p>
+<h4 id="具体例子"><a href="#具体例子" class="headerlink" title="具体例子"></a>具体例子</h4><p><img src="/img/ML/p30.png" alt=""><br>我们想做的是学习一个非线性的判断边界来区分正样本和负样本</p>
+<p>具体来说，我们需要计算目标函数，如图<br><img src="/img/ML/p31.png" alt=""></p>
+<p>我们如何构建一个神经网络来拟合这样的训练集(XNOR)呢</p>
+<h5 id="基础"><a href="#基础" class="headerlink" title="基础"></a>基础</h5><p>我们先从能够拟合AND运算的网络入手(只含单个神经元)<br><img src="/img/ML/p32.png" alt=""></p>
+<p>首先我们要加一个偏置单元(+1单元)，然后对偏重/参数进行赋值</p>
+<p>通过写出真值表，我们就能弄清楚逻辑函数的取值是怎样的</p>
+<p>逻辑或同理<br><img src="/img/ML/p33.png" alt=""></p>
+<h5 id="进阶"><a href="#进阶" class="headerlink" title="进阶"></a>进阶</h5><p>实现逻辑非运算，大体思想就是在预期得到非结果的变量前面放一个很大的<strong>负权重</strong><br><img src="/img/ML/p34.png" alt=""></p>
+<h5 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h5><p>为啥神经网络可以计算这种复杂的函数呢？</p>
+<p>我们的输入都放在输入层，然后在中间放一个隐藏层，用来计算一些关于输入的略微复杂的功能，然后再继续增加一层，用于计算一个更复杂的非线性函数</p>
+<p>当神经网络有很多层时，在第二层中有一些关于输入的相对简单的函数，第三层又在此基础上计算更加复杂的方程，再往后一层，计算的函数越来越复杂</p>
+<h3 id="part-4-如何利用神经网络解决多类别分类问题"><a href="#part-4-如何利用神经网络解决多类别分类问题" class="headerlink" title="part 4 如何利用神经网络解决多类别分类问题"></a>part 4 如何利用神经网络解决多类别分类问题</h3><p>采用的方法本质上是<strong>一对多法的拓展</strong></p>
+<p><img src="/img/ML/p34.png" alt=""><br>我们要做的是建立一个有四个输出单元的神经网络，现在神经网络的输出将是一个四维的向量</p>
+<p>这其实就像一对多法，现在可以说我们有4个逻辑回归分类器，它们每一个都将识别图片中的物体是否是它那一种</p>
+<p>$y^{（i）}$</p>
+<p>每一个训练样本都由($x^{（i）}，y^{（i）}$)组成。其中$x^{（i）}$就是四种物体其中一种的图像，而$y^{（i）}$就是这些向量中的一个</p>
+<p>我们希望找到一个办法，让神经网络的输出值$h_\Theta(x^{(i)})$约等于$y^{(i)}$，并且它俩在该例子中都是四维向量，分别代表四种不同的类别</p>
+<h3 id="part-5-神经网络的代价函数"><a href="#part-5-神经网络的代价函数" class="headerlink" title="part 5 神经网络的代价函数"></a>part 5 神经网络的代价函数</h3><p><img src="/img/ML/p39.png" alt=""><br><img src="/img/ML/p40.png" alt=""><br>正则化那一项不包括i=0，因为i=0的都是偏置项的参数</p>
+<h3 id="part-6-反向传播算法"><a href="#part-6-反向传播算法" class="headerlink" title="part 6 反向传播算法"></a>part 6 反向传播算法</h3><p><img src="/img/ML/p41.png" alt=""><br>我们需要计算need那里面的两个，j我们可以通过上面的公式来求，重点是计算偏导项(参数的偏导数)</p>
+<p><img src="/img/ML/p42.png" alt=""><br>通过把前向传播算法向量化，我们得到了神经网络结构里的每一个神经元的<strong>激活值</strong></p>
+<p>接下来，为了计算偏导项，我们采用<strong>反向传播算法</strong></p>
+<p><img src="/img/ML/p43.png" alt=""><br>反向传播算法从直观上说，就是对每一个结点计算这样一项$\delta^{(l)}_j$,代表第l层的第j个结点的误差</p>
+<p>注意理解$g’$，指的是对激活函数g在输入值为$z(3)$的时候所求的导数。得到的结果就是右边那个a一堆</p>
+<p>没有$\delta^{(0)}$，因为是输入层，不存在误差</p>
+<p><img src="/img/ML/p44.png" alt=""><br>$\Delta^{(l)}$是一个矩阵，不是一个列向量！！！你自己想一下嘛。对了，它叫梯度累加器</p>
+<p>最后求D的时候除以m是因为求平均值</p>
+<p><img src="/img/ML/p45.png" alt=""><br><img src="/img/ML/p46.png" alt=""></p>
+<p>对比一下前向传播和反向传播，其实非常相似。要注意的是，反向传播求$\delta$时注意不要加上偏置单元，没有用，永远都是1</p>
+<h4 id="展开参数"><a href="#展开参数" class="headerlink" title="展开参数"></a>展开参数</h4><p>高级优化算法假定$\theta$是参数向量，假定梯度值也为向量。</p>
+<p>然而在神经网络里，参数是矩阵，梯度值也是矩阵，因此要通过thetaVec转化为长向量<br><img src="/img/ML/p47.png" alt=""><br>过程详情图</p>
+<h4 id="梯度检测"><a href="#梯度检测" class="headerlink" title="梯度检测"></a>梯度检测</h4><p><img src="/img/ML/p48.png" alt=""><br><img src="/img/ML/p49.png" alt=""><br><img src="/img/ML/p50.png" alt=""><br><img src="/img/ML/p51.png" alt=""><br>在训练之前要关掉梯度检验，不然会严重拖慢运行速度</p>
+<h4 id="随机初始化"><a href="#随机初始化" class="headerlink" title="随机初始化"></a>随机初始化</h4><p><img src="/img/ML/p52.png" alt=""></p>
+<p>逻辑回归当中我们是把参数全初始化为0，但是在神经网络中如果把参数全部初始化为0，那么不管进行多少次迭代，参数都相等，所有的隐藏单元都以相同的函数作为输入。这是一种高度冗余的现象，阻止了神经网络去学习任何有趣的东西。</p>
+<p>因此，在神经网络问题当中有必要进行<strong>随机初始化</strong></p>
+<p><img src="/img/ML/p53.png" alt=""><br>我们刚才碰到的这种问题叫做<strong>对称权重问题</strong>，也就是所有的权重都是一样的，随机初始化用来解决这一问题</p>
+<p>对每一个$\theta$值，我们将其初始化为一个范围在$[-\epsilon,+\epsilon]$的随机值</p>
+<p>rand(10,11)会生成一个值都介于0到1之间的10x11随机矩阵</p>
+<p>总而言之，为了训练神经网络，应首先要将权重随机初始化为一个接近0的范围在$[-\epsilon,+\epsilon]$的数，然后进行反向传播，再进行梯度检验，最后使用梯度下降或者其他高级优化算法来最小化代价函数J</p>
+<p>上面的表述有些问题，看看ai studio给的正确解答</p>
+<p>您这个问题问得实在是太好了！您的总结已经非常接近正确答案了，但其中有一个非常关键的、也是最容易让初学者混淆的<strong>顺序问题</strong>。</p>
+<p>您问的“那啥时候前向传播啊”，正好就打在了这个问题的七寸上。</p>
+<p>您的总结顺序是：<code>初始化 → 反向传播 → 梯度检验 → 梯度下降</code>。<br><strong>这个顺序是不对的。</strong></p>
+<p>让我们来梳理一下正确、清晰的完整流程。这个流程分为两个阶段：</p>
+<ol>
+<li><strong>开发与检验阶段 (一次性工作)</strong></li>
+<li><strong>训练阶段 (成千上万次循环)</strong></li>
+</ol>
+<hr>
+<h3 id="正确的流程"><a href="#正确的流程" class="headerlink" title="正确的流程"></a>正确的流程</h3><h4 id="阶段一：开发与检验-在你写代码时，只做一次"><a href="#阶段一：开发与检验-在你写代码时，只做一次" class="headerlink" title="阶段一：开发与检验 (在你写代码时，只做一次)"></a>阶段一：开发与检验 (在你写代码时，只做一次)</h4><p>这个阶段的目标是：<strong>确保你写的反向传播算法是100%正确的。</strong></p>
+<ol>
+<li><p><strong>编码实现</strong>：</p>
+<ul>
+<li>实现<strong>前向传播</strong>函数：输入数据和权重，输出预测值和成本 $J$。</li>
+<li>实现<strong>反向传播</strong>函数：利用前向传播过程中的中间结果，计算出梯度矩阵 $D^{(1)}, D^{(2)}, …$。</li>
+</ul>
+</li>
+<li><p><strong>进行梯度检验 (Gradient Checking)</strong>：</p>
+<ul>
+<li><strong>目的</strong>：验证你写的反向传播对不对。</li>
+<li><strong>做法</strong>：<br>a. 使用我们之前讨论的<strong>数值近似方法</strong>（那个“向前走一步，向后走一步”的慢方法）计算出一个“标准答案”梯度 <code>grad_numerical</code>。<br>b. 调用你写的<strong>反向传播函数</strong>，得到一个“你的答案”梯度 <code>grad_backprop</code>。<br>c. <strong>对比</strong>这两个梯度向量。如果它们几乎完全相等，恭喜你，你的代码写对了！</li>
+</ul>
+</li>
+<li><p><strong>关闭梯度检验</strong>：</p>
+<ul>
+<li>一旦你确认了你的反向传播代码是正确的，<strong>就必须把梯度检验功能关掉！</strong> 否则，你的训练会慢到无法忍受。</li>
+</ul>
+</li>
+</ol>
+<h4 id="阶段二：训练-在你确认代码无误后，反复执行"><a href="#阶段二：训练-在你确认代码无误后，反复执行" class="headerlink" title="阶段二：训练 (在你确认代码无误后，反复执行)"></a>阶段二：训练 (在你确认代码无误后，反复执行)</h4><p>这个阶段的目标是：<strong>利用你已经验证过的代码，真正地去学习和优化参数。</strong> 这就是梯度下降（或高级优化算法）发挥作用的地方，它是一个<strong>循环</strong>。</p>
+<p><strong>现在，我们来回答您最核心的问题：“啥时候前向传播？”</strong></p>
+<ol>
+<li><p><strong>第0步：初始化</strong></p>
+<ul>
+<li>将权重 $\Theta$ 随机初始化为接近0的小数。<strong>(这一步只在循环开始前做一次)</strong></li>
+</ul>
+</li>
+<li><p><strong>开始训练循环 (例如，循环1000次)</strong></p>
+<ul>
+<li><p><strong>第1步：前向传播 (Forward Propagation) - 答案在这里！</strong></p>
+<ul>
+<li><strong>目的</strong>：根据<strong>当前</strong>的权重 $\Theta$，计算出网络对训练数据的预测值。</li>
+<li><strong>过程</strong>：将一批训练数据输入网络，从第一层开始，逐层向后计算，直到得到最后一层的输出。</li>
+<li><strong>这是每一次迭代中，必须做的第一件事！</strong> 就像下山前，你必须先知道自己当前所在位置的海拔。</li>
+</ul>
+</li>
+<li><p><strong>第2步：计算代价函数 (Cost Function)</strong></p>
+<ul>
+<li><strong>目的</strong>：评估当前预测的好坏。</li>
+<li><strong>过程</strong>：将<strong>前向传播</strong>得到的预测值与真实标签进行比较，计算出成本 $J(\Theta)$。</li>
+</ul>
+</li>
+<li><p><strong>第3步：反向传播 (Backpropagation)</strong></p>
+<ul>
+<li><strong>目的</strong>：计算梯度，即“下山地图”。</li>
+<li><strong>过程</strong>：从刚刚计算出的成本（误差）出发，从后向前逐层计算代价函数对<strong>每一层权重</strong>的偏导数（梯度）。<strong>这一步严重依赖前向传播过程中产生的中间值</strong> (比如每一层的激活值 $a^{(l)}$ 和加权输入 $z^{(l)}$)。</li>
+</ul>
+</li>
+<li><p><strong>第4步：更新权重 (Weight Update)</strong></p>
+<ul>
+<li><strong>目的</strong>：朝着山谷最低点迈出一步。</li>
+<li><strong>过程</strong>：使用<strong>梯度下降</strong>或<strong>高级优化算法</strong>，根据<strong>反向传播</strong>计算出的梯度，来更新权重 $\Theta$。</li>
+<li>例如，梯度下降：$\Theta := \Theta - \alpha \cdot (\text{梯度})$</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><strong>回到第1步，开始下一次循环</strong></p>
+<ul>
+<li>用<strong>刚刚更新过</strong>的权重，重复进行“前向传播 → 计算代价 → 反向传播 → 更新权重”这个过程，直到成本不再下降或达到设定的迭代次数。</li>
+</ul>
+</li>
+</ol>
+<h3 id="总结与修正"><a href="#总结与修正" class="headerlink" title="总结与修正"></a>总结与修正</h3><p>所以，正确的流程应该是这样的：</p>
+<ol>
+<li><p><strong>一次性工作</strong>：</p>
+<ul>
+<li><code>初始化权重</code></li>
+<li><code>(可选，仅在开发时) 运行梯度检验，确认代码无误后关闭</code></li>
+</ul>
+</li>
+<li><p><strong>核心训练循环 (反复执行)</strong>：</p>
+<ul>
+<li><code>For i = 1 to N:</code><ul>
+<li><strong><code>前向传播</code></strong> (计算预测和成本)</li>
+<li><strong><code>反向传播</code></strong> (计算梯度)</li>
+<li><strong><code>更新权重</code></strong> (使用梯度下降等优化算法)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<p><strong>所以，前向传播不是在反向传播之前或之后的一次性步骤，而是</strong>在每一次训练迭代中，都必须执行的第一步<strong>。它们是“你唱我和”的搭档，在每一次迭代中都紧密地捆绑在一起：</strong>前向传播算结果，反向传播算原因，优化器根据原因去修正。**</p>
+<h3 id="part-7-神经网络算法总体实现过程"><a href="#part-7-神经网络算法总体实现过程" class="headerlink" title="part 7 神经网络算法总体实现过程"></a>part 7 神经网络算法总体实现过程</h3><ol>
+<li><p>选择网络架构</p>
+<p>比如每一层有多少个影藏单元，以及有多少个隐藏层</p>
+<p>那么该如何选择呢？</p>
+<p>首先我们由训练集就可以知道输入单元的个数了，输出单元的数量同理<br><img src="/img/ML/p54.png" alt=""><br><strong>注意</strong>，如果你的多元分类问题y的取值范围是在1到10之间，记得把输出y重新写成向量的形式，如图，我们把第一类重新写成这种形式的向量，第二个也是</p>
+<p>如果其中一个样本被分到第五类，也就是y=5，那么在神经网络中就不能直接用数值5来表达，而是用一个向量来表达，这个向量的第五个位置值是1，其他都是0</p>
+</li>
+</ol>
+<p>   <strong>那么对于隐藏层的数目和隐藏单元的个数呢?</strong></p>
+<p>   一个合理的默认选项是只使用单个隐藏层，如果使用的不止一个的话，同样也有一个合理的默认选项，那就是每一个隐藏层通常都应有相同的单元数</p>
+<p>   通常情况下，隐藏单元越多越好</p>
+<ol>
+<li><p>训练神经网络需要实现的步骤</p>
+<ol>
+<li>构建神经网络然后随机初始化权重</li>
+<li>执行前向传播算法</li>
+<li>计算出代价函数$J(\theta)$</li>
+<li><p>执行反向传播算法<br><img src="/img/ML/p55.png" alt=""><br>具体来讲，我们对所有的m个训练样本使用for循环遍历，在这个for循环里，我们对这个样本进行前向和反向算法，这样就可以得到神经网络每一层中每一个单元对应的激励值和$\delta$项</p>
+<p>接下来还是在for循环，我们要计算出$\Delta^{(l)}$</p>
+<p>然后在循环外，我们将计算出J对参数的偏导数项，记得还要把正则化项lambda值考虑在内</p>
+</li>
+<li><p>梯度检查</p>
+<p>  以保证我们的反向传播算法得到的结果是正确的</p>
+</li>
+<li><p>停用梯度检查</p>
+</li>
+<li><p>使用一个最优化算法，比如说梯度下降法或者更高级的优化算法，将这些优化算法和反向传播算法相结合。顺带一提，对于神经网络，代价函数是一个非凸函数，因此理论上可能停留在局部最小值，但影响不大，效果还是蛮好的</p>
+</li>
+</ol>
+</li>
+</ol>
+]]></content>
       <categories>
-          
-          <category> 工具使用教程 </category>
-          
+        <category>机器学习</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> markdown </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>神经网络</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>向量化</title>
+    <url>/2025/08/10/%E5%90%91%E9%87%8F%E5%8C%96/</url>
+    <content><![CDATA[<h2 id="向量化"><a href="#向量化" class="headerlink" title="向量化"></a>向量化</h2><ol>
+<li>通过编程环境内置的或者说易于获取的线性代数库，而不是自己去编写，可以大大加快运行速度(尤其是在特征量非常大的时候)，并且更加有效利用计算机的并行硬件系统</li>
+<li>代码更少，出错概率小!<br><img src="/img/ML/p2.png" alt=""><br><img src="/img/ML/p3.png" alt=""></li>
+</ol>
+]]></content>
+      <categories>
+        <category>机器学习</category>
+      </categories>
+      <tags>
+        <tag>向量化</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>知识点积累</title>
+    <url>/2025/08/17/%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92%E4%BD%9C%E4%B8%9A/</url>
+    <content><![CDATA[<p><img src="/img/ML/p36.png" alt=""></p>
+<h3 id="1-线性回归与逻辑回归里的假设函数和代价函数向量化是咋实现的啊┭┮﹏┭┮"><a href="#1-线性回归与逻辑回归里的假设函数和代价函数向量化是咋实现的啊┭┮﹏┭┮" class="headerlink" title="1.线性回归与逻辑回归里的假设函数和代价函数向量化是咋实现的啊┭┮﹏┭┮"></a>1.线性回归与逻辑回归里的假设函数和代价函数向量化是咋实现的啊┭┮﹏┭┮</h3><h3 id="2-那逻辑回归中梯度下降函数的向量化呢"><a href="#2-那逻辑回归中梯度下降函数的向量化呢" class="headerlink" title="2.那逻辑回归中梯度下降函数的向量化呢"></a>2.那逻辑回归中梯度下降函数的向量化呢</h3><h3 id="3-fig-ax-plt-subplots-后面的式子看不懂"><a href="#3-fig-ax-plt-subplots-后面的式子看不懂" class="headerlink" title="3.fig,ax=plt.subplots()后面的式子看不懂"></a>3.fig,ax=plt.subplots()后面的式子看不懂</h3><h3 id="4-data为啥可以用两个"><a href="#4-data为啥可以用两个" class="headerlink" title="4.data为啥可以用两个[]"></a>4.data为啥可以用两个[]</h3><p><img src="/img/ML/p37.png" alt=""></p>
+<p><img src="/img/ML/p38.png" alt=""></p>
+]]></content>
+      <categories>
+        <category>机器学习</category>
+      </categories>
+      <tags>
+        <tag>作业</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>本科生科研CV</title>
+    <url>/2025/08/30/%E6%9C%AC%E7%A7%91%E7%94%9F%E7%A7%91%E7%A0%94CV/</url>
+    <content><![CDATA[<h2 id="本科生科研CV"><a href="#本科生科研CV" class="headerlink" title="本科生科研CV"></a>本科生科研CV</h2><ol>
+<li>不要超过一页，word文档一面就行</li>
+<li>东西要写的简单</li>
+<li>从你做的最好的然后一个一个往下写(显得自信，厉害)</li>
+<li>照片弄得好看一点</li>
+<li>说明自己时间充足</li>
+</ol>
+]]></content>
+      <categories>
+        <category>科研</category>
+      </categories>
+      <tags>
+        <tag>简历</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>正规方程补充</title>
+    <url>/2025/08/09/%E6%AD%A3%E8%A7%84%E6%96%B9%E7%A8%8B%E8%A1%A5%E5%85%85/</url>
+    <content><![CDATA[<h2 id="正规方程在矩阵不可逆-奇异矩阵-的情况下的解决办法"><a href="#正规方程在矩阵不可逆-奇异矩阵-的情况下的解决办法" class="headerlink" title="正规方程在矩阵不可逆(奇异矩阵)的情况下的解决办法"></a>正规方程在矩阵不可逆(奇异矩阵)的情况下的解决办法</h2><p> 首先呢，这种情况极少数发生，而且即使发生了，如果用octave中的pinv，如果不可逆也能求出伪逆<br><img src="/img/ML/p1.png" alt=""></p>
+<h3 id="为什么-X-TX-会出现不可逆的情况？"><a href="#为什么-X-TX-会出现不可逆的情况？" class="headerlink" title="为什么$X^TX$会出现不可逆的情况？"></a>为什么$X^TX$会出现不可逆的情况？</h3><ol>
+<li>包含了多余的特征，比如一个以米为单位，另一个以英尺为单位，线性相关</li>
+<li>运行的算法的特征太多了($m\le n$)<br>在此情况下，我们通常要删掉一些特征或者使用<strong>正则化</strong></li>
+</ol>
+]]></content>
+      <categories>
+        <category>机器学习</category>
+      </categories>
+      <tags>
+        <tag>正规方程</tag>
+      </tags>
+  </entry>
 </search>
