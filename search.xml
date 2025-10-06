@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>10.06</title>
-    <url>/2025/10/06/10.06/</url>
-    <content><![CDATA[<p><em>15:50</em><br>不要质疑自己好吗？你要知道你为什么数据结构的进度要落后一些，是因为你在权衡之后选择了要自学数据结构，选择了一条未知并且更难走的路，在这条路上，你已经付出了很多，你无数次想放弃，想改变学习路线，但你都坚持下来了，课外花了非常多的时间，所以你既然已经这么努力了，为什么还要总是内耗自己呢？</p>
-<p>我知道你是一个敏感且感性的人，但是，请把情绪放在你一人身上，别人可能看起来进度比你快，但是！他绝对没有你努力！想想你开学以来所发出的这么多，机器学习深度学习，看完的网课读完的书，无数次内耗过后仍然选择站起来。</p>
-<p>数据结构这一关对你来说不是一件小事吗？这两天花点时间把第三章网课看完然后准备课设，很难吗？不难啊！比它更难的事我们都已经做过无数次了，郑豪，从小到大，哪一个难关难倒你了？不论是复读还是婚礼致辞，每一个看似很难的拦路虎，不都被你打倒了吗？</p>
-<p>别人什么进度管我什么事啊，看到别人学习你只需要记住，不管他们怎么学，都绝对没有你努力，将来，也绝对不会有你成功，我郑豪，就是天下第一！</p>
-]]></content>
-      <categories>
-        <category>日记</category>
-      </categories>
-  </entry>
-  <entry>
     <title>8.31</title>
     <url>/2025/08/31/8.31/</url>
     <content><![CDATA[<h2 id="8-31"><a href="#8-31" class="headerlink" title="8.31"></a>8.31</h2><h3 id="三维地质建模，并且非常侧重于将人工智能（特别是深度学习）技术应用其中，实现地质建模的智能化。"><a href="#三维地质建模，并且非常侧重于将人工智能（特别是深度学习）技术应用其中，实现地质建模的智能化。" class="headerlink" title="三维地质建模，并且非常侧重于将人工智能（特别是深度学习）技术应用其中，实现地质建模的智能化。"></a>三维地质建模，并且非常侧重于将人工智能（特别是深度学习）技术应用其中，实现地质建模的智能化。</h3><ol>
@@ -20,6 +8,18 @@
 </li>
 <li></li>
 </ol>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>10.06</title>
+    <url>/2025/10/06/10.06/</url>
+    <content><![CDATA[<p><em>15:50</em><br>不要质疑自己好吗？你要知道你为什么数据结构的进度要落后一些，是因为你在权衡之后选择了要自学数据结构，选择了一条未知并且更难走的路，在这条路上，你已经付出了很多，你无数次想放弃，想改变学习路线，但你都坚持下来了，课外花了非常多的时间，所以你既然已经这么努力了，为什么还要总是内耗自己呢？</p>
+<p>我知道你是一个敏感且感性的人，但是，请把情绪放在你一人身上，别人可能看起来进度比你快，但是！他绝对没有你努力！想想你开学以来所发出的这么多，机器学习深度学习，看完的网课读完的书，无数次内耗过后仍然选择站起来。</p>
+<p>数据结构这一关对你来说不是一件小事吗？这两天花点时间把第三章网课看完然后准备课设，很难吗？不难啊！比它更难的事我们都已经做过无数次了，郑豪，从小到大，哪一个难关难倒你了？不论是复读还是上学期期末高数复习，组原复习以及组原课设熬的那几个夜晚，还有前几天的婚礼致辞，每一个看似很难的拦路虎，不都被你打倒了吗？</p>
+<p>别人什么进度管我什么事啊，看到别人学习你只需要记住，不管他们怎么学，都绝对没有你努力，将来，也绝对不会有你成功，我郑豪，就是天下第一！</p>
 ]]></content>
       <categories>
         <category>日记</category>
@@ -62,21 +62,6 @@
       <categories>
         <category>深度学习入门</category>
       </categories>
-  </entry>
-  <entry>
-    <title>一、Python学习中的两大法宝函数</title>
-    <url>/2025/08/31/Python%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E4%B8%A4%E5%A4%A7%E6%B3%95%E5%AE%9D%E5%87%BD%E6%95%B0/</url>
-    <content><![CDATA[<ol>
-<li>理解Package结构及法宝函数的作用<br><img src="/img/pyt_beg/p1.png" alt=""><br><img src="/img/pyt_beg/p2.png" alt=""></li>
-<li>实战运用两大法宝函数<br>dir(torch)<br>dir(torch.cuda)<br>dir(torch.cuda.is_available)<br>help(torch.cuda.is_available)</li>
-</ol>
-]]></content>
-      <categories>
-        <category>深度学习入门</category>
-      </categories>
-      <tags>
-        <tag>python</tag>
-      </tags>
   </entry>
   <entry>
     <title>markdown基本使用方法</title>
@@ -135,6 +120,17 @@
       </tags>
   </entry>
   <entry>
+    <title>三、pytorch加载数据初认识</title>
+    <url>/2025/08/31/pytorch%E5%8A%A0%E8%BD%BD%E6%95%B0%E6%8D%AE%E5%88%9D%E8%AE%A4%E8%AF%86/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>深度学习入门</category>
+      </categories>
+      <tags>
+        <tag>python</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>二、pycharm与jupyter使用与对比</title>
     <url>/2025/08/31/pycharm%E4%B8%8Ejupyter%E4%BD%BF%E7%94%A8%E4%B8%8E%E5%AF%B9%E6%AF%94/</url>
     <content><![CDATA[<p> 我不用pycharm，它的两种方法与vscode一样的<br> jupyter notebook的话，先打开Anaconda Prompt,然后输入如图所示代码<br> <img src="/img/pyt_beg/p3.png" alt=""></p>
@@ -148,29 +144,18 @@
       </tags>
   </entry>
   <entry>
-    <title>三、pytorch加载数据初认识</title>
-    <url>/2025/08/31/pytorch%E5%8A%A0%E8%BD%BD%E6%95%B0%E6%8D%AE%E5%88%9D%E8%AE%A4%E8%AF%86/</url>
-    <content><![CDATA[]]></content>
+    <title>一、Python学习中的两大法宝函数</title>
+    <url>/2025/08/31/Python%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E4%B8%A4%E5%A4%A7%E6%B3%95%E5%AE%9D%E5%87%BD%E6%95%B0/</url>
+    <content><![CDATA[<ol>
+<li>理解Package结构及法宝函数的作用<br><img src="/img/pyt_beg/p1.png" alt=""><br><img src="/img/pyt_beg/p2.png" alt=""></li>
+<li>实战运用两大法宝函数<br>dir(torch)<br>dir(torch.cuda)<br>dir(torch.cuda.is_available)<br>help(torch.cuda.is_available)</li>
+</ol>
+]]></content>
       <categories>
         <category>深度学习入门</category>
       </categories>
       <tags>
         <tag>python</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>向量化</title>
-    <url>/2025/08/10/%E5%90%91%E9%87%8F%E5%8C%96/</url>
-    <content><![CDATA[<h2 id="向量化"><a href="#向量化" class="headerlink" title="向量化"></a>向量化</h2><ol>
-<li>通过编程环境内置的或者说易于获取的线性代数库，而不是自己去编写，可以大大加快运行速度(尤其是在特征量非常大的时候)，并且更加有效利用计算机的并行硬件系统</li>
-<li>代码更少，出错概率小!<br><img src="/img/ML/p2.png" alt=""><br><img src="/img/ML/p3.png" alt=""></li>
-</ol>
-]]></content>
-      <categories>
-        <category>机器学习</category>
-      </categories>
-      <tags>
-        <tag>向量化</tag>
       </tags>
   </entry>
   <entry>
@@ -234,24 +219,6 @@
       </categories>
       <tags>
         <tag>分类问题</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>本科生科研CV</title>
-    <url>/2025/08/30/%E6%9C%AC%E7%A7%91%E7%94%9F%E7%A7%91%E7%A0%94CV/</url>
-    <content><![CDATA[<h2 id="本科生科研CV"><a href="#本科生科研CV" class="headerlink" title="本科生科研CV"></a>本科生科研CV</h2><ol>
-<li>不要超过一页，word文档一面就行</li>
-<li>东西要写的简单</li>
-<li>从你做的最好的然后一个一个往下写(显得自信，厉害)</li>
-<li>照片弄得好看一点</li>
-<li>说明自己时间充足</li>
-</ol>
-]]></content>
-      <categories>
-        <category>科研</category>
-      </categories>
-      <tags>
-        <tag>简历</tag>
       </tags>
   </entry>
   <entry>
@@ -344,19 +311,21 @@
       </tags>
   </entry>
   <entry>
-    <title>正规方程补充</title>
-    <url>/2025/08/09/%E6%AD%A3%E8%A7%84%E6%96%B9%E7%A8%8B%E8%A1%A5%E5%85%85/</url>
-    <content><![CDATA[<h2 id="正规方程在矩阵不可逆-奇异矩阵-的情况下的解决办法"><a href="#正规方程在矩阵不可逆-奇异矩阵-的情况下的解决办法" class="headerlink" title="正规方程在矩阵不可逆(奇异矩阵)的情况下的解决办法"></a>正规方程在矩阵不可逆(奇异矩阵)的情况下的解决办法</h2><p> 首先呢，这种情况极少数发生，而且即使发生了，如果用octave中的pinv，如果不可逆也能求出伪逆<br><img src="/img/ML/p1.png" alt=""></p>
-<h3 id="为什么-X-TX-会出现不可逆的情况？"><a href="#为什么-X-TX-会出现不可逆的情况？" class="headerlink" title="为什么$X^TX$会出现不可逆的情况？"></a>为什么$X^TX$会出现不可逆的情况？</h3><ol>
-<li>包含了多余的特征，比如一个以米为单位，另一个以英尺为单位，线性相关</li>
-<li>运行的算法的特征太多了($m\le n$)<br>在此情况下，我们通常要删掉一些特征或者使用<strong>正则化</strong></li>
+    <title>本科生科研CV</title>
+    <url>/2025/08/30/%E6%9C%AC%E7%A7%91%E7%94%9F%E7%A7%91%E7%A0%94CV/</url>
+    <content><![CDATA[<h2 id="本科生科研CV"><a href="#本科生科研CV" class="headerlink" title="本科生科研CV"></a>本科生科研CV</h2><ol>
+<li>不要超过一页，word文档一面就行</li>
+<li>东西要写的简单</li>
+<li>从你做的最好的然后一个一个往下写(显得自信，厉害)</li>
+<li>照片弄得好看一点</li>
+<li>说明自己时间充足</li>
 </ol>
 ]]></content>
       <categories>
-        <category>学习</category>
+        <category>科研</category>
       </categories>
       <tags>
-        <tag>正规方程</tag>
+        <tag>简历</tag>
       </tags>
   </entry>
   <entry>
@@ -371,6 +340,37 @@
       </categories>
       <tags>
         <tag>作业</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>向量化</title>
+    <url>/2025/08/10/%E5%90%91%E9%87%8F%E5%8C%96/</url>
+    <content><![CDATA[<h2 id="向量化"><a href="#向量化" class="headerlink" title="向量化"></a>向量化</h2><ol>
+<li>通过编程环境内置的或者说易于获取的线性代数库，而不是自己去编写，可以大大加快运行速度(尤其是在特征量非常大的时候)，并且更加有效利用计算机的并行硬件系统</li>
+<li>代码更少，出错概率小!<br><img src="/img/ML/p2.png" alt=""><br><img src="/img/ML/p3.png" alt=""></li>
+</ol>
+]]></content>
+      <categories>
+        <category>机器学习</category>
+      </categories>
+      <tags>
+        <tag>向量化</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>正规方程补充</title>
+    <url>/2025/08/09/%E6%AD%A3%E8%A7%84%E6%96%B9%E7%A8%8B%E8%A1%A5%E5%85%85/</url>
+    <content><![CDATA[<h2 id="正规方程在矩阵不可逆-奇异矩阵-的情况下的解决办法"><a href="#正规方程在矩阵不可逆-奇异矩阵-的情况下的解决办法" class="headerlink" title="正规方程在矩阵不可逆(奇异矩阵)的情况下的解决办法"></a>正规方程在矩阵不可逆(奇异矩阵)的情况下的解决办法</h2><p> 首先呢，这种情况极少数发生，而且即使发生了，如果用octave中的pinv，如果不可逆也能求出伪逆<br><img src="/img/ML/p1.png" alt=""></p>
+<h3 id="为什么-X-TX-会出现不可逆的情况？"><a href="#为什么-X-TX-会出现不可逆的情况？" class="headerlink" title="为什么$X^TX$会出现不可逆的情况？"></a>为什么$X^TX$会出现不可逆的情况？</h3><ol>
+<li>包含了多余的特征，比如一个以米为单位，另一个以英尺为单位，线性相关</li>
+<li>运行的算法的特征太多了($m\le n$)<br>在此情况下，我们通常要删掉一些特征或者使用<strong>正则化</strong></li>
+</ol>
+]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>正规方程</tag>
       </tags>
   </entry>
   <entry>
