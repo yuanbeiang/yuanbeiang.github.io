@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>10.06</title>
+    <url>/2025/10/06/10.06/</url>
+    <content><![CDATA[<p><em>15:50</em><br>不要质疑自己好吗？你要知道你为什么数据结构的进度要落后一些，是因为你在权衡之后选择了要自学数据结构，选择了一条未知并且更难走的路，在这条路上，你已经付出了很多，你无数次想放弃，想改变学习路线，但你都坚持下来了，课外花了非常多的时间，所以你既然已经这么努力了，为什么还要总是内耗自己呢？</p>
+<p>我知道你是一个敏感且感性的人，但是，请把情绪放在你一人身上，别人可能看起来进度比你快，但是！他绝对没有你努力！想想你开学以来所发出的这么多，机器学习深度学习，看完的网课读完的书，无数次内耗过后仍然选择站起来。</p>
+<p>数据结构这一关对你来说不是一件小事吗？这两天花点时间把第三章网课看完然后准备课设，很难吗？不难啊！比它更难的事我们都已经做过无数次了，郑豪，从小到大，哪一个难关难倒你了？不论是复读还是婚礼致辞，每一个看似很难的拦路虎，不都被你打倒了吗？</p>
+<p>别人什么进度管我什么事啊，看到别人学习你只需要记住，不管他们怎么学，都绝对没有你努力，将来，也绝对不会有你成功，我郑豪，就是天下第一！</p>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+  </entry>
+  <entry>
     <title>8.31</title>
     <url>/2025/08/31/8.31/</url>
     <content><![CDATA[<h2 id="8-31"><a href="#8-31" class="headerlink" title="8.31"></a>8.31</h2><h3 id="三维地质建模，并且非常侧重于将人工智能（特别是深度学习）技术应用其中，实现地质建模的智能化。"><a href="#三维地质建模，并且非常侧重于将人工智能（特别是深度学习）技术应用其中，实现地质建模的智能化。" class="headerlink" title="三维地质建模，并且非常侧重于将人工智能（特别是深度学习）技术应用其中，实现地质建模的智能化。"></a>三维地质建模，并且非常侧重于将人工智能（特别是深度学习）技术应用其中，实现地质建模的智能化。</h3><ol>
@@ -11,6 +23,44 @@
 ]]></content>
       <categories>
         <category>日记</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>三天任务</title>
+    <url>/2025/09/12/9.12~9.14%E4%B8%89%E5%A4%A9%E4%BB%BB%E5%8A%A1/</url>
+    <content><![CDATA[<p><em>前言：这几天节奏出了点问题，被一些事情影响了，但是没关系，从现在开始继续加油就完事儿了</em></p>
+<h3 id="紧急："><a href="#紧急：" class="headerlink" title="紧急："></a>紧急：</h3><ol>
+<li>数据结构学到单链表以及完成作业(周一之前要完成)</li>
+<li>计算机网络第一章复习＋作业</li>
+<li>英语读写教程(周末要提交)</li>
+</ol>
+<h3 id="稍缓："><a href="#稍缓：" class="headerlink" title="稍缓："></a>稍缓：</h3><ol>
+<li>CS231n</li>
+</ol>
+<hr>
+<h4 id="周五"><a href="#周五" class="headerlink" title="周五"></a>周五</h4><ol>
+<li>周五上午三四节课完成计算机网络的复习</li>
+<li>周五下午一二节课接着完成复习并完成作业</li>
+<li>周五下午三四节课学习数据结构课本，第一章一定要结束，第二章要开头</li>
+<li>周五晚上四个小时全学CS231n，如果累了就学会儿计网和数据结构</li>
+<li>十点半去操场跑2km，或者操场上散步也行，23:10前回宿舍</li>
+<li>回宿舍后把衣服送去洗衣机，然后洗澡</li>
+<li>洗完澡后玩玩电脑，衣服洗好了拿去晒</li>
+<li>十二点半之前睡觉</li>
+</ol>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>CS231n</title>
+    <url>/2025/09/18/CS231n/</url>
+    <content><![CDATA[<p>我们讨论过图像分类的概念，探讨了为何它如此困难，因为计算机看到的是庞大的数字网格，而你看到的是实际图像，这之间存在语义鸿沟</p>
+<p>上次我们讨论了 k-最近邻分类器，作为对整个数据驱动思维方式的简单引入。</p>
+]]></content>
+      <categories>
+        <category>深度学习入门</category>
       </categories>
   </entry>
   <entry>
@@ -82,6 +132,126 @@
       </categories>
       <tags>
         <tag>markdown</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>二、pycharm与jupyter使用与对比</title>
+    <url>/2025/08/31/pycharm%E4%B8%8Ejupyter%E4%BD%BF%E7%94%A8%E4%B8%8E%E5%AF%B9%E6%AF%94/</url>
+    <content><![CDATA[<p> 我不用pycharm，它的两种方法与vscode一样的<br> jupyter notebook的话，先打开Anaconda Prompt,然后输入如图所示代码<br> <img src="/img/pyt_beg/p3.png" alt=""></p>
+<p> 三者优缺点：<br>  <img src="/img/pyt_beg/p4.png" alt=""></p>
+]]></content>
+      <categories>
+        <category>深度学习入门</category>
+      </categories>
+      <tags>
+        <tag>python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>三、pytorch加载数据初认识</title>
+    <url>/2025/08/31/pytorch%E5%8A%A0%E8%BD%BD%E6%95%B0%E6%8D%AE%E5%88%9D%E8%AE%A4%E8%AF%86/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>深度学习入门</category>
+      </categories>
+      <tags>
+        <tag>python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>向量化</title>
+    <url>/2025/08/10/%E5%90%91%E9%87%8F%E5%8C%96/</url>
+    <content><![CDATA[<h2 id="向量化"><a href="#向量化" class="headerlink" title="向量化"></a>向量化</h2><ol>
+<li>通过编程环境内置的或者说易于获取的线性代数库，而不是自己去编写，可以大大加快运行速度(尤其是在特征量非常大的时候)，并且更加有效利用计算机的并行硬件系统</li>
+<li>代码更少，出错概率小!<br><img src="/img/ML/p2.png" alt=""><br><img src="/img/ML/p3.png" alt=""></li>
+</ol>
+]]></content>
+      <categories>
+        <category>机器学习</category>
+      </categories>
+      <tags>
+        <tag>向量化</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>分类问题</title>
+    <url>/2025/08/10/%E5%88%86%E7%B1%BB%E9%97%AE%E9%A2%98/</url>
+    <content><![CDATA[<h2 id="分类问题"><a href="#分类问题" class="headerlink" title="分类问题"></a>分类问题</h2><h3 id="基本介绍"><a href="#基本介绍" class="headerlink" title="基本介绍"></a>基本介绍</h3><p>要预测的变量y是一个离散值</p>
+<ol>
+<li><p>正类/负类</p>
+<p>一般来说，负类表示没有某样东西</p>
+</li>
+<li><p>不推荐将线性回归用于分类问题</p>
+</li>
+</ol>
+<hr>
+<p>对于标签y为离散值0或1，我们使用分类算法——<strong>logistic回归算法</strong>  </p>
+<p>特点是算法的输出或者说预测值一直介于0和1之间，不会大于1或者小于0</p>
+<p>还有，虽然名字中带有“回归”二字，但是它是一种分类算法，叫做这个只是因为历史原因<br><img src="/img/ML/p4.png" alt=""></p>
+<hr>
+<h3 id="logistic回归"><a href="#logistic回归" class="headerlink" title="logistic回归"></a>logistic回归</h3><h4 id="part-1-假设函数的表示方法"><a href="#part-1-假设函数的表示方法" class="headerlink" title="part 1 假设函数的表示方法"></a>part 1 假设函数的表示方法</h4><p><img src="/img/ML/p5.png" alt=""><br><img src="/img/ML/p6.png" alt=""><br>假设函数解读：给定参数 $\theta$,对具有 $x$特征的病人， $y=1$的概率</p>
+<h4 id="part-2-决策边界的概念"><a href="#part-2-决策边界的概念" class="headerlink" title="part 2 决策边界的概念"></a>part 2 决策边界的概念</h4><p><em>假设函数是如何做出预测的</em><br><img src="/img/ML/p7.png" alt=""></p>
+<p><em>决策边界例子</em><br><img src="/img/ML/p8.png" alt=""><br><img src="/img/ML/p9.png" alt=""><br>注意，决策边界是假设函数的一个属性，由参数 $\theta$决定，<strong>它不是数据集的属性！</strong></p>
+<h4 id="part-3-如何拟合logistic回归模型的参数-theta"><a href="#part-3-如何拟合logistic回归模型的参数-theta" class="headerlink" title="part 3 如何拟合logistic回归模型的参数 $\theta$"></a>part 3 如何拟合logistic回归模型的参数 $\theta$</h4><ol>
+<li><p>代价函数<br><img src="/img/ML/p10.png" alt=""><br><em>保证是凸函数</em></p>
+</li>
+<li><p>找出使J($\theta$)最小的 $\theta$</p>
+<p>我们要知道，假设的输出实际上就是在输入为$x$，并且以 $\theta$为参数时使 $y=1$的概率，</p>
+<p>最小化代价函数的方法是——<strong>梯度下降法</strong><br><img src="/img/ML/p11.png" alt=""></p>
+<p>如果有n个特征，那就有一个 $(n+1)$维参数向量 $\theta$。通过上面那个式子来同时更新所有 $\theta$的值（从0到n）</p>
+<p>注意别把此处的更新规则与线性回归的混为一谈，二者看似形式一样，但是此处的假设函数 $h(\theta)$的定义已经发生了变化<br><img src="/img/ML/p12.png" alt=""></p>
+<p>拓：不要用for循环实现参数更新，效率太低，用向量化来实现把n+1个参数同时更新</p>
+</li>
+</ol>
+<h4 id="part-4-多类别分类问题"><a href="#part-4-多类别分类问题" class="headerlink" title="part 4 多类别分类问题"></a>part 4 多类别分类问题</h4><p><strong>通过“一对多”的分类算法实现</strong></p>
+<p>比如说这个例子，我们要将训练集转化为三个独立的二元分类问题<br><img src="/img/ML/p13.png" alt=""></p>
+<p>在三个分类器中运行输入x，然后选择 $h$最大的类别作为预测值</p>
+<h4 id="part-5-过拟合问题"><a href="#part-5-过拟合问题" class="headerlink" title="part 5 过拟合问题"></a>part 5 过拟合问题</h4><p><img src="/img/ML/p14.png" alt=""><br><img src="/img/ML/p15.png" alt=""><br><img src="/img/ML/p16.png" alt=""></p>
+<p>当我们使用一维或二维数据时，我们可以通过绘出假设模型的图像来研究问题所在，再选择合适的多项式阶数，<strong>但是这并不总是有用</strong></p>
+<p>更多的时候，我们的学习问题需要有很多特征变量，并且这不仅仅是选择多项式阶次的问题，。当特征变量很多时，绘图变得更难，通过数据的可视化来决定保留哪些特征变量也更难</p>
+<p>但是，如果我们有过多的变量而只有非常少的训练数据，就会出现<strong>过拟合</strong>的问题</p>
+<p>有两个办法来解决过拟合的问题</p>
+<p>第一个办法是尽量减少选取的变量，但不推荐！！！因为担心丢失了有用的信息</p>
+<p>第二个才是我们主要的方法，<strong>正则化</strong></p>
+<h4 id="part-6-正则化"><a href="#part-6-正则化" class="headerlink" title="part 6 正则化"></a>part 6 正则化</h4><p><strong>核心：我们将保留所有的特征变量，但是减少量级(或者说是参数 $\theta_j$的大小)</strong></p>
+<p>当我们进行正则化的时候，我们还将写出相应的代价函数，关键是加入<strong>惩罚项</strong><br><img src="/img/ML/p17.png" alt=""><br>核心思想就是使参数尽量地小，以使假设模型更简单</p>
+<p>由于在实际情况中，我们不知道到底哪些参数要缩小，所以我们要通过一个代价函数来对所有参数进行一个操作(在原来的代价函数后面添加一个新的项——<strong>正则化项</strong>，注意求和是从1开始，不从0开始)</p>
+<p>$\lambda$被称为正则化参数，作用是控制两个不同目标之间的取舍——拟合数据与保持参数尽量地小(保持假设模型的相对简单，避免过拟合的情况)<br><img src="/img/ML/p18.png" alt=""><br><em>优化后的曲线并不是二次函数，但是却相对更平滑，更简单</em></p>
+<p>如果$\lambda$被设得太大的话，那么对每个参数的惩罚程度就太大了，都趋近于0，最后只剩$\theta_0$，变成用一条直线去拟合数据了，这就是一个<strong>欠拟合</strong>的例子，因此，正则化参数$\lambda$的选择尤其重要，接下来我们就会讲到如何自动地选择它</p>
+<h4 id="part-7-线性回归的正则化"><a href="#part-7-线性回归的正则化" class="headerlink" title="part 7 线性回归的正则化"></a>part 7 线性回归的正则化</h4><h5 id="算法一：梯度下降法"><a href="#算法一：梯度下降法" class="headerlink" title="算法一：梯度下降法"></a>算法一：梯度下降法</h5><p>把$\theta_0$的更新单独写出来，因为它不需要被惩罚</p>
+<p>当我们进行正则化线性回归时，我们要做的就是每次迭代时，都将$\theta_j$乘以一个比1略小的数。从数学的角度来看，我们做的就是对代价函数进行梯度下降<br><img src="/img/ML/p19.png" alt=""></p>
+<h5 id="算法二：正规方程"><a href="#算法二：正规方程" class="headerlink" title="算法二：正规方程"></a>算法二：正规方程</h5><p>我们的做法就是建立一个设计矩阵$X$，它的每一行都代表一个单独的训练样本。然后建立一个向量$y$，它是一个m维的向量，包含了训练集里的所有标签。</p>
+<p>所以$X$是一个$m\times(n+1)$维的矩阵，y是一个m维的向量<br><img src="/img/ML/p20.png" alt=""></p>
+<p>最后再来谈谈不可逆的问题，如果m小于n，那么$(X^TX)$是不可逆的(奇异矩阵，矩阵退化)</p>
+<p>幸运的是，在正则化中已经考虑到了这个问题，<strong>只要正则化参数$\lambda$是严格大于0的，我们就可以确定$(X^TX)$+后面那个矩阵，得到的一定不是奇异矩阵，一定是可逆的！</strong><br><img src="/img/ML/p21.png" alt=""><br>因此，进行正则化还可以解决一些X的转置乘X出现不可逆的问题</p>
+<p>好了，我们学会了实现正则化线性回归，利用它，我们就能避免出现过拟合的问题，即使在一个很小的训练集里拥有大量的特征</p>
+<h4 id="part-8-逻辑回归的正则化"><a href="#part-8-逻辑回归的正则化" class="headerlink" title="part 8 逻辑回归的正则化"></a>part 8 逻辑回归的正则化</h4><p><img src="/img/ML/p22.png" alt=""><br>总体思路与线性回归的正则化中的梯度下降法相同，但是要注意虽然二者形式看似相同，但$h_\theta(x)$并不一样！</p>
+<p>还有哦，刚才在线性回归里忘记强调了，方括号里的式子就是代价函数对$\theta_j$的偏导数</p>
+<p>拓：<br><img src="/img/ML/p37.png" alt=""></p>
+]]></content>
+      <categories>
+        <category>机器学习</category>
+      </categories>
+      <tags>
+        <tag>分类问题</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>本科生科研CV</title>
+    <url>/2025/08/30/%E6%9C%AC%E7%A7%91%E7%94%9F%E7%A7%91%E7%A0%94CV/</url>
+    <content><![CDATA[<h2 id="本科生科研CV"><a href="#本科生科研CV" class="headerlink" title="本科生科研CV"></a>本科生科研CV</h2><ol>
+<li>不要超过一页，word文档一面就行</li>
+<li>东西要写的简单</li>
+<li>从你做的最好的然后一个一个往下写(显得自信，厉害)</li>
+<li>照片弄得好看一点</li>
+<li>说明自己时间充足</li>
+</ol>
+]]></content>
+      <categories>
+        <category>科研</category>
+      </categories>
+      <tags>
+        <tag>简历</tag>
       </tags>
   </entry>
   <entry>
@@ -174,154 +344,6 @@
       </tags>
   </entry>
   <entry>
-    <title>三、pytorch加载数据初认识</title>
-    <url>/2025/08/31/pytorch%E5%8A%A0%E8%BD%BD%E6%95%B0%E6%8D%AE%E5%88%9D%E8%AE%A4%E8%AF%86/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>深度学习入门</category>
-      </categories>
-      <tags>
-        <tag>python</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>分类问题</title>
-    <url>/2025/08/10/%E5%88%86%E7%B1%BB%E9%97%AE%E9%A2%98/</url>
-    <content><![CDATA[<h2 id="分类问题"><a href="#分类问题" class="headerlink" title="分类问题"></a>分类问题</h2><h3 id="基本介绍"><a href="#基本介绍" class="headerlink" title="基本介绍"></a>基本介绍</h3><p>要预测的变量y是一个离散值</p>
-<ol>
-<li><p>正类/负类</p>
-<p>一般来说，负类表示没有某样东西</p>
-</li>
-<li><p>不推荐将线性回归用于分类问题</p>
-</li>
-</ol>
-<hr>
-<p>对于标签y为离散值0或1，我们使用分类算法——<strong>logistic回归算法</strong>  </p>
-<p>特点是算法的输出或者说预测值一直介于0和1之间，不会大于1或者小于0</p>
-<p>还有，虽然名字中带有“回归”二字，但是它是一种分类算法，叫做这个只是因为历史原因<br><img src="/img/ML/p4.png" alt=""></p>
-<hr>
-<h3 id="logistic回归"><a href="#logistic回归" class="headerlink" title="logistic回归"></a>logistic回归</h3><h4 id="part-1-假设函数的表示方法"><a href="#part-1-假设函数的表示方法" class="headerlink" title="part 1 假设函数的表示方法"></a>part 1 假设函数的表示方法</h4><p><img src="/img/ML/p5.png" alt=""><br><img src="/img/ML/p6.png" alt=""><br>假设函数解读：给定参数 $\theta$,对具有 $x$特征的病人， $y=1$的概率</p>
-<h4 id="part-2-决策边界的概念"><a href="#part-2-决策边界的概念" class="headerlink" title="part 2 决策边界的概念"></a>part 2 决策边界的概念</h4><p><em>假设函数是如何做出预测的</em><br><img src="/img/ML/p7.png" alt=""></p>
-<p><em>决策边界例子</em><br><img src="/img/ML/p8.png" alt=""><br><img src="/img/ML/p9.png" alt=""><br>注意，决策边界是假设函数的一个属性，由参数 $\theta$决定，<strong>它不是数据集的属性！</strong></p>
-<h4 id="part-3-如何拟合logistic回归模型的参数-theta"><a href="#part-3-如何拟合logistic回归模型的参数-theta" class="headerlink" title="part 3 如何拟合logistic回归模型的参数 $\theta$"></a>part 3 如何拟合logistic回归模型的参数 $\theta$</h4><ol>
-<li><p>代价函数<br><img src="/img/ML/p10.png" alt=""><br><em>保证是凸函数</em></p>
-</li>
-<li><p>找出使J($\theta$)最小的 $\theta$</p>
-<p>我们要知道，假设的输出实际上就是在输入为$x$，并且以 $\theta$为参数时使 $y=1$的概率，</p>
-<p>最小化代价函数的方法是——<strong>梯度下降法</strong><br><img src="/img/ML/p11.png" alt=""></p>
-<p>如果有n个特征，那就有一个 $(n+1)$维参数向量 $\theta$。通过上面那个式子来同时更新所有 $\theta$的值（从0到n）</p>
-<p>注意别把此处的更新规则与线性回归的混为一谈，二者看似形式一样，但是此处的假设函数 $h(\theta)$的定义已经发生了变化<br><img src="/img/ML/p12.png" alt=""></p>
-<p>拓：不要用for循环实现参数更新，效率太低，用向量化来实现把n+1个参数同时更新</p>
-</li>
-</ol>
-<h4 id="part-4-多类别分类问题"><a href="#part-4-多类别分类问题" class="headerlink" title="part 4 多类别分类问题"></a>part 4 多类别分类问题</h4><p><strong>通过“一对多”的分类算法实现</strong></p>
-<p>比如说这个例子，我们要将训练集转化为三个独立的二元分类问题<br><img src="/img/ML/p13.png" alt=""></p>
-<p>在三个分类器中运行输入x，然后选择 $h$最大的类别作为预测值</p>
-<h4 id="part-5-过拟合问题"><a href="#part-5-过拟合问题" class="headerlink" title="part 5 过拟合问题"></a>part 5 过拟合问题</h4><p><img src="/img/ML/p14.png" alt=""><br><img src="/img/ML/p15.png" alt=""><br><img src="/img/ML/p16.png" alt=""></p>
-<p>当我们使用一维或二维数据时，我们可以通过绘出假设模型的图像来研究问题所在，再选择合适的多项式阶数，<strong>但是这并不总是有用</strong></p>
-<p>更多的时候，我们的学习问题需要有很多特征变量，并且这不仅仅是选择多项式阶次的问题，。当特征变量很多时，绘图变得更难，通过数据的可视化来决定保留哪些特征变量也更难</p>
-<p>但是，如果我们有过多的变量而只有非常少的训练数据，就会出现<strong>过拟合</strong>的问题</p>
-<p>有两个办法来解决过拟合的问题</p>
-<p>第一个办法是尽量减少选取的变量，但不推荐！！！因为担心丢失了有用的信息</p>
-<p>第二个才是我们主要的方法，<strong>正则化</strong></p>
-<h4 id="part-6-正则化"><a href="#part-6-正则化" class="headerlink" title="part 6 正则化"></a>part 6 正则化</h4><p><strong>核心：我们将保留所有的特征变量，但是减少量级(或者说是参数 $\theta_j$的大小)</strong></p>
-<p>当我们进行正则化的时候，我们还将写出相应的代价函数，关键是加入<strong>惩罚项</strong><br><img src="/img/ML/p17.png" alt=""><br>核心思想就是使参数尽量地小，以使假设模型更简单</p>
-<p>由于在实际情况中，我们不知道到底哪些参数要缩小，所以我们要通过一个代价函数来对所有参数进行一个操作(在原来的代价函数后面添加一个新的项——<strong>正则化项</strong>，注意求和是从1开始，不从0开始)</p>
-<p>$\lambda$被称为正则化参数，作用是控制两个不同目标之间的取舍——拟合数据与保持参数尽量地小(保持假设模型的相对简单，避免过拟合的情况)<br><img src="/img/ML/p18.png" alt=""><br><em>优化后的曲线并不是二次函数，但是却相对更平滑，更简单</em></p>
-<p>如果$\lambda$被设得太大的话，那么对每个参数的惩罚程度就太大了，都趋近于0，最后只剩$\theta_0$，变成用一条直线去拟合数据了，这就是一个<strong>欠拟合</strong>的例子，因此，正则化参数$\lambda$的选择尤其重要，接下来我们就会讲到如何自动地选择它</p>
-<h4 id="part-7-线性回归的正则化"><a href="#part-7-线性回归的正则化" class="headerlink" title="part 7 线性回归的正则化"></a>part 7 线性回归的正则化</h4><h5 id="算法一：梯度下降法"><a href="#算法一：梯度下降法" class="headerlink" title="算法一：梯度下降法"></a>算法一：梯度下降法</h5><p>把$\theta_0$的更新单独写出来，因为它不需要被惩罚</p>
-<p>当我们进行正则化线性回归时，我们要做的就是每次迭代时，都将$\theta_j$乘以一个比1略小的数。从数学的角度来看，我们做的就是对代价函数进行梯度下降<br><img src="/img/ML/p19.png" alt=""></p>
-<h5 id="算法二：正规方程"><a href="#算法二：正规方程" class="headerlink" title="算法二：正规方程"></a>算法二：正规方程</h5><p>我们的做法就是建立一个设计矩阵$X$，它的每一行都代表一个单独的训练样本。然后建立一个向量$y$，它是一个m维的向量，包含了训练集里的所有标签。</p>
-<p>所以$X$是一个$m\times(n+1)$维的矩阵，y是一个m维的向量<br><img src="/img/ML/p20.png" alt=""></p>
-<p>最后再来谈谈不可逆的问题，如果m小于n，那么$(X^TX)$是不可逆的(奇异矩阵，矩阵退化)</p>
-<p>幸运的是，在正则化中已经考虑到了这个问题，<strong>只要正则化参数$\lambda$是严格大于0的，我们就可以确定$(X^TX)$+后面那个矩阵，得到的一定不是奇异矩阵，一定是可逆的！</strong><br><img src="/img/ML/p21.png" alt=""><br>因此，进行正则化还可以解决一些X的转置乘X出现不可逆的问题</p>
-<p>好了，我们学会了实现正则化线性回归，利用它，我们就能避免出现过拟合的问题，即使在一个很小的训练集里拥有大量的特征</p>
-<h4 id="part-8-逻辑回归的正则化"><a href="#part-8-逻辑回归的正则化" class="headerlink" title="part 8 逻辑回归的正则化"></a>part 8 逻辑回归的正则化</h4><p><img src="/img/ML/p22.png" alt=""><br>总体思路与线性回归的正则化中的梯度下降法相同，但是要注意虽然二者形式看似相同，但$h_\theta(x)$并不一样！</p>
-<p>还有哦，刚才在线性回归里忘记强调了，方括号里的式子就是代价函数对$\theta_j$的偏导数</p>
-<p>拓：<br><img src="/img/ML/p37.png" alt=""></p>
-]]></content>
-      <categories>
-        <category>机器学习</category>
-      </categories>
-      <tags>
-        <tag>分类问题</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>向量化</title>
-    <url>/2025/08/10/%E5%90%91%E9%87%8F%E5%8C%96/</url>
-    <content><![CDATA[<h2 id="向量化"><a href="#向量化" class="headerlink" title="向量化"></a>向量化</h2><ol>
-<li>通过编程环境内置的或者说易于获取的线性代数库，而不是自己去编写，可以大大加快运行速度(尤其是在特征量非常大的时候)，并且更加有效利用计算机的并行硬件系统</li>
-<li>代码更少，出错概率小!<br><img src="/img/ML/p2.png" alt=""><br><img src="/img/ML/p3.png" alt=""></li>
-</ol>
-]]></content>
-      <categories>
-        <category>机器学习</category>
-      </categories>
-      <tags>
-        <tag>向量化</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>二、pycharm与jupyter使用与对比</title>
-    <url>/2025/08/31/pycharm%E4%B8%8Ejupyter%E4%BD%BF%E7%94%A8%E4%B8%8E%E5%AF%B9%E6%AF%94/</url>
-    <content><![CDATA[<p> 我不用pycharm，它的两种方法与vscode一样的<br> jupyter notebook的话，先打开Anaconda Prompt,然后输入如图所示代码<br> <img src="/img/pyt_beg/p3.png" alt=""></p>
-<p> 三者优缺点：<br>  <img src="/img/pyt_beg/p4.png" alt=""></p>
-]]></content>
-      <categories>
-        <category>深度学习入门</category>
-      </categories>
-      <tags>
-        <tag>python</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>本科生科研CV</title>
-    <url>/2025/08/30/%E6%9C%AC%E7%A7%91%E7%94%9F%E7%A7%91%E7%A0%94CV/</url>
-    <content><![CDATA[<h2 id="本科生科研CV"><a href="#本科生科研CV" class="headerlink" title="本科生科研CV"></a>本科生科研CV</h2><ol>
-<li>不要超过一页，word文档一面就行</li>
-<li>东西要写的简单</li>
-<li>从你做的最好的然后一个一个往下写(显得自信，厉害)</li>
-<li>照片弄得好看一点</li>
-<li>说明自己时间充足</li>
-</ol>
-]]></content>
-      <categories>
-        <category>科研</category>
-      </categories>
-      <tags>
-        <tag>简历</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>三天任务</title>
-    <url>/2025/09/12/9.12~9.14%E4%B8%89%E5%A4%A9%E4%BB%BB%E5%8A%A1/</url>
-    <content><![CDATA[<p><em>前言：这几天节奏出了点问题，被一些事情影响了，但是没关系，从现在开始继续加油就完事儿了</em></p>
-<h3 id="紧急："><a href="#紧急：" class="headerlink" title="紧急："></a>紧急：</h3><ol>
-<li>数据结构学到单链表以及完成作业(周一之前要完成)</li>
-<li>计算机网络第一章复习＋作业</li>
-<li>英语读写教程(周末要提交)</li>
-</ol>
-<h3 id="稍缓："><a href="#稍缓：" class="headerlink" title="稍缓："></a>稍缓：</h3><ol>
-<li>CS231n</li>
-</ol>
-<hr>
-<h4 id="周五"><a href="#周五" class="headerlink" title="周五"></a>周五</h4><ol>
-<li>周五上午三四节课完成计算机网络的复习</li>
-<li>周五下午一二节课接着完成复习并完成作业</li>
-<li>周五下午三四节课学习数据结构课本，第一章一定要结束，第二章要开头</li>
-<li>周五晚上四个小时全学CS231n，如果累了就学会儿计网和数据结构</li>
-<li>十点半去操场跑2km，或者操场上散步也行，23:10前回宿舍</li>
-<li>回宿舍后把衣服送去洗衣机，然后洗澡</li>
-<li>洗完澡后玩玩电脑，衣服洗好了拿去晒</li>
-<li>十二点半之前睡觉</li>
-</ol>
-]]></content>
-      <categories>
-        <category>日记</category>
-      </categories>
-  </entry>
-  <entry>
     <title>正规方程补充</title>
     <url>/2025/08/09/%E6%AD%A3%E8%A7%84%E6%96%B9%E7%A8%8B%E8%A1%A5%E5%85%85/</url>
     <content><![CDATA[<h2 id="正规方程在矩阵不可逆-奇异矩阵-的情况下的解决办法"><a href="#正规方程在矩阵不可逆-奇异矩阵-的情况下的解决办法" class="headerlink" title="正规方程在矩阵不可逆(奇异矩阵)的情况下的解决办法"></a>正规方程在矩阵不可逆(奇异矩阵)的情况下的解决办法</h2><p> 首先呢，这种情况极少数发生，而且即使发生了，如果用octave中的pinv，如果不可逆也能求出伪逆<br><img src="/img/ML/p1.png" alt=""></p>
@@ -331,7 +353,7 @@
 </ol>
 ]]></content>
       <categories>
-        <category>机器学习</category>
+        <category>学习</category>
       </categories>
       <tags>
         <tag>正规方程</tag>
