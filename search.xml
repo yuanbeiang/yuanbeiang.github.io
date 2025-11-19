@@ -13,28 +13,6 @@
       </categories>
   </entry>
   <entry>
-    <title>10.12</title>
-    <url>/2025/10/12/10.12/</url>
-    <content><![CDATA[<p><em>15:33</em><br>郑豪，你想想你整个暑假做了多少事，学习各种工具，搭博客，学习机器学习，等等等等，你比别人领先了一个暑假，你慌什么啊，总是喜欢这样，就算你这个月不学习，那也比别人强，但是你有不学吗？你也在学啊，虽然最近时间没有规划好，但是没关系，你要相信，你就是最牛逼的，别总是内耗内耗内耗的，God is you，加油，你是最棒的，别人超过不了你的</p>
-]]></content>
-      <categories>
-        <category>日记</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>8.31</title>
-    <url>/2025/08/31/8.31/</url>
-    <content><![CDATA[<h2 id="8-31"><a href="#8-31" class="headerlink" title="8.31"></a>8.31</h2><h3 id="三维地质建模，并且非常侧重于将人工智能（特别是深度学习）技术应用其中，实现地质建模的智能化。"><a href="#三维地质建模，并且非常侧重于将人工智能（特别是深度学习）技术应用其中，实现地质建模的智能化。" class="headerlink" title="三维地质建模，并且非常侧重于将人工智能（特别是深度学习）技术应用其中，实现地质建模的智能化。"></a>三维地质建模，并且非常侧重于将人工智能（特别是深度学习）技术应用其中，实现地质建模的智能化。</h3><ol>
-<li><p>研究动机：为什么要进行三维地质建模？<br>这项研究有非常重要的实际应用价值，论文中提到了几个主要方向：<br>矿产勘查：通过模型找到地下哪里的矿产最丰富。<br>地质灾害预警：比如模拟和预测滑坡、地面沉降等灾害的发生。<br>城市地下空间规划：在修建地铁、地下管网前，先搞清楚地下的结构，避免风险。<br>油气资源开发：精确描绘油气储藏的形态和分布，提高开采效率。</p>
-</li>
-<li></li>
-</ol>
-]]></content>
-      <categories>
-        <category>日记</category>
-      </categories>
-  </entry>
-  <entry>
     <title>11.11</title>
     <url>/2025/11/11/11.11/</url>
     <content><![CDATA[<h3 id="GOOD"><a href="#GOOD" class="headerlink" title="GOOD"></a>GOOD</h3><ol>
@@ -56,6 +34,15 @@
       </categories>
   </entry>
   <entry>
+    <title>10.12</title>
+    <url>/2025/10/12/10.12/</url>
+    <content><![CDATA[<p><em>15:33</em><br>郑豪，你想想你整个暑假做了多少事，学习各种工具，搭博客，学习机器学习，等等等等，你比别人领先了一个暑假，你慌什么啊，总是喜欢这样，就算你这个月不学习，那也比别人强，但是你有不学吗？你也在学啊，虽然最近时间没有规划好，但是没关系，你要相信，你就是最牛逼的，别总是内耗内耗内耗的，God is you，加油，你是最棒的，别人超过不了你的</p>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+  </entry>
+  <entry>
     <title>CS231n</title>
     <url>/2025/09/18/CS231n/</url>
     <content><![CDATA[<p>我们讨论过图像分类的概念，探讨了为何它如此困难，因为计算机看到的是庞大的数字网格，而你看到的是实际图像，这之间存在语义鸿沟</p>
@@ -64,21 +51,6 @@
       <categories>
         <category>深度学习入门</category>
       </categories>
-  </entry>
-  <entry>
-    <title>一、Python学习中的两大法宝函数</title>
-    <url>/2025/08/31/Python%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E4%B8%A4%E5%A4%A7%E6%B3%95%E5%AE%9D%E5%87%BD%E6%95%B0/</url>
-    <content><![CDATA[<ol>
-<li>理解Package结构及法宝函数的作用<br><img src="/img/pyt_beg/p1.png" alt=""><br><img src="/img/pyt_beg/p2.png" alt=""></li>
-<li>实战运用两大法宝函数<br>dir(torch)<br>dir(torch.cuda)<br>dir(torch.cuda.is_available)<br>help(torch.cuda.is_available)</li>
-</ol>
-]]></content>
-      <categories>
-        <category>深度学习入门</category>
-      </categories>
-      <tags>
-        <tag>python</tag>
-      </tags>
   </entry>
   <entry>
     <title>三天任务</title>
@@ -107,6 +79,32 @@
       <categories>
         <category>日记</category>
       </categories>
+  </entry>
+  <entry>
+    <title>8.31</title>
+    <url>/2025/08/31/8.31/</url>
+    <content><![CDATA[<h2 id="8-31"><a href="#8-31" class="headerlink" title="8.31"></a>8.31</h2><h3 id="三维地质建模，并且非常侧重于将人工智能（特别是深度学习）技术应用其中，实现地质建模的智能化。"><a href="#三维地质建模，并且非常侧重于将人工智能（特别是深度学习）技术应用其中，实现地质建模的智能化。" class="headerlink" title="三维地质建模，并且非常侧重于将人工智能（特别是深度学习）技术应用其中，实现地质建模的智能化。"></a>三维地质建模，并且非常侧重于将人工智能（特别是深度学习）技术应用其中，实现地质建模的智能化。</h3><ol>
+<li><p>研究动机：为什么要进行三维地质建模？<br>这项研究有非常重要的实际应用价值，论文中提到了几个主要方向：<br>矿产勘查：通过模型找到地下哪里的矿产最丰富。<br>地质灾害预警：比如模拟和预测滑坡、地面沉降等灾害的发生。<br>城市地下空间规划：在修建地铁、地下管网前，先搞清楚地下的结构，避免风险。<br>油气资源开发：精确描绘油气储藏的形态和分布，提高开采效率。</p>
+</li>
+<li></li>
+</ol>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>二、pycharm与jupyter使用与对比</title>
+    <url>/2025/08/31/pycharm%E4%B8%8Ejupyter%E4%BD%BF%E7%94%A8%E4%B8%8E%E5%AF%B9%E6%AF%94/</url>
+    <content><![CDATA[<p> 我不用pycharm，它的两种方法与vscode一样的<br> jupyter notebook的话，先打开Anaconda Prompt,然后输入如图所示代码<br> <img src="/img/pyt_beg/p3.png" alt=""></p>
+<p> 三者优缺点：<br>  <img src="/img/pyt_beg/p4.png" alt=""></p>
+]]></content>
+      <categories>
+        <category>深度学习入门</category>
+      </categories>
+      <tags>
+        <tag>python</tag>
+      </tags>
   </entry>
   <entry>
     <title>vscode使用pytorch</title>
@@ -198,6 +196,92 @@
       </tags>
   </entry>
   <entry>
+    <title>一、Python学习中的两大法宝函数</title>
+    <url>/2025/08/31/Python%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E4%B8%A4%E5%A4%A7%E6%B3%95%E5%AE%9D%E5%87%BD%E6%95%B0/</url>
+    <content><![CDATA[<ol>
+<li>理解Package结构及法宝函数的作用<br><img src="/img/pyt_beg/p1.png" alt=""><br><img src="/img/pyt_beg/p2.png" alt=""></li>
+<li>实战运用两大法宝函数<br>dir(torch)<br>dir(torch.cuda)<br>dir(torch.cuda.is_available)<br>help(torch.cuda.is_available)</li>
+</ol>
+]]></content>
+      <categories>
+        <category>深度学习入门</category>
+      </categories>
+      <tags>
+        <tag>python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>向量化</title>
+    <url>/2025/08/10/%E5%90%91%E9%87%8F%E5%8C%96/</url>
+    <content><![CDATA[<h2 id="向量化"><a href="#向量化" class="headerlink" title="向量化"></a>向量化</h2><ol>
+<li>通过编程环境内置的或者说易于获取的线性代数库，而不是自己去编写，可以大大加快运行速度(尤其是在特征量非常大的时候)，并且更加有效利用计算机的并行硬件系统</li>
+<li>代码更少，出错概率小!<br><img src="/img/ML/p2.png" alt=""><br><img src="/img/ML/p3.png" alt=""></li>
+</ol>
+]]></content>
+      <categories>
+        <category>机器学习</category>
+      </categories>
+      <tags>
+        <tag>向量化</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>markdown基本使用方法</title>
+    <url>/2025/08/01/markdown%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</url>
+    <content><![CDATA[<h1 id="Markdown基本用法"><a href="#Markdown基本用法" class="headerlink" title="Markdown基本用法"></a>Markdown基本用法</h1><h2 id="1-标题"><a href="#1-标题" class="headerlink" title="1.标题"></a>1.标题</h2><p>井号的个数表示不同级的标题</p>
+<h2 id="2-换行"><a href="#2-换行" class="headerlink" title="2.换行"></a>2.换行</h2><ol>
+<li>换行注意要加两个空格，不然怕在其他渲染器里失效</li>
+<li>如果中间空一行，那就是新起一段</li>
+</ol>
+<h2 id="3-强调（加粗和斜体）"><a href="#3-强调（加粗和斜体）" class="headerlink" title="3.强调（加粗和斜体）"></a>3.强调（加粗和斜体）</h2><ol>
+<li>加粗：左右各加两个*</li>
+<li>斜体：左右各加一个*</li>
+<li>快捷键（前提安装了扩展）<ol>
+<li>斜体：ctrl+i</li>
+<li>加粗：ctrl+b</li>
+</ol>
+</li>
+</ol>
+<h2 id="4-列表"><a href="#4-列表" class="headerlink" title="4.列表"></a>4.列表</h2><ol>
+<li>tab键可以继续缩进列表</li>
+<li>列表编号你自己写的数字不用在意，系统会自动渲染成正确的顺序</li>
+<li>如果要重新从1开始哦编号，只需要在两个列表之间加一个段落就行</li>
+</ol>
+<h2 id="5-图片"><a href="#5-图片" class="headerlink" title="5.图片"></a>5.图片</h2><p>先把图片保存到文件夹，然后输入![]（） 括号里在加上一个英文句号，然后就可以选择照片</p>
+<h2 id="6-插入公式"><a href="#6-插入公式" class="headerlink" title="6.插入公式"></a>6.插入公式</h2><ol>
+<li>用$$括起来即可</li>
+<li>markdown all in one可以提供自动补全(怎么失效了┭┮﹏┭┮)</li>
+<li>文字中插入公式：ctrl+m<br>注意在第一个美元符号前加空格，以保证兼容性</li>
+<li>如果按两下ctrl+m，那就是单独一段的公式</li>
+</ol>
+<h2 id="7-表格"><a href="#7-表格" class="headerlink" title="7.表格"></a>7.表格</h2><ol>
+<li>表格第一行代表标头</li>
+<li>用  |   隔开</li>
+<li>表头下面需要加上一行—-|—-|—-</li>
+<li>表格默认左对齐，—-:右对齐，:—-:居中对齐</li>
+<li>alt+shift+f 格式化，使表格在文本中变得好看一点</li>
+</ol>
+<h2 id="8-链接"><a href="#8-链接" class="headerlink" title="8.链接"></a>8.链接</h2><ol>
+<li>把链接复制之后ctrl+v到选中的文字（安装扩展后）</li>
+</ol>
+<h2 id="9-代码块"><a href="#9-代码块" class="headerlink" title="9.代码块"></a>9.代码块</h2><ol>
+<li>一对```</li>
+<li>后面加上使用的编程语言名称即可实现高亮</li>
+</ol>
+<h2 id="10-导出为pdf"><a href="#10-导出为pdf" class="headerlink" title="10.导出为pdf"></a>10.导出为pdf</h2><p>按此方法能保证公式渲染正确</p>
+<h2 id="11-其他语法"><a href="#11-其他语法" class="headerlink" title="11.其他语法"></a>11.其他语法</h2><p>这里是<a href="https://markdown.com.cn/basic-syntax/">链接</a><br>如果latex公式出现问题，请访问此<a href="https://rickliu.com/posts/f9538327001b/index.html">链接</a></p>
+<blockquote>
+<p>最后来张图片~<br><img src="/img/Yojiro.jpg" alt=""></p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>工具使用教程</category>
+      </categories>
+      <tags>
+        <tag>markdown</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>三、pytorch加载数据初认识</title>
     <url>/2025/08/31/pytorch%E5%8A%A0%E8%BD%BD%E6%95%B0%E6%8D%AE%E5%88%9D%E8%AE%A4%E8%AF%86/</url>
     <content><![CDATA[]]></content>
@@ -206,6 +290,24 @@
       </categories>
       <tags>
         <tag>python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>本科生科研CV</title>
+    <url>/2025/08/30/%E6%9C%AC%E7%A7%91%E7%94%9F%E7%A7%91%E7%A0%94CV/</url>
+    <content><![CDATA[<h2 id="本科生科研CV"><a href="#本科生科研CV" class="headerlink" title="本科生科研CV"></a>本科生科研CV</h2><ol>
+<li>不要超过一页，word文档一面就行</li>
+<li>东西要写的简单</li>
+<li>从你做的最好的然后一个一个往下写(显得自信，厉害)</li>
+<li>照片弄得好看一点</li>
+<li>说明自己时间充足</li>
+</ol>
+]]></content>
+      <categories>
+        <category>科研</category>
+      </categories>
+      <tags>
+        <tag>简历</tag>
       </tags>
   </entry>
   <entry>
@@ -272,87 +374,33 @@
       </tags>
   </entry>
   <entry>
-    <title>markdown基本使用方法</title>
-    <url>/2025/08/01/markdown%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</url>
-    <content><![CDATA[<h1 id="Markdown基本用法"><a href="#Markdown基本用法" class="headerlink" title="Markdown基本用法"></a>Markdown基本用法</h1><h2 id="1-标题"><a href="#1-标题" class="headerlink" title="1.标题"></a>1.标题</h2><p>井号的个数表示不同级的标题</p>
-<h2 id="2-换行"><a href="#2-换行" class="headerlink" title="2.换行"></a>2.换行</h2><ol>
-<li>换行注意要加两个空格，不然怕在其他渲染器里失效</li>
-<li>如果中间空一行，那就是新起一段</li>
-</ol>
-<h2 id="3-强调（加粗和斜体）"><a href="#3-强调（加粗和斜体）" class="headerlink" title="3.强调（加粗和斜体）"></a>3.强调（加粗和斜体）</h2><ol>
-<li>加粗：左右各加两个*</li>
-<li>斜体：左右各加一个*</li>
-<li>快捷键（前提安装了扩展）<ol>
-<li>斜体：ctrl+i</li>
-<li>加粗：ctrl+b</li>
-</ol>
-</li>
-</ol>
-<h2 id="4-列表"><a href="#4-列表" class="headerlink" title="4.列表"></a>4.列表</h2><ol>
-<li>tab键可以继续缩进列表</li>
-<li>列表编号你自己写的数字不用在意，系统会自动渲染成正确的顺序</li>
-<li>如果要重新从1开始哦编号，只需要在两个列表之间加一个段落就行</li>
-</ol>
-<h2 id="5-图片"><a href="#5-图片" class="headerlink" title="5.图片"></a>5.图片</h2><p>先把图片保存到文件夹，然后输入![]（） 括号里在加上一个英文句号，然后就可以选择照片</p>
-<h2 id="6-插入公式"><a href="#6-插入公式" class="headerlink" title="6.插入公式"></a>6.插入公式</h2><ol>
-<li>用$$括起来即可</li>
-<li>markdown all in one可以提供自动补全(怎么失效了┭┮﹏┭┮)</li>
-<li>文字中插入公式：ctrl+m<br>注意在第一个美元符号前加空格，以保证兼容性</li>
-<li>如果按两下ctrl+m，那就是单独一段的公式</li>
-</ol>
-<h2 id="7-表格"><a href="#7-表格" class="headerlink" title="7.表格"></a>7.表格</h2><ol>
-<li>表格第一行代表标头</li>
-<li>用  |   隔开</li>
-<li>表头下面需要加上一行—-|—-|—-</li>
-<li>表格默认左对齐，—-:右对齐，:—-:居中对齐</li>
-<li>alt+shift+f 格式化，使表格在文本中变得好看一点</li>
-</ol>
-<h2 id="8-链接"><a href="#8-链接" class="headerlink" title="8.链接"></a>8.链接</h2><ol>
-<li>把链接复制之后ctrl+v到选中的文字（安装扩展后）</li>
-</ol>
-<h2 id="9-代码块"><a href="#9-代码块" class="headerlink" title="9.代码块"></a>9.代码块</h2><ol>
-<li>一对```</li>
-<li>后面加上使用的编程语言名称即可实现高亮</li>
-</ol>
-<h2 id="10-导出为pdf"><a href="#10-导出为pdf" class="headerlink" title="10.导出为pdf"></a>10.导出为pdf</h2><p>按此方法能保证公式渲染正确</p>
-<h2 id="11-其他语法"><a href="#11-其他语法" class="headerlink" title="11.其他语法"></a>11.其他语法</h2><p>这里是<a href="https://markdown.com.cn/basic-syntax/">链接</a><br>如果latex公式出现问题，请访问此<a href="https://rickliu.com/posts/f9538327001b/index.html">链接</a></p>
-<blockquote>
-<p>最后来张图片~<br><img src="/img/Yojiro.jpg" alt=""></p>
-</blockquote>
+    <title></title>
+    <url>/2025/11/02/%E7%A7%91%E7%A0%94%E9%87%8D%E8%A6%81%E7%9F%A5%E8%AF%86%E7%82%B9/</url>
+    <content><![CDATA[<h3 id="何为断控"><a href="#何为断控" class="headerlink" title="何为断控"></a>何为断控</h3><p> 一个关键的新概念：“断控体”<br>原文： “…溶蚀作用较弱, 称为“断控体”…”<br>解析： 这是顺北油田区别于塔河油田等其他缝洞型油气藏的核心特征。<br>断溶体 (Fault-Karst Body): “断裂”和“溶蚀”共同作用，且溶蚀作用强。可以想象成先有裂缝，然后水沿着裂缝把岩石溶蚀成大大小小的洞穴。<br>断控体 (Fault-Controlled Body): “断裂”起绝对主导作用，溶蚀作用很弱。储集空间主要是由断裂运动直接产生的裂缝、破碎带构成的。<br>对您课题的意义： 您要建模的对象，其几何形态和内部结构更多地遵循构造物理学的规律，而不是化学溶蚀的规律。</p>
+<h3 id="三大储油空间"><a href="#三大储油空间" class="headerlink" title="三大储油空间"></a>三大储油空间</h3><p>三大储油空间<br>原文： “…沿断裂带发育断裂面、类洞穴和杂乱体三大储集空间。”<br>解析： 这明确了储层不是一整块，而是由三种不同形态的地质体构成的复合体。<br>断裂面 (Fracture Planes): 类似“面”状的储集空间，是油气高速公路。<br>类洞穴 (Cave-like Bodies): 在断裂活动最强烈的地方形成的“团块”状破碎空间，是油气的巨型仓库。<br>杂乱体 (Disordered Bodies): 形态不规则的破碎区域。<br>对您课题的意义： 您的模型需要能够识别并分别刻画这三种不同形态的储集体。</p>
+<h3 id="栅状充填结构"><a href="#栅状充填结构" class="headerlink" title="栅状充填结构"></a>栅状充填结构</h3><p>原文： “…断裂面与类洞穴内部…构造破碎区域被角砾充填, 形成角砾带, 与破碎程度弱的基岩带交替发育, 形成栅状充填结构特征…”<br>解析： 这是最核心、最关键的一句话，直接点明了储层内部的精细结构，也是传统建模方法最头疼的地方。<br>它说明储层内部不是空洞，也不是均匀的砂子填充。<br>它是一种有序的、交替出现的结构。<br>角砾带 (Breccia Belt): 被构造运动震碎的岩石碎块（角砾）堆积区。这里孔隙发育，是优质储层。<br>基岩带 (Bedrock Belt): 相对完整的、破碎程度弱的岩石。这里基本不储油，是非储层。<br>栅状结构 (Grille-like Structure): 这两种“带”像栅栏的木条和空隙一样交替排列，形成了油气的优势渗流通道。<br>对您课题的意义： 您的扩散模型的核心任务，就是要能够生成这种地质意义明确、结构特征清晰的“栅状结构”。 这将是您研究成果的最大亮点。</p>
+<h3 id="最终的研究目标：定量化三维地质模型"><a href="#最终的研究目标：定量化三维地质模型" class="headerlink" title="最终的研究目标：定量化三维地质模型"></a>最终的研究目标：定量化三维地质模型</h3><p>原文： “为实现定量化表征…建立定量化的三维油气藏地质模型成为重点研究方向之一…”<br>解析： 这句话指出了最终的落脚点。地质研究不能只停留在定性的描述上，必须转化为定量的、可用于计算的三维数字模型。这个模型是后续进行储量计算、油井部署、开采方案模拟的唯一依据。<br>对您课题的意义： 您用扩散模型生成的，不是一张好看的图片，而是一个包含空间坐标和岩石类型（角砾带/基岩带）属性的三维数据体。</p>
+<h3 id="主应力"><a href="#主应力" class="headerlink" title="主应力"></a>主应力</h3><p>主应力是描述物体（岩石）内部受力状态的最简化方式。</p>
+<p>它由三个相互垂直、没有剪切力（纯挤压或拉伸）的应力（σ₁, σ₂, σ₃）组成。</p>
+<p>主应力的大小和方向，决定了岩石将会如何破裂以及裂缝的走向。</p>
+<p>岩石最容易沿着一个与最大主应力（σ₁）方向成大约 30 度角的方向发生剪切破裂。</p>
+<p>在您的课题中，主应力是形成储层内部“栅状结构”的根本原因和总指挥。理解了主应力，才能理解栅状结构的成因和分布规律，也才能建立出符合地质规律的模型。</p>
 ]]></content>
-      <categories>
-        <category>工具使用教程</category>
-      </categories>
-      <tags>
-        <tag>markdown</tag>
-      </tags>
   </entry>
   <entry>
-    <title>二、pycharm与jupyter使用与对比</title>
-    <url>/2025/08/31/pycharm%E4%B8%8Ejupyter%E4%BD%BF%E7%94%A8%E4%B8%8E%E5%AF%B9%E6%AF%94/</url>
-    <content><![CDATA[<p> 我不用pycharm，它的两种方法与vscode一样的<br> jupyter notebook的话，先打开Anaconda Prompt,然后输入如图所示代码<br> <img src="/img/pyt_beg/p3.png" alt=""></p>
-<p> 三者优缺点：<br>  <img src="/img/pyt_beg/p4.png" alt=""></p>
-]]></content>
-      <categories>
-        <category>深度学习入门</category>
-      </categories>
-      <tags>
-        <tag>python</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>向量化</title>
-    <url>/2025/08/10/%E5%90%91%E9%87%8F%E5%8C%96/</url>
-    <content><![CDATA[<h2 id="向量化"><a href="#向量化" class="headerlink" title="向量化"></a>向量化</h2><ol>
-<li>通过编程环境内置的或者说易于获取的线性代数库，而不是自己去编写，可以大大加快运行速度(尤其是在特征量非常大的时候)，并且更加有效利用计算机的并行硬件系统</li>
-<li>代码更少，出错概率小!<br><img src="/img/ML/p2.png" alt=""><br><img src="/img/ML/p3.png" alt=""></li>
+    <title>正规方程补充</title>
+    <url>/2025/08/09/%E6%AD%A3%E8%A7%84%E6%96%B9%E7%A8%8B%E8%A1%A5%E5%85%85/</url>
+    <content><![CDATA[<h2 id="正规方程在矩阵不可逆-奇异矩阵-的情况下的解决办法"><a href="#正规方程在矩阵不可逆-奇异矩阵-的情况下的解决办法" class="headerlink" title="正规方程在矩阵不可逆(奇异矩阵)的情况下的解决办法"></a>正规方程在矩阵不可逆(奇异矩阵)的情况下的解决办法</h2><p> 首先呢，这种情况极少数发生，而且即使发生了，如果用octave中的pinv，如果不可逆也能求出伪逆<br><img src="/img/ML/p1.png" alt=""></p>
+<h3 id="为什么-X-TX-会出现不可逆的情况？"><a href="#为什么-X-TX-会出现不可逆的情况？" class="headerlink" title="为什么$X^TX$会出现不可逆的情况？"></a>为什么$X^TX$会出现不可逆的情况？</h3><ol>
+<li>包含了多余的特征，比如一个以米为单位，另一个以英尺为单位，线性相关</li>
+<li>运行的算法的特征太多了($m\le n$)<br>在此情况下，我们通常要删掉一些特征或者使用<strong>正则化</strong></li>
 </ol>
 ]]></content>
       <categories>
-        <category>机器学习</category>
+        <category>学习</category>
       </categories>
       <tags>
-        <tag>向量化</tag>
+        <tag>正规方程</tag>
       </tags>
   </entry>
   <entry>
@@ -433,57 +481,9 @@
       </categories>
   </entry>
   <entry>
-    <title>正规方程补充</title>
-    <url>/2025/08/09/%E6%AD%A3%E8%A7%84%E6%96%B9%E7%A8%8B%E8%A1%A5%E5%85%85/</url>
-    <content><![CDATA[<h2 id="正规方程在矩阵不可逆-奇异矩阵-的情况下的解决办法"><a href="#正规方程在矩阵不可逆-奇异矩阵-的情况下的解决办法" class="headerlink" title="正规方程在矩阵不可逆(奇异矩阵)的情况下的解决办法"></a>正规方程在矩阵不可逆(奇异矩阵)的情况下的解决办法</h2><p> 首先呢，这种情况极少数发生，而且即使发生了，如果用octave中的pinv，如果不可逆也能求出伪逆<br><img src="/img/ML/p1.png" alt=""></p>
-<h3 id="为什么-X-TX-会出现不可逆的情况？"><a href="#为什么-X-TX-会出现不可逆的情况？" class="headerlink" title="为什么$X^TX$会出现不可逆的情况？"></a>为什么$X^TX$会出现不可逆的情况？</h3><ol>
-<li>包含了多余的特征，比如一个以米为单位，另一个以英尺为单位，线性相关</li>
-<li>运行的算法的特征太多了($m\le n$)<br>在此情况下，我们通常要删掉一些特征或者使用<strong>正则化</strong></li>
-</ol>
-]]></content>
-      <categories>
-        <category>学习</category>
-      </categories>
-      <tags>
-        <tag>正规方程</tag>
-      </tags>
-  </entry>
-  <entry>
     <title></title>
     <url>/2025/11/07/%E7%BC%9D%E6%B4%9E%E5%9E%8B%E5%88%86%E4%BA%AB/</url>
     <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title></title>
-    <url>/2025/11/02/%E7%A7%91%E7%A0%94%E9%87%8D%E8%A6%81%E7%9F%A5%E8%AF%86%E7%82%B9/</url>
-    <content><![CDATA[<h3 id="何为断控"><a href="#何为断控" class="headerlink" title="何为断控"></a>何为断控</h3><p> 一个关键的新概念：“断控体”<br>原文： “…溶蚀作用较弱, 称为“断控体”…”<br>解析： 这是顺北油田区别于塔河油田等其他缝洞型油气藏的核心特征。<br>断溶体 (Fault-Karst Body): “断裂”和“溶蚀”共同作用，且溶蚀作用强。可以想象成先有裂缝，然后水沿着裂缝把岩石溶蚀成大大小小的洞穴。<br>断控体 (Fault-Controlled Body): “断裂”起绝对主导作用，溶蚀作用很弱。储集空间主要是由断裂运动直接产生的裂缝、破碎带构成的。<br>对您课题的意义： 您要建模的对象，其几何形态和内部结构更多地遵循构造物理学的规律，而不是化学溶蚀的规律。</p>
-<h3 id="三大储油空间"><a href="#三大储油空间" class="headerlink" title="三大储油空间"></a>三大储油空间</h3><p>三大储油空间<br>原文： “…沿断裂带发育断裂面、类洞穴和杂乱体三大储集空间。”<br>解析： 这明确了储层不是一整块，而是由三种不同形态的地质体构成的复合体。<br>断裂面 (Fracture Planes): 类似“面”状的储集空间，是油气高速公路。<br>类洞穴 (Cave-like Bodies): 在断裂活动最强烈的地方形成的“团块”状破碎空间，是油气的巨型仓库。<br>杂乱体 (Disordered Bodies): 形态不规则的破碎区域。<br>对您课题的意义： 您的模型需要能够识别并分别刻画这三种不同形态的储集体。</p>
-<h3 id="栅状充填结构"><a href="#栅状充填结构" class="headerlink" title="栅状充填结构"></a>栅状充填结构</h3><p>原文： “…断裂面与类洞穴内部…构造破碎区域被角砾充填, 形成角砾带, 与破碎程度弱的基岩带交替发育, 形成栅状充填结构特征…”<br>解析： 这是最核心、最关键的一句话，直接点明了储层内部的精细结构，也是传统建模方法最头疼的地方。<br>它说明储层内部不是空洞，也不是均匀的砂子填充。<br>它是一种有序的、交替出现的结构。<br>角砾带 (Breccia Belt): 被构造运动震碎的岩石碎块（角砾）堆积区。这里孔隙发育，是优质储层。<br>基岩带 (Bedrock Belt): 相对完整的、破碎程度弱的岩石。这里基本不储油，是非储层。<br>栅状结构 (Grille-like Structure): 这两种“带”像栅栏的木条和空隙一样交替排列，形成了油气的优势渗流通道。<br>对您课题的意义： 您的扩散模型的核心任务，就是要能够生成这种地质意义明确、结构特征清晰的“栅状结构”。 这将是您研究成果的最大亮点。</p>
-<h3 id="最终的研究目标：定量化三维地质模型"><a href="#最终的研究目标：定量化三维地质模型" class="headerlink" title="最终的研究目标：定量化三维地质模型"></a>最终的研究目标：定量化三维地质模型</h3><p>原文： “为实现定量化表征…建立定量化的三维油气藏地质模型成为重点研究方向之一…”<br>解析： 这句话指出了最终的落脚点。地质研究不能只停留在定性的描述上，必须转化为定量的、可用于计算的三维数字模型。这个模型是后续进行储量计算、油井部署、开采方案模拟的唯一依据。<br>对您课题的意义： 您用扩散模型生成的，不是一张好看的图片，而是一个包含空间坐标和岩石类型（角砾带/基岩带）属性的三维数据体。</p>
-<h3 id="主应力"><a href="#主应力" class="headerlink" title="主应力"></a>主应力</h3><p>主应力是描述物体（岩石）内部受力状态的最简化方式。</p>
-<p>它由三个相互垂直、没有剪切力（纯挤压或拉伸）的应力（σ₁, σ₂, σ₃）组成。</p>
-<p>主应力的大小和方向，决定了岩石将会如何破裂以及裂缝的走向。</p>
-<p>岩石最容易沿着一个与最大主应力（σ₁）方向成大约 30 度角的方向发生剪切破裂。</p>
-<p>在您的课题中，主应力是形成储层内部“栅状结构”的根本原因和总指挥。理解了主应力，才能理解栅状结构的成因和分布规律，也才能建立出符合地质规律的模型。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>本科生科研CV</title>
-    <url>/2025/08/30/%E6%9C%AC%E7%A7%91%E7%94%9F%E7%A7%91%E7%A0%94CV/</url>
-    <content><![CDATA[<h2 id="本科生科研CV"><a href="#本科生科研CV" class="headerlink" title="本科生科研CV"></a>本科生科研CV</h2><ol>
-<li>不要超过一页，word文档一面就行</li>
-<li>东西要写的简单</li>
-<li>从你做的最好的然后一个一个往下写(显得自信，厉害)</li>
-<li>照片弄得好看一点</li>
-<li>说明自己时间充足</li>
-</ol>
-]]></content>
-      <categories>
-        <category>科研</category>
-      </categories>
-      <tags>
-        <tag>简历</tag>
-      </tags>
   </entry>
   <entry>
     <title>知识点积累</title>
