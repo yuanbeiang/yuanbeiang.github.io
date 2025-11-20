@@ -7,8 +7,8 @@
    * center top 的意思是：水平方向依然居中，但垂直方向请对齐到顶部！
    */
   --global-bg: url(/img/cover/zyp.jpeg) no-repeat 50% 20% fixed !important;
-  --trans-light: rgba(255, 255, 255, 0.88);
-  --trans-dark: rgba(25, 25, 25, 0.88);
+  --trans-light: rgba(255, 255, 255, 1);
+  --trans-dark: rgba(25, 25, 25, 1);
   --border-style: 1px solid rgb(169, 169, 169);
   /* --backdrop-filter: blur(5px) saturate(150%); */
   --backdrop-filter: none;
