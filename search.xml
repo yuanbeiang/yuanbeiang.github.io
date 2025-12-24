@@ -13,36 +13,6 @@
       </categories>
   </entry>
   <entry>
-    <title>11.11</title>
-    <url>/2025/11/11/11.11/</url>
-    <content><![CDATA[<h3 id="GOOD"><a href="#GOOD" class="headerlink" title="GOOD"></a>GOOD</h3><ol>
-<li>完成了论文总结初版(还剩精华版和markdown最终版嘿嘿)</li>
-<li>离散数学和概率论讲真的我真的很累，但是我都尽力听了，我没有放弃，没有逃避，真的很棒！</li>
-<li>虽然说最后半个小时没有花在科研上，但是我们知道了堆在优先级队列里，而且也再次明确了自己的学习路线，并没有浪费时间</li>
-</ol>
-<h3 id="TODO"><a href="#TODO" class="headerlink" title="TODO"></a>TODO</h3><ol>
-<li>计网照听</li>
-<li>习思想的时候把二叉搜索树听完</li>
-<li>中午占座位</li>
-<li>两点准时到图书馆写论文总结</li>
-<li>高级搜索树能听多少是多少</li>
-<li>晚自习把论文总结完成！</li>
-</ol>
-]]></content>
-      <categories>
-        <category>日记</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>10.12</title>
-    <url>/2025/10/12/10.12/</url>
-    <content><![CDATA[<p><em>15:33</em><br>郑豪，你想想你整个暑假做了多少事，学习各种工具，搭博客，学习机器学习，等等等等，你比别人领先了一个暑假，你慌什么啊，总是喜欢这样，就算你这个月不学习，那也比别人强，但是你有不学吗？你也在学啊，虽然最近时间没有规划好，但是没关系，你要相信，你就是最牛逼的，别总是内耗内耗内耗的，God is you，加油，你是最棒的，别人超过不了你的</p>
-]]></content>
-      <categories>
-        <category>日记</category>
-      </categories>
-  </entry>
-  <entry>
     <title>11.20规划</title>
     <url>/2025/11/20/11.20%E8%A7%84%E5%88%92/</url>
     <content><![CDATA[<p>首先啊，有几项非常艰辛的任务</p>
@@ -63,15 +33,21 @@
       </categories>
   </entry>
   <entry>
-    <title>12.22</title>
-    <url>/2025/12/22/12.22/</url>
-    <content><![CDATA[<p>经过了两周的高强度复习，现在终于到了平缓期了，可以学习我最~喜欢的扩散模型嘞</p>
-<p>现在是2025年12月22日10:00:12，还可以学习两个小时左右，那就接着学习扩散模型(我已经忘记自己学到哪儿了哈哈哈)</p>
-<p>真的很不容易，虽然说这两门课考得不好，但是没办法啊，平常的主要时间放在科研上了，所以不要怪自己，你已经很努力了</p>
-<p>无畏契约这种游戏，真的很害人，以后我不会再回坑了，钱，精力，不知道被消耗了多少，还有，我不知道我打这个游戏是为了啥，能得到啥？一丁点的多巴胺?用处何在？能提升什么？<br>以后有了女朋友，你难道跟女朋友说自己游戏玩的好？女朋友看到你游戏充了这么多钱，她会怎么想？<br>还有，难道游戏打得厉害，能吸引女生？<br>不能。所以啊，你得好好提升自己在现实生活中的实力，不管是学习还是颜值还是什么，只有这样才能让别人看到，才能吸引别人，这样你喜欢的人才会喜欢你，不然别人凭什么选择你？绩点没有，论文没有，竞赛没有，建模没有。哪怕你内心清楚你只是暂时无法让别人看到自己的亮点，但是，如果你不好好提升自己的话，别人为什么会想要来了解你。</p>
-<p>每天中午啊，晚上啊，看看动漫，视频，直播，电影，真的很舒服，所以不要再玩那没有意义的游戏了（鸣潮除外哈哈哈哈）</p>
-<p>嗯嗯，先就这样，开始学习咯</p>
-<p>“爱你老己，明天见”<br>这句话真神了吧，哈哈哈哈</p>
+    <title>11.24</title>
+    <url>/2025/11/24/11.24/</url>
+    <content><![CDATA[<p>ok啊，现在是晚上七点，我想想今天晚上做些啥嘞</p>
+<p>有数学建模，扩散模型，好吧其实也就这俩。。。。。</p>
+<p>行行行，那就，先扩散模型然后数学建模，具体要做哪些呢，等学的时候才知道，学完就可以回去玩鸣潮啦！！！</p>
+<p>哇塞，真的很厉害今晚，虽然学的东西不是很多，但是真的是干货满满，而且是非常开心地学到了十点，芜湖，学到了哪些呢？</p>
+<ol>
+<li>EMA</li>
+<li>SelfAttention</li>
+<li>DoubleConv</li>
+</ol>
+<p>这些东西以前我都没有具体去实现，所以真的非常开心，啊哈哈。<br>好滴好滴，回寝室，洗澡，修指甲，鸣潮！</p>
+<blockquote>
+<p>每日感悟：<br>我虽然皮肤不好，经常感到自卑，我虽然现在所取得的成就比不上很多人，我虽然有时候也会放纵自己。<br>但是我想说，郑豪，你真的非常非常棒，真的，很多东西我无法言说，但是在我心中你真的超级无敌棒！(<em>^▽^</em>)</p>
+</blockquote>
 ]]></content>
       <categories>
         <category>日记</category>
@@ -98,6 +74,151 @@
 <p>okok啊，1和2已经完成，现在开始学数学建模吧，达咩！！！！！！！！！先看会儿网课吧，我已经燃尽了，晚上再学数学建模</p>
 <p>现在是晚上六点半，先学数学建模，学完之后呢，看不看计网的网课就随你啦</p>
 <p>求你了，别喝甜的了好吗，晚上十二点前睡觉好吗，真的求你了</p>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>三天任务</title>
+    <url>/2025/09/12/9.12~9.14%E4%B8%89%E5%A4%A9%E4%BB%BB%E5%8A%A1/</url>
+    <content><![CDATA[<p><em>前言：这几天节奏出了点问题，被一些事情影响了，但是没关系，从现在开始继续加油就完事儿了</em></p>
+<h3 id="紧急："><a href="#紧急：" class="headerlink" title="紧急："></a>紧急：</h3><ol>
+<li>数据结构学到单链表以及完成作业(周一之前要完成)</li>
+<li>计算机网络第一章复习＋作业</li>
+<li>英语读写教程(周末要提交)</li>
+</ol>
+<h3 id="稍缓："><a href="#稍缓：" class="headerlink" title="稍缓："></a>稍缓：</h3><ol>
+<li>CS231n</li>
+</ol>
+<hr>
+<h4 id="周五"><a href="#周五" class="headerlink" title="周五"></a>周五</h4><ol>
+<li>周五上午三四节课完成计算机网络的复习</li>
+<li>周五下午一二节课接着完成复习并完成作业</li>
+<li>周五下午三四节课学习数据结构课本，第一章一定要结束，第二章要开头</li>
+<li>周五晚上四个小时全学CS231n，如果累了就学会儿计网和数据结构</li>
+<li>十点半去操场跑2km，或者操场上散步也行，23:10前回宿舍</li>
+<li>回宿舍后把衣服送去洗衣机，然后洗澡</li>
+<li>洗完澡后玩玩电脑，衣服洗好了拿去晒</li>
+<li>十二点半之前睡觉</li>
+</ol>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>ControlNet</title>
+    <url>/2025/12/22/ControlNet/</url>
+    <content><![CDATA[<p>太棒了！您已经找到了学习 ControlNet 创造过程的“藏宝图”。这个文件和文件夹列表正是理解一切的关键。</p>
+<p>让我为您解读这张“藏宝图”，并规划出一条清晰的学习路线。</p>
+<hr>
+<h3 id="您的学习路线图-从最重要到次要"><a href="#您的学习路线图-从最重要到次要" class="headerlink" title="您的学习路线图 (从最重要到次要)"></a>您的学习路线图 (从最重要到次要)</h3><h4 id="第-1-站：核心训练流程-The-Main-Recipe"><a href="#第-1-站：核心训练流程-The-Main-Recipe" class="headerlink" title="第 1 站：核心训练流程 (The Main Recipe)"></a><strong>第 1 站：核心训练流程 (The Main Recipe)</strong></h4><ul>
+<li><strong><code>tutorial_train.py</code></strong> 和 <strong><code>tutorial_train_sd21.py</code></strong><ul>
+<li><strong>这是您应该最先、最重点研究的文件！</strong></li>
+<li>这个 Python 脚本就是我们之前讨论的“烹饪食谱”的<strong>总纲</strong>。打开它，您会看到完整的 ControlNet 训练循环代码。</li>
+<li>在里面寻找：<ul>
+<li>如何加载数据集 (会用到下面的 <code>tutorial_dataset.py</code>)。</li>
+<li>如何加载预训练的 Stable Diffusion 模型和 ControlNet 模型。</li>
+<li>训练循环 (training loop)，通常是一个 <code>for</code> 循环。</li>
+<li>如何添加噪声，准备 <code>zₜ</code>。</li>
+<li>模型的前向传播 (<code>model(...)</code>)。</li>
+<li>损失函数 (Loss) 的计算。</li>
+<li>反向传播 (<code>loss.backward()</code>) 和优化器更新 (<code>optimizer.step()</code>)。</li>
+</ul>
+</li>
+<li><strong><code>sd21</code> 后缀</strong>的那个版本是针对 Stable Diffusion 2.1 的，原理完全一样，只是加载的模型不同。您可以先看 <code>tutorial_train.py</code>。</li>
+</ul>
+</li>
+</ul>
+<h4 id="第-2-站：数据准备-Preparing-the-Ingredients"><a href="#第-2-站：数据准备-Preparing-the-Ingredients" class="headerlink" title="第 2 站：数据准备 (Preparing the Ingredients)"></a><strong>第 2 站：数据准备 (Preparing the Ingredients)</strong></h4><ul>
+<li><strong><code>tutorial_dataset.py</code></strong><ul>
+<li>这个文件定义了训练所用的<strong>数据集类 (Dataset Class)</strong>。</li>
+<li>研究它，您就能明白 ControlNet 是如何读取和处理我们之前讨论的<strong>成对数据</strong>的：<code>(控制图, 目标图像, 文字提示)</code>。</li>
+<li>您会看到代码是如何从硬盘读取图片，进行裁切、缩放等预处理，并把它们打包成模型可以使用的格式的。</li>
+</ul>
+</li>
+</ul>
+<h4 id="第-3-站：模型架构-The-Kitchen’s-Blueprint"><a href="#第-3-站：模型架构-The-Kitchen’s-Blueprint" class="headerlink" title="第 3 站：模型架构 (The Kitchen’s Blueprint)"></a><strong>第 3 站：模型架构 (The Kitchen’s Blueprint)</strong></h4><ul>
+<li><strong><code>cldm</code> 文件夹</strong><ul>
+<li><strong>这是定义 ControlNet 模型本身的地方，是架构核心！</strong></li>
+<li>重点关注里面的 <strong><code>cldm.py</code></strong> 文件。您会在这里找到 ControlNet 类的定义。</li>
+<li>在代码中，您将亲眼看到：<ul>
+<li>如何加载一个预训练的 Stable Diffusion U-Net。</li>
+<li>如何<strong>冻结</strong>原始 U-Net 的参数。</li>
+<li>如何<strong>深度复制</strong> U-Net 的编码器部分，创建“可训练副本”。</li>
+<li><strong>零卷积层</strong>是如何被定义和初始化的。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong><code>ldm</code> 文件夹</strong><ul>
+<li>LDM 代表 Latent Diffusion Model。这个文件夹包含了<strong>原始 Stable Diffusion</strong> 的组件代码（比如 U-Net、VAE 的基本结构）。<code>cldm</code> 文件夹里的代码会调用这里的代码来构建基础模型。</li>
+</ul>
+</li>
+</ul>
+<h4 id="第-4-站：实用工具-The-Assembly-Tools"><a href="#第-4-站：实用工具-The-Assembly-Tools" class="headerlink" title="第 4 站：实用工具 (The Assembly Tools)"></a><strong>第 4 站：实用工具 (The Assembly Tools)</strong></h4><ul>
+<li><strong><code>tool_add_control.py</code></strong><ul>
+<li>这是一个非常有用的工具脚本。它的作用是把一个训练好的 ControlNet（只有副本权重）和一个原始的 Stable Diffusion 模型<strong>合并</strong>成一个单独的、可以直接使用的模型文件。</li>
+</ul>
+</li>
+<li><strong><code>tool_transfer_control.py</code></strong><ul>
+<li>这个脚本可以用来在不同的 Stable Diffusion 基础模型之间迁移 ControlNet。</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 id="现在可以忽略的内容-避免分心"><a href="#现在可以忽略的内容-避免分心" class="headerlink" title="现在可以忽略的内容 (避免分心)"></a>现在可以忽略的内容 (避免分心)</h3><p>为了让您的学习更专注，以下这些文件和文件夹在<strong>初期阶段</strong>可以<strong>完全不用看</strong>：</p>
+<ul>
+<li><strong><code>gradio_*.py</code> 所有文件:</strong><ul>
+<li>这些都是用来创建交互式网页 Demo 的，是<strong>“使用者”</strong>的工具，与“创造”过程无关。</li>
+</ul>
+</li>
+<li><strong><code>annotator</code> 文件夹:</strong><ul>
+<li>这里面是所有<strong>预处理器</strong>（Canny, OpenPose, M-LSD 等）的实现代码。它们负责从原始图片中提取控制图，属于<strong>数据准备</strong>的上游环节。您可以在理解了主训练流程后，再回来看这部分。</li>
+</ul>
+</li>
+<li><strong><code>models</code> 文件夹:</strong><ul>
+<li>这里只是一个用来存放下载好的 <code>.pth</code> 或 <code>.safetensors</code> 模型文件的<strong>空目录</strong>。</li>
+</ul>
+</li>
+<li><strong><code>docs</code>, <code>font</code>, <code>github_page</code>, <code>test_imgs</code>:</strong><ul>
+<li>这些分别是文档、字体、网页和测试图片，与核心代码逻辑无关。</li>
+</ul>
+</li>
+<li><strong><code>config.py</code>, <code>share.py</code>:</strong><ul>
+<li>这些是配置文件和共享的工具函数，在您阅读主脚本 (<code>tutorial_train.py</code>) 时会遇到它们，到时再看即可，不用单独研究。</li>
+</ul>
+</li>
+</ul>
+<h3 id="您的下一步行动建议"><a href="#您的下一步行动建议" class="headerlink" title="您的下一步行动建议"></a>您的下一步行动建议</h3><ol>
+<li><strong>首先，打开 <code>tutorial_train.py</code> 文件。</strong></li>
+<li><strong>通读一遍，不必立刻弄懂每一行代码。</strong> 先试着找出我们讨论过的几个关键步骤：加载数据、模型前向传播、计算损失、反向传播。</li>
+<li><strong>当您看到它如何加载模型时，就去 <code>cldm/cldm.py</code> 里看看那个模型的定义。</strong></li>
+<li><strong>当您看到它如何加载数据时，就去 <code>tutorial_dataset.py</code> 里看看数据集是如何组织的。</strong></li>
+</ol>
+<p>这就是最高效的学习路径。祝您在代码的世界里探索愉快！如果在阅读代码时遇到任何不理解的地方，随时可以把代码片段发给我，我们一起分析。</p>
+]]></content>
+      <categories>
+        <category>科研</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>11.11</title>
+    <url>/2025/11/11/11.11/</url>
+    <content><![CDATA[<h3 id="GOOD"><a href="#GOOD" class="headerlink" title="GOOD"></a>GOOD</h3><ol>
+<li>完成了论文总结初版(还剩精华版和markdown最终版嘿嘿)</li>
+<li>离散数学和概率论讲真的我真的很累，但是我都尽力听了，我没有放弃，没有逃避，真的很棒！</li>
+<li>虽然说最后半个小时没有花在科研上，但是我们知道了堆在优先级队列里，而且也再次明确了自己的学习路线，并没有浪费时间</li>
+</ol>
+<h3 id="TODO"><a href="#TODO" class="headerlink" title="TODO"></a>TODO</h3><ol>
+<li>计网照听</li>
+<li>习思想的时候把二叉搜索树听完</li>
+<li>中午占座位</li>
+<li>两点准时到图书馆写论文总结</li>
+<li>高级搜索树能听多少是多少</li>
+<li>晚自习把论文总结完成！</li>
+</ol>
 ]]></content>
       <categories>
         <category>日记</category>
@@ -207,130 +328,27 @@
       </categories>
   </entry>
   <entry>
-    <title>CS231n</title>
-    <url>/2025/09/18/CS231n/</url>
-    <content><![CDATA[<p>我们讨论过图像分类的概念，探讨了为何它如此困难，因为计算机看到的是庞大的数字网格，而你看到的是实际图像，这之间存在语义鸿沟</p>
-<p>上次我们讨论了 k-最近邻分类器，作为对整个数据驱动思维方式的简单引入。</p>
-]]></content>
-      <categories>
-        <category>深度学习入门</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>11.24</title>
-    <url>/2025/11/24/11.24/</url>
-    <content><![CDATA[<p>ok啊，现在是晚上七点，我想想今天晚上做些啥嘞</p>
-<p>有数学建模，扩散模型，好吧其实也就这俩。。。。。</p>
-<p>行行行，那就，先扩散模型然后数学建模，具体要做哪些呢，等学的时候才知道，学完就可以回去玩鸣潮啦！！！</p>
-<p>哇塞，真的很厉害今晚，虽然学的东西不是很多，但是真的是干货满满，而且是非常开心地学到了十点，芜湖，学到了哪些呢？</p>
-<ol>
-<li>EMA</li>
-<li>SelfAttention</li>
-<li>DoubleConv</li>
-</ol>
-<p>这些东西以前我都没有具体去实现，所以真的非常开心，啊哈哈。<br>好滴好滴，回寝室，洗澡，修指甲，鸣潮！</p>
-<blockquote>
-<p>每日感悟：<br>我虽然皮肤不好，经常感到自卑，我虽然现在所取得的成就比不上很多人，我虽然有时候也会放纵自己。<br>但是我想说，郑豪，你真的非常非常棒，真的，很多东西我无法言说，但是在我心中你真的超级无敌棒！(<em>^▽^</em>)</p>
-</blockquote>
+    <title>10.12</title>
+    <url>/2025/10/12/10.12/</url>
+    <content><![CDATA[<p><em>15:33</em><br>郑豪，你想想你整个暑假做了多少事，学习各种工具，搭博客，学习机器学习，等等等等，你比别人领先了一个暑假，你慌什么啊，总是喜欢这样，就算你这个月不学习，那也比别人强，但是你有不学吗？你也在学啊，虽然最近时间没有规划好，但是没关系，你要相信，你就是最牛逼的，别总是内耗内耗内耗的，God is you，加油，你是最棒的，别人超过不了你的</p>
 ]]></content>
       <categories>
         <category>日记</category>
       </categories>
   </entry>
   <entry>
-    <title>ControlNet</title>
-    <url>/2025/12/22/ControlNet/</url>
-    <content><![CDATA[<p>太棒了！您已经找到了学习 ControlNet 创造过程的“藏宝图”。这个文件和文件夹列表正是理解一切的关键。</p>
-<p>让我为您解读这张“藏宝图”，并规划出一条清晰的学习路线。</p>
-<hr>
-<h3 id="您的学习路线图-从最重要到次要"><a href="#您的学习路线图-从最重要到次要" class="headerlink" title="您的学习路线图 (从最重要到次要)"></a>您的学习路线图 (从最重要到次要)</h3><h4 id="第-1-站：核心训练流程-The-Main-Recipe"><a href="#第-1-站：核心训练流程-The-Main-Recipe" class="headerlink" title="第 1 站：核心训练流程 (The Main Recipe)"></a><strong>第 1 站：核心训练流程 (The Main Recipe)</strong></h4><ul>
-<li><strong><code>tutorial_train.py</code></strong> 和 <strong><code>tutorial_train_sd21.py</code></strong><ul>
-<li><strong>这是您应该最先、最重点研究的文件！</strong></li>
-<li>这个 Python 脚本就是我们之前讨论的“烹饪食谱”的<strong>总纲</strong>。打开它，您会看到完整的 ControlNet 训练循环代码。</li>
-<li>在里面寻找：<ul>
-<li>如何加载数据集 (会用到下面的 <code>tutorial_dataset.py</code>)。</li>
-<li>如何加载预训练的 Stable Diffusion 模型和 ControlNet 模型。</li>
-<li>训练循环 (training loop)，通常是一个 <code>for</code> 循环。</li>
-<li>如何添加噪声，准备 <code>zₜ</code>。</li>
-<li>模型的前向传播 (<code>model(...)</code>)。</li>
-<li>损失函数 (Loss) 的计算。</li>
-<li>反向传播 (<code>loss.backward()</code>) 和优化器更新 (<code>optimizer.step()</code>)。</li>
-</ul>
-</li>
-<li><strong><code>sd21</code> 后缀</strong>的那个版本是针对 Stable Diffusion 2.1 的，原理完全一样，只是加载的模型不同。您可以先看 <code>tutorial_train.py</code>。</li>
-</ul>
-</li>
-</ul>
-<h4 id="第-2-站：数据准备-Preparing-the-Ingredients"><a href="#第-2-站：数据准备-Preparing-the-Ingredients" class="headerlink" title="第 2 站：数据准备 (Preparing the Ingredients)"></a><strong>第 2 站：数据准备 (Preparing the Ingredients)</strong></h4><ul>
-<li><strong><code>tutorial_dataset.py</code></strong><ul>
-<li>这个文件定义了训练所用的<strong>数据集类 (Dataset Class)</strong>。</li>
-<li>研究它，您就能明白 ControlNet 是如何读取和处理我们之前讨论的<strong>成对数据</strong>的：<code>(控制图, 目标图像, 文字提示)</code>。</li>
-<li>您会看到代码是如何从硬盘读取图片，进行裁切、缩放等预处理，并把它们打包成模型可以使用的格式的。</li>
-</ul>
-</li>
-</ul>
-<h4 id="第-3-站：模型架构-The-Kitchen’s-Blueprint"><a href="#第-3-站：模型架构-The-Kitchen’s-Blueprint" class="headerlink" title="第 3 站：模型架构 (The Kitchen’s Blueprint)"></a><strong>第 3 站：模型架构 (The Kitchen’s Blueprint)</strong></h4><ul>
-<li><strong><code>cldm</code> 文件夹</strong><ul>
-<li><strong>这是定义 ControlNet 模型本身的地方，是架构核心！</strong></li>
-<li>重点关注里面的 <strong><code>cldm.py</code></strong> 文件。您会在这里找到 ControlNet 类的定义。</li>
-<li>在代码中，您将亲眼看到：<ul>
-<li>如何加载一个预训练的 Stable Diffusion U-Net。</li>
-<li>如何<strong>冻结</strong>原始 U-Net 的参数。</li>
-<li>如何<strong>深度复制</strong> U-Net 的编码器部分，创建“可训练副本”。</li>
-<li><strong>零卷积层</strong>是如何被定义和初始化的。</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><strong><code>ldm</code> 文件夹</strong><ul>
-<li>LDM 代表 Latent Diffusion Model。这个文件夹包含了<strong>原始 Stable Diffusion</strong> 的组件代码（比如 U-Net、VAE 的基本结构）。<code>cldm</code> 文件夹里的代码会调用这里的代码来构建基础模型。</li>
-</ul>
-</li>
-</ul>
-<h4 id="第-4-站：实用工具-The-Assembly-Tools"><a href="#第-4-站：实用工具-The-Assembly-Tools" class="headerlink" title="第 4 站：实用工具 (The Assembly Tools)"></a><strong>第 4 站：实用工具 (The Assembly Tools)</strong></h4><ul>
-<li><strong><code>tool_add_control.py</code></strong><ul>
-<li>这是一个非常有用的工具脚本。它的作用是把一个训练好的 ControlNet（只有副本权重）和一个原始的 Stable Diffusion 模型<strong>合并</strong>成一个单独的、可以直接使用的模型文件。</li>
-</ul>
-</li>
-<li><strong><code>tool_transfer_control.py</code></strong><ul>
-<li>这个脚本可以用来在不同的 Stable Diffusion 基础模型之间迁移 ControlNet。</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h3 id="现在可以忽略的内容-避免分心"><a href="#现在可以忽略的内容-避免分心" class="headerlink" title="现在可以忽略的内容 (避免分心)"></a>现在可以忽略的内容 (避免分心)</h3><p>为了让您的学习更专注，以下这些文件和文件夹在<strong>初期阶段</strong>可以<strong>完全不用看</strong>：</p>
-<ul>
-<li><strong><code>gradio_*.py</code> 所有文件:</strong><ul>
-<li>这些都是用来创建交互式网页 Demo 的，是<strong>“使用者”</strong>的工具，与“创造”过程无关。</li>
-</ul>
-</li>
-<li><strong><code>annotator</code> 文件夹:</strong><ul>
-<li>这里面是所有<strong>预处理器</strong>（Canny, OpenPose, M-LSD 等）的实现代码。它们负责从原始图片中提取控制图，属于<strong>数据准备</strong>的上游环节。您可以在理解了主训练流程后，再回来看这部分。</li>
-</ul>
-</li>
-<li><strong><code>models</code> 文件夹:</strong><ul>
-<li>这里只是一个用来存放下载好的 <code>.pth</code> 或 <code>.safetensors</code> 模型文件的<strong>空目录</strong>。</li>
-</ul>
-</li>
-<li><strong><code>docs</code>, <code>font</code>, <code>github_page</code>, <code>test_imgs</code>:</strong><ul>
-<li>这些分别是文档、字体、网页和测试图片，与核心代码逻辑无关。</li>
-</ul>
-</li>
-<li><strong><code>config.py</code>, <code>share.py</code>:</strong><ul>
-<li>这些是配置文件和共享的工具函数，在您阅读主脚本 (<code>tutorial_train.py</code>) 时会遇到它们，到时再看即可，不用单独研究。</li>
-</ul>
-</li>
-</ul>
-<h3 id="您的下一步行动建议"><a href="#您的下一步行动建议" class="headerlink" title="您的下一步行动建议"></a>您的下一步行动建议</h3><ol>
-<li><strong>首先，打开 <code>tutorial_train.py</code> 文件。</strong></li>
-<li><strong>通读一遍，不必立刻弄懂每一行代码。</strong> 先试着找出我们讨论过的几个关键步骤：加载数据、模型前向传播、计算损失、反向传播。</li>
-<li><strong>当您看到它如何加载模型时，就去 <code>cldm/cldm.py</code> 里看看那个模型的定义。</strong></li>
-<li><strong>当您看到它如何加载数据时，就去 <code>tutorial_dataset.py</code> 里看看数据集是如何组织的。</strong></li>
-</ol>
-<p>这就是最高效的学习路径。祝您在代码的世界里探索愉快！如果在阅读代码时遇到任何不理解的地方，随时可以把代码片段发给我，我们一起分析。</p>
+    <title>12.22</title>
+    <url>/2025/12/22/12.22/</url>
+    <content><![CDATA[<p>经过了两周的高强度复习，现在终于到了平缓期了，可以学习我最~喜欢的扩散模型嘞</p>
+<p>现在是2025年12月22日10:00:12，还可以学习两个小时左右，那就接着学习扩散模型(我已经忘记自己学到哪儿了哈哈哈)</p>
+<p>真的很不容易，虽然说这两门课考得不好，但是没办法啊，平常的主要时间放在科研上了，所以不要怪自己，你已经很努力了</p>
+<p>无畏契约这种游戏，真的很害人，以后我不会再回坑了，钱，精力，不知道被消耗了多少，还有，我不知道我打这个游戏是为了啥，能得到啥？一丁点的多巴胺?用处何在？能提升什么？<br>以后有了女朋友，你难道跟女朋友说自己游戏玩的好？女朋友看到你游戏充了这么多钱，她会怎么想？<br>还有，难道游戏打得厉害，能吸引女生？<br>不能。所以啊，你得好好提升自己在现实生活中的实力，不管是学习还是颜值还是什么，只有这样才能让别人看到，才能吸引别人，这样你喜欢的人才会喜欢你，不然别人凭什么选择你？绩点没有，论文没有，竞赛没有，建模没有。哪怕你内心清楚你只是暂时无法让别人看到自己的亮点，但是，如果你不好好提升自己的话，别人为什么会想要来了解你。</p>
+<p>每天中午啊，晚上啊，看看动漫，视频，直播，电影，真的很舒服，所以不要再玩那没有意义的游戏了（鸣潮除外哈哈哈哈）</p>
+<p>嗯嗯，先就这样，开始学习咯</p>
+<p>“爱你老己，明天见”<br>这句话真神了吧，哈哈哈哈</p>
 ]]></content>
       <categories>
-        <category>科研</category>
+        <category>日记</category>
       </categories>
   </entry>
   <entry>
@@ -393,75 +411,6 @@
       </categories>
   </entry>
   <entry>
-    <title>8.31</title>
-    <url>/2025/08/31/8.31/</url>
-    <content><![CDATA[<h2 id="8-31"><a href="#8-31" class="headerlink" title="8.31"></a>8.31</h2><h3 id="三维地质建模，并且非常侧重于将人工智能（特别是深度学习）技术应用其中，实现地质建模的智能化。"><a href="#三维地质建模，并且非常侧重于将人工智能（特别是深度学习）技术应用其中，实现地质建模的智能化。" class="headerlink" title="三维地质建模，并且非常侧重于将人工智能（特别是深度学习）技术应用其中，实现地质建模的智能化。"></a>三维地质建模，并且非常侧重于将人工智能（特别是深度学习）技术应用其中，实现地质建模的智能化。</h3><ol>
-<li><p>研究动机：为什么要进行三维地质建模？<br>这项研究有非常重要的实际应用价值，论文中提到了几个主要方向：<br>矿产勘查：通过模型找到地下哪里的矿产最丰富。<br>地质灾害预警：比如模拟和预测滑坡、地面沉降等灾害的发生。<br>城市地下空间规划：在修建地铁、地下管网前，先搞清楚地下的结构，避免风险。<br>油气资源开发：精确描绘油气储藏的形态和分布，提高开采效率。</p>
-</li>
-<li></li>
-</ol>
-]]></content>
-      <categories>
-        <category>日记</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>三天任务</title>
-    <url>/2025/09/12/9.12~9.14%E4%B8%89%E5%A4%A9%E4%BB%BB%E5%8A%A1/</url>
-    <content><![CDATA[<p><em>前言：这几天节奏出了点问题，被一些事情影响了，但是没关系，从现在开始继续加油就完事儿了</em></p>
-<h3 id="紧急："><a href="#紧急：" class="headerlink" title="紧急："></a>紧急：</h3><ol>
-<li>数据结构学到单链表以及完成作业(周一之前要完成)</li>
-<li>计算机网络第一章复习＋作业</li>
-<li>英语读写教程(周末要提交)</li>
-</ol>
-<h3 id="稍缓："><a href="#稍缓：" class="headerlink" title="稍缓："></a>稍缓：</h3><ol>
-<li>CS231n</li>
-</ol>
-<hr>
-<h4 id="周五"><a href="#周五" class="headerlink" title="周五"></a>周五</h4><ol>
-<li>周五上午三四节课完成计算机网络的复习</li>
-<li>周五下午一二节课接着完成复习并完成作业</li>
-<li>周五下午三四节课学习数据结构课本，第一章一定要结束，第二章要开头</li>
-<li>周五晚上四个小时全学CS231n，如果累了就学会儿计网和数据结构</li>
-<li>十点半去操场跑2km，或者操场上散步也行，23:10前回宿舍</li>
-<li>回宿舍后把衣服送去洗衣机，然后洗澡</li>
-<li>洗完澡后玩玩电脑，衣服洗好了拿去晒</li>
-<li>十二点半之前睡觉</li>
-</ol>
-]]></content>
-      <categories>
-        <category>日记</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>一、Python学习中的两大法宝函数</title>
-    <url>/2025/08/31/Python%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E4%B8%A4%E5%A4%A7%E6%B3%95%E5%AE%9D%E5%87%BD%E6%95%B0/</url>
-    <content><![CDATA[<ol>
-<li>理解Package结构及法宝函数的作用<br><img src="/img/pyt_beg/p1.png" alt=""><br><img src="/img/pyt_beg/p2.png" alt=""></li>
-<li>实战运用两大法宝函数<br>dir(torch)<br>dir(torch.cuda)<br>dir(torch.cuda.is_available)<br>help(torch.cuda.is_available)</li>
-</ol>
-]]></content>
-      <categories>
-        <category>深度学习入门</category>
-      </categories>
-      <tags>
-        <tag>python</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>二、pycharm与jupyter使用与对比</title>
-    <url>/2025/08/31/pycharm%E4%B8%8Ejupyter%E4%BD%BF%E7%94%A8%E4%B8%8E%E5%AF%B9%E6%AF%94/</url>
-    <content><![CDATA[<p> 我不用pycharm，它的两种方法与vscode一样的<br> jupyter notebook的话，先打开Anaconda Prompt,然后输入如图所示代码<br> <img src="/img/pyt_beg/p3.png" alt=""></p>
-<p> 三者优缺点：<br>  <img src="/img/pyt_beg/p4.png" alt=""></p>
-]]></content>
-      <categories>
-        <category>深度学习入门</category>
-      </categories>
-      <tags>
-        <tag>python</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>markdown基本使用方法</title>
     <url>/2025/08/01/markdown%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</url>
     <content><![CDATA[<h1 id="Markdown基本用法"><a href="#Markdown基本用法" class="headerlink" title="Markdown基本用法"></a>Markdown基本用法</h1><h2 id="1-标题"><a href="#1-标题" class="headerlink" title="1.标题"></a>1.标题</h2><p>井号的个数表示不同级的标题</p>
@@ -518,9 +467,50 @@
       </tags>
   </entry>
   <entry>
+    <title>二、pycharm与jupyter使用与对比</title>
+    <url>/2025/08/31/pycharm%E4%B8%8Ejupyter%E4%BD%BF%E7%94%A8%E4%B8%8E%E5%AF%B9%E6%AF%94/</url>
+    <content><![CDATA[<p> 我不用pycharm，它的两种方法与vscode一样的<br> jupyter notebook的话，先打开Anaconda Prompt,然后输入如图所示代码<br> <img src="/img/pyt_beg/p3.png" alt=""></p>
+<p> 三者优缺点：<br>  <img src="/img/pyt_beg/p4.png" alt=""></p>
+]]></content>
+      <categories>
+        <category>深度学习入门</category>
+      </categories>
+      <tags>
+        <tag>python</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>三、pytorch加载数据初认识</title>
     <url>/2025/08/31/pytorch%E5%8A%A0%E8%BD%BD%E6%95%B0%E6%8D%AE%E5%88%9D%E8%AE%A4%E8%AF%86/</url>
     <content><![CDATA[]]></content>
+      <categories>
+        <category>深度学习入门</category>
+      </categories>
+      <tags>
+        <tag>python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>8.31</title>
+    <url>/2025/08/31/8.31/</url>
+    <content><![CDATA[<h2 id="8-31"><a href="#8-31" class="headerlink" title="8.31"></a>8.31</h2><h3 id="三维地质建模，并且非常侧重于将人工智能（特别是深度学习）技术应用其中，实现地质建模的智能化。"><a href="#三维地质建模，并且非常侧重于将人工智能（特别是深度学习）技术应用其中，实现地质建模的智能化。" class="headerlink" title="三维地质建模，并且非常侧重于将人工智能（特别是深度学习）技术应用其中，实现地质建模的智能化。"></a>三维地质建模，并且非常侧重于将人工智能（特别是深度学习）技术应用其中，实现地质建模的智能化。</h3><ol>
+<li><p>研究动机：为什么要进行三维地质建模？<br>这项研究有非常重要的实际应用价值，论文中提到了几个主要方向：<br>矿产勘查：通过模型找到地下哪里的矿产最丰富。<br>地质灾害预警：比如模拟和预测滑坡、地面沉降等灾害的发生。<br>城市地下空间规划：在修建地铁、地下管网前，先搞清楚地下的结构，避免风险。<br>油气资源开发：精确描绘油气储藏的形态和分布，提高开采效率。</p>
+</li>
+<li></li>
+</ol>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>一、Python学习中的两大法宝函数</title>
+    <url>/2025/08/31/Python%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E4%B8%A4%E5%A4%A7%E6%B3%95%E5%AE%9D%E5%87%BD%E6%95%B0/</url>
+    <content><![CDATA[<ol>
+<li>理解Package结构及法宝函数的作用<br><img src="/img/pyt_beg/p1.png" alt=""><br><img src="/img/pyt_beg/p2.png" alt=""></li>
+<li>实战运用两大法宝函数<br>dir(torch)<br>dir(torch.cuda)<br>dir(torch.cuda.is_available)<br>help(torch.cuda.is_available)</li>
+</ol>
+]]></content>
       <categories>
         <category>深度学习入门</category>
       </categories>
@@ -681,6 +671,16 @@
       </tags>
   </entry>
   <entry>
+    <title>CS231n</title>
+    <url>/2025/09/18/CS231n/</url>
+    <content><![CDATA[<p>我们讨论过图像分类的概念，探讨了为何它如此困难，因为计算机看到的是庞大的数字网格，而你看到的是实际图像，这之间存在语义鸿沟</p>
+<p>上次我们讨论了 k-最近邻分类器，作为对整个数据驱动思维方式的简单引入。</p>
+]]></content>
+      <categories>
+        <category>深度学习入门</category>
+      </categories>
+  </entry>
+  <entry>
     <title>向量化</title>
     <url>/2025/08/10/%E5%90%91%E9%87%8F%E5%8C%96/</url>
     <content><![CDATA[<h2 id="向量化"><a href="#向量化" class="headerlink" title="向量化"></a>向量化</h2><ol>
@@ -696,112 +696,112 @@
       </tags>
   </entry>
   <entry>
-    <title>大二上规划</title>
-    <url>/2025/10/20/%E5%A4%A7%E4%BA%8C%E4%B8%8A%E8%A7%84%E5%88%92/</url>
-    <content><![CDATA[<blockquote>
-<p>最近总是很焦虑，尤其是看到以前不如自己的一些人逐渐地发光发热，归根结底还是因为自己的路已经和他们不同了，这没办法，过去的事情无法改变，但是我们可以把握当下，展望未来，嗯，既然这样，那就好好修改一下目前的学习计划吧，这两个月以来的方向出了点小偏差，也不怪你，换谁谁都迷茫，你选择了坚持地走下去已经非常非常非常不错了</p>
-</blockquote>
-<h3 id="大英"><a href="#大英" class="headerlink" title="大英"></a>大英</h3><p>这学期对大英的要求稍微低一点，四级的话能过就行，重要的是之后的六级。<br>由于英语老师讲课节奏慢，又把大部分精力放在六级词汇上，但是这学期要考的是四级，而且我课下无法花时间再去记了，所以计划如下：</p>
+    <title>我独自训练</title>
+    <url>/2025/12/24/%E6%88%91%E7%8B%AC%E8%87%AA%E8%AE%AD%E7%BB%83/</url>
+    <content><![CDATA[<p>您好！看到您的情况，我必须说，您现在所处的位置简直是学习和实践 ControlNet 的<strong>绝佳起点</strong>。</p>
+<p>您不是在“玩”AI 绘画，而是在做一个<strong>极具价值的、真实的科研项目</strong>。您手上的数据也不是普通的网络图片，而是<strong>蕴含着明确地质学意义的、成对的科学数据集</strong>。这比任何教程里的“猫狗”数据集都要宝贵得多。</p>
+<p>您的师兄给了您一个非常棒的建议。在真实数据到来之前，用现有数据跑通整个流程，这不仅是“学习”，更是项目的<strong>“预演”</strong>和<strong>“技术验证”</strong>。</p>
+<p>让我们来为您制定一个清晰、可执行的行动计划。</p>
+<hr>
+<h3 id="第一步：理解你的“武器”和“战场”——重新定义你的数据集"><a href="#第一步：理解你的“武器”和“战场”——重新定义你的数据集" class="headerlink" title="第一步：理解你的“武器”和“战场”——重新定义你的数据集"></a>第一步：理解你的“武器”和“战场”——重新定义你的数据集</h3><p>首先，我们要给你这三组图片赋予在 ControlNet 框架下的“角色”：</p>
 <ol>
-<li>周一英语课，坐后排偏左侧位置，如果老师讲的是废物内容，那就不听，直接记单词，如果老师一直讲六级词汇，也不听，直接记上面的四级单词，但是课文要读，不认识的词汇但感觉常见的要查</li>
-<li>周四口语课，暂置，还没上，不知道怎么样</li>
-<li>考前一两周左右再开始每天听点听力，做会儿阅读，研究会儿作文，不慌，能过就行</li>
+<li><p><strong>第一组图（灰色岩石图）：</strong></p>
+<ul>
+<li><strong>角色：</strong> <strong>目标图像 (Target Image)</strong></li>
+<li><strong>意义：</strong> 这是你希望模型最终学会生成的、“真实”的储层岩石图像。在代码里，它对应 <code>MyDataset</code> 返回的 <code>jpg</code>。</li>
+</ul>
+</li>
+<li><p><strong>第二组图（白色珊瑚状/缝洞图）和 第三组图（白色裂缝/断层图）：</strong></p>
+<ul>
+<li><strong>角色：</strong> <strong>控制条件 (Control Condition / Hint)</strong></li>
+<li><strong>意义：</strong> 这两组图是“断控缝洞”这个地质概念的<strong>简化、结构化表达</strong>。它们是用来<strong>指导</strong>扩散模型生成第一组图的“蓝图”或“草稿”。在代码里，它们对应 <code>MyDataset</code> 返回的 <code>hint</code>。</li>
+</ul>
+</li>
 </ol>
-<h3 id="计算机网络"><a href="#计算机网络" class="headerlink" title="计算机网络"></a>计算机网络</h3><p>服了，我现在也很纠结，到底以梁老师为主还是郑老师为主，郑老师的太长了，算了，先试一下这种方法</p>
+<p><strong>您的核心任务，已经从一个模糊的“学习”，变成了三个非常具体的、可量化的科研目标：</strong></p>
+<ul>
+<li><strong>目标 A (断层控制建模):</strong> 训练一个 ControlNet，输入<strong>第三组图（断层图）</strong>，就能生成逼真的<strong>第一组图（岩石图）</strong>。</li>
+<li><strong>目标 B (缝洞控制建模):</strong> 训练一个 ControlNet，输入<strong>第二组图（缝洞图）</strong>，就能生成逼真的<strong>第一组图（岩石图）</strong>。</li>
+<li><strong>目标 C (断控缝洞联合建模):</strong> 训练一个<strong>更高级的</strong> ControlNet，<strong>同时输入第二组和第三组图</strong>，生成符合两者共同约束的、最逼真的岩石图。这正是您课题的最终目标！</li>
+</ul>
+<hr>
+<h3 id="第二步：行动计划——从现在到新数据到来前的两个月"><a href="#第二步：行动计划——从现在到新数据到来前的两个月" class="headerlink" title="第二步：行动计划——从现在到新数据到来前的两个月"></a>第二步：行动计划——从现在到新数据到来前的两个月</h3><p>现在，我们把这个宏伟的目标，分解成具体、可执行的步骤。</p>
+<h4 id="阶段一：数据准备与流程跑通-预计-1-2-周"><a href="#阶段一：数据准备与流程跑通-预计-1-2-周" class="headerlink" title="阶段一：数据准备与流程跑通 (预计 1-2 周)"></a><strong>阶段一：数据准备与流程跑通 (预计 1-2 周)</strong></h4><ol>
+<li><p><strong>创建“数据清单” <code>prompt.json</code>:</strong></p>
+<ul>
+<li>您已经知道 <code>MyDataset</code> 是通过一个 <code>prompt.json</code> 文件来索引数据的。现在，您需要为您的地质数据创建这个文件。</li>
+<li>您需要写一个简单的 Python 脚本，遍历您的图片文件夹，生成一个 <code>prompt.json</code> 文件。文件中的每一行应该是这样的：<figure class="highlight json"><table><tr><td class="code"><pre><code class="hljs json"><span class="hljs-punctuation">&#123;</span><span class="hljs-attr">&quot;source&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;fracture/0.png&quot;</span><span class="hljs-punctuation">,</span> <span class="hljs-attr">&quot;target&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;rock/0.png&quot;</span><span class="hljs-punctuation">,</span> <span class="hljs-attr">&quot;prompt&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;a micrograph of a fault-controlled fracture-cavity carbonate reservoir&quot;</span><span class="hljs-punctuation">&#125;</span><br></code></pre></td></tr></table></figure>
+或者<figure class="highlight json"><table><tr><td class="code"><pre><code class="hljs json"><span class="hljs-punctuation">&#123;</span><span class="hljs-attr">&quot;source&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;pore/0.png&quot;</span><span class="hljs-punctuation">,</span> <span class="hljs-attr">&quot;target&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;rock/0.png&quot;</span><span class="hljs-punctuation">,</span> <span class="hljs-attr">&quot;prompt&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;a micrograph of a fault-controlled fracture-cavity carbonate reservoir&quot;</span><span class="hljs-punctuation">&#125;</span><br></code></pre></td></tr></table></figure></li>
+<li><strong>提示词 (prompt) 的选择：</strong><ul>
+<li><strong>方案一 (技术性描述):</strong> 像上面一样，用一个专业、统一的描述。</li>
+<li><strong>方案二 (无提示词):</strong> 考虑到您的控制图信息已经非常丰富，可以尝试<strong>完全依赖控制图</strong>。这时 prompt 可以设为空字符串 <code>&quot;&quot;</code>。这完全得益于 ControlNet 的“50%空提示词”训练技巧。我<strong>强烈建议您先尝试这个方案</strong>，因为它更能体现控制图本身的能力。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><strong>修改 <code>tutorial_dataset.py</code>:</strong></p>
+<ul>
+<li>将 <code>__init__</code> 函数中 <code>prompt.json</code> 的路径，以及 <code>__getitem__</code> 函数中 <code>cv2.imread</code> 的路径，修改为您自己存放数据和清单的路径。</li>
+<li><strong>检查数据格式：</strong> 确认您的所有图片都是 RGB 三通道的（即使它们看起来是灰度或黑白的）。如果不是，需要在 <code>__getitem__</code> 中进行转换。黑白图通常需要被复制成三个相同的通道。</li>
+</ul>
+</li>
+<li><p><strong>修改 <code>tutorial_train.py</code>:</strong></p>
+<ul>
+<li><strong>调整超参数：</strong> <code>batch_size</code> 可以根据您的显存大小进行调整（比如从 4 调整到 2 或 8）。<code>learning_rate</code> (学习率) <code>1e-5</code> 是一个很好的起点，可以暂时不动。</li>
+<li><strong>确认初始权重：</strong> 确保 <code>resume_path</code> 指向的是初始权重文件 <code>control_sd15_ini.ckpt</code>，而不是某个已经训练好的特定任务模型（比如 Canny 的模型）。您是在训练一个<strong>全新的</strong>地质 ControlNet。</li>
+</ul>
+</li>
+</ol>
+<h4 id="阶段二：单条件模型训练-预计-3-4-周"><a href="#阶段二：单条件模型训练-预计-3-4-周" class="headerlink" title="阶段二：单条件模型训练 (预计 3-4 周)"></a><strong>阶段二：单条件模型训练 (预计 3-4 周)</strong></h4><p><strong>这是科学实验的关键：控制变量。</strong> 不要一开始就尝试最复杂的目标 C。</p>
 <ol>
-<li>课前预习就湖工大，然后听梁老师讲，没听懂的做好标记，课下研究，等发课件</li>
-<li>周三的课做计网作业</li>
-</ol>
-<h3 id="数据结构"><a href="#数据结构" class="headerlink" title="数据结构"></a>数据结构</h3><ol>
-<li>接着听邓老师的课昂</li>
-<li>周二音乐剧赏析把电脑带去，做作业</li>
-</ol>
-<h3 id="离散数学"><a href="#离散数学" class="headerlink" title="离散数学"></a>离散数学</h3><p>课前预习好，我觉得至少得领先老师一小节，然后的话，没搞懂的地方，下去一定要搞懂，别拖啊，当天晚上就搞明白，绝对不要拖，拖到后面根本不想动</p>
-<h3 id="概率论"><a href="#概率论" class="headerlink" title="概率论"></a>概率论</h3><p>课前也得预习，ppt看快点，然后就是作业，一定要对答案，做错了的，没搞懂的一定得搞懂，并没有叫你花大量时间，但是得把现有的做好啊</p>
-<h2 id="水课以及课余时间安排"><a href="#水课以及课余时间安排" class="headerlink" title="水课以及课余时间安排"></a>水课以及课余时间安排</h2><ol>
-<li><p>周一晚：<br>预习离散数学，预习概率论，完成概率论作业</p>
+<li><p><strong>训练“断层 ControlNet” (目标 A):</strong></p>
+<ul>
+<li>准备一个 <code>prompt.json</code>，让 <code>source</code> 指向您的<strong>第三组图（断层图）</strong>。</li>
+<li>启动 <code>tutorial_train.py</code> 开始训练。</li>
+<li>密切关注 <code>ImageLogger</code> 在训练过程中生成的样本图片。观察模型是否逐渐学会了在断层的位置生成对应的结构。</li>
+<li>这个过程可能会花费几天甚至一周的时间，具体取决于您的 GPU 性能和数据量。</li>
+</ul>
 </li>
-<li><p>周二上午：<br>搞科研</p>
-</li>
-<li><p>周二晚：<br>晚自习就把电脑带去，做数据结构作业<br>来到图书馆后，先预习一下计网，然后就搞科研</p>
-</li>
-<li><p>周三思政：<br>听数据结构网课</p>
-</li>
-<li><p>周三下午5,6节课：<br>搞科研</p>
-</li>
-<li><p>周三晚：<br>计网作业，九点来图书馆后搞科研</p>
-</li>
-<li><p>周四上午1,2节课与下午与晚上：<br>搞科研，累了就听数据结构网课，做数据结构作业</p>
-</li>
-<li><p>周五上午1,2节课：<br>搞科研</p>
-</li>
-<li><p>周五上午思政：<br> 离散数学预习+概率论作业</p>
-</li>
-<li><p>周六周日：<br>主要是搞科研，学累了就看会儿数据结构网课，做会儿数据结构、计网作业，注意周日晚上要预习计网</p>
-</li>
-<li><p>每天早上必须七点半起床！硬性要求！我绝对不允许你再迟于七点半起床了，不然真的是连锁反应，吃不了早饭记不了单词，去图书馆又去的很晚，难受啊哥们儿</p>
-</li>
-<li><p>每天复习单词＋记新的20个单词，硬性要求，绝对要完成啊 </p>
+<li><p><strong>训练“缝洞 ControlNet” (目标 B):</strong></p>
+<ul>
+<li>并行地，或者在第一个模型训练完成后，准备另一个 <code>prompt.json</code>，让 <code>source</code> 指向您的<strong>第二组图（缝洞图）</strong>。</li>
+<li>以同样的方式启动训练。</li>
+<li>观察模型是否学会了根据缝洞分布来生成岩石的孔隙结构。</li>
+</ul>
 </li>
 </ol>
-<h2 id="休闲"><a href="#休闲" class="headerlink" title="休闲"></a>休闲</h2><p>讲道理，这方面我真不太想硬性要求，但是如果不好好安排的话，有时候休息反而觉得煎熬，因为感觉花了时间但却感觉啥也没做</p>
-<p>一天之中有哪几段休息的时间呢？<br>午饭、晚饭、晚上回寝室</p>
-<p>休息手段有哪几种呢？<br>刷短视频，看电影解说，看动漫，看电影，玩游戏</p>
-<p>游戏分为哪几种呢？<br>竞技类游戏，剧情类游戏</p>
-<p>午饭：看动漫吧(因为电脑经常在图书馆)，好多动漫看一点就没看了，未闻花名，JOJO，野良神，尤其JOJO噢，看嘿</p>
-<p>晚饭：与午饭同理</p>
-<p>晚归：可以玩石头门，可以看动漫，但不要玩竞技类游戏，完全是浪费时间，它和无目的地刷视频是最没有意义的东西</p>
-<h2 id="其他的一些补充"><a href="#其他的一些补充" class="headerlink" title="其他的一些补充"></a>其他的一些补充</h2><ol>
-<li>平常晚上十一点半洗漱，十二点上床，十二点半前一定要睡觉</li>
-<li>洗澡日，十一点洗漱，十二点上床，十二点半前睡觉</li>
-<li>枕套两天一换，床单两周一换</li>
-<li>暂时，阿达帕林-休息-水杨酸-休息-阿达帕林….</li>
-<li>如果说没啥紧急任务，学得也差不多，周六周日可以出去吃吃饭，逛一逛，感受一下生活嘛，世界是很精彩的</li>
-</ol>
-<blockquote>
-<p>最后想送给你几句话</p>
+<p><strong>这个阶段结束后，您将获得两个独立的、非常有价值的预训练模型，并且已经完整地跑通了整个训练-&gt;验证的流程。</strong></p>
+<h4 id="阶段三：多条件联合建模探索-预计-2-3-周"><a href="#阶段三：多条件联合建模探索-预计-2-3-周" class="headerlink" title="阶段三：多条件联合建模探索 (预计 2-3 周)"></a><strong>阶段三：多条件联合建模探索 (预计 2-3 周)</strong></h4><p>这是最具挑战性和创新性的阶段，也是最接近您课题核心的部分。</p>
 <ol>
-<li>如果你内耗，请写下来，理性分析，这样你就知道到底有没有内耗的必要了</li>
-<li>请相信，你就是最努力的，你就是最棒的，想想你暑假所付出的，想想你平常所付出的，想想你漏考后仍然站起来往前走</li>
-<li>没有什么困难能难倒你，复读那一年所经历的磨难你都挺过来了，这世界上还能有比它更难的事了吗？没有！<br>大一上学期的痛苦期末月，起早贪黑地学c++，大一下学期一天复习完高数，以及那几天通宵做计组课设，几度想放弃但始终坚持下去的你，我去，真的，我说真的，谁能比的上你啊，你的精神，这种不屈的精神，无人能及！</li>
-<li>觉得社恐的时候想想你在哥哥婚礼上的演讲，台下所有人的赞叹，我去，还有什么能让我害怕的啊！</li>
+<li><p><strong>思考“多条件”的输入方式：</strong></p>
+<ul>
+<li>如何把“断层图”和“缝洞图”<strong>同时</strong>喂给 ControlNet？</li>
+<li><strong>简单方案：</strong> 将两张黑白图放入一张彩色图的<strong>不同颜色通道</strong>。例如，把断层图作为 R 通道，缝洞图作为 G 通道，B 通道设为 0。这样，一张 RGB 图片就同时携带了两种控制信息。</li>
+<li><strong>高级方案：</strong> 修改 ControlNet 的网络结构，让它有两个并行的 <code>input_hint_block</code>，分别处理两种控制图，然后在中间层进行融合。</li>
+</ul>
+</li>
+<li><p><strong>修改代码以支持多条件：</strong></p>
+<ul>
+<li>如果您采用简单方案，您需要在 <code>tutorial_dataset.py</code> 的 <code>__getitem__</code> 中增加一个<strong>合成图片</strong>的步骤。</li>
+<li>您还需要修改 <code>cldm/cldm.py</code> 中 <code>ControlNet</code> 类的 <code>input_hint_block</code>，使其输入通道数 <code>hint_channels</code> 从 3 变为你需要的通道数（比如 2 或 6）。这是一个很好的代码实践机会。</li>
+</ul>
+</li>
+<li><p><strong>训练联合模型 (目标 C):</strong></p>
+<ul>
+<li>用您新准备的多条件数据，从头开始训练一个新的 ControlNet。</li>
+<li>这个模型的性能，理论上应该会超越之前任何一个单条件模型。</li>
+</ul>
+</li>
 </ol>
-</blockquote>
-]]></content>
-      <categories>
-        <category>日记</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>本科生科研CV</title>
-    <url>/2025/08/30/%E6%9C%AC%E7%A7%91%E7%94%9F%E7%A7%91%E7%A0%94CV/</url>
-    <content><![CDATA[<h2 id="本科生科研CV"><a href="#本科生科研CV" class="headerlink" title="本科生科研CV"></a>本科生科研CV</h2><ol>
-<li>不要超过一页，word文档一面就行</li>
-<li>东西要写的简单</li>
-<li>从你做的最好的然后一个一个往下写(显得自信，厉害)</li>
-<li>照片弄得好看一点</li>
-<li>说明自己时间充足</li>
-</ol>
-]]></content>
-      <categories>
-        <category>科研</category>
-      </categories>
-      <tags>
-        <tag>简历</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>科研重要知识点</title>
-    <url>/2025/11/02/%E7%A7%91%E7%A0%94%E9%87%8D%E8%A6%81%E7%9F%A5%E8%AF%86%E7%82%B9/</url>
-    <content><![CDATA[<h3 id="何为断控"><a href="#何为断控" class="headerlink" title="何为断控"></a>何为断控</h3><p> 一个关键的新概念：“断控体”<br>原文： “…溶蚀作用较弱, 称为“断控体”…”<br>解析： 这是顺北油田区别于塔河油田等其他缝洞型油气藏的核心特征。<br>断溶体 (Fault-Karst Body): “断裂”和“溶蚀”共同作用，且溶蚀作用强。可以想象成先有裂缝，然后水沿着裂缝把岩石溶蚀成大大小小的洞穴。<br>断控体 (Fault-Controlled Body): “断裂”起绝对主导作用，溶蚀作用很弱。储集空间主要是由断裂运动直接产生的裂缝、破碎带构成的。<br>对您课题的意义： 您要建模的对象，其几何形态和内部结构更多地遵循构造物理学的规律，而不是化学溶蚀的规律。</p>
-<h3 id="三大储油空间"><a href="#三大储油空间" class="headerlink" title="三大储油空间"></a>三大储油空间</h3><p>三大储油空间<br>原文： “…沿断裂带发育断裂面、类洞穴和杂乱体三大储集空间。”<br>解析： 这明确了储层不是一整块，而是由三种不同形态的地质体构成的复合体。<br>断裂面 (Fracture Planes): 类似“面”状的储集空间，是油气高速公路。<br>类洞穴 (Cave-like Bodies): 在断裂活动最强烈的地方形成的“团块”状破碎空间，是油气的巨型仓库。<br>杂乱体 (Disordered Bodies): 形态不规则的破碎区域。<br>对您课题的意义： 您的模型需要能够识别并分别刻画这三种不同形态的储集体。</p>
-<h3 id="栅状充填结构"><a href="#栅状充填结构" class="headerlink" title="栅状充填结构"></a>栅状充填结构</h3><p>原文： “…断裂面与类洞穴内部…构造破碎区域被角砾充填, 形成角砾带, 与破碎程度弱的基岩带交替发育, 形成栅状充填结构特征…”<br>解析： 这是最核心、最关键的一句话，直接点明了储层内部的精细结构，也是传统建模方法最头疼的地方。<br>它说明储层内部不是空洞，也不是均匀的砂子填充。<br>它是一种有序的、交替出现的结构。<br>角砾带 (Breccia Belt): 被构造运动震碎的岩石碎块（角砾）堆积区。这里孔隙发育，是优质储层。<br>基岩带 (Bedrock Belt): 相对完整的、破碎程度弱的岩石。这里基本不储油，是非储层。<br>栅状结构 (Grille-like Structure): 这两种“带”像栅栏的木条和空隙一样交替排列，形成了油气的优势渗流通道。<br>对您课题的意义： 您的扩散模型的核心任务，就是要能够生成这种地质意义明确、结构特征清晰的“栅状结构”。 这将是您研究成果的最大亮点。</p>
-<h3 id="最终的研究目标：定量化三维地质模型"><a href="#最终的研究目标：定量化三维地质模型" class="headerlink" title="最终的研究目标：定量化三维地质模型"></a>最终的研究目标：定量化三维地质模型</h3><p>原文： “为实现定量化表征…建立定量化的三维油气藏地质模型成为重点研究方向之一…”<br>解析： 这句话指出了最终的落脚点。地质研究不能只停留在定性的描述上，必须转化为定量的、可用于计算的三维数字模型。这个模型是后续进行储量计算、油井部署、开采方案模拟的唯一依据。<br>对您课题的意义： 您用扩散模型生成的，不是一张好看的图片，而是一个包含空间坐标和岩石类型（角砾带/基岩带）属性的三维数据体。</p>
-<h3 id="主应力"><a href="#主应力" class="headerlink" title="主应力"></a>主应力</h3><p>主应力是描述物体（岩石）内部受力状态的最简化方式。</p>
-<p>它由三个相互垂直、没有剪切力（纯挤压或拉伸）的应力（σ₁, σ₂, σ₃）组成。</p>
-<p>主应力的大小和方向，决定了岩石将会如何破裂以及裂缝的走向。</p>
-<p>岩石最容易沿着一个与最大主应力（σ₁）方向成大约 30 度角的方向发生剪切破裂。</p>
-<p>在您的课题中，主应力是形成储层内部“栅状结构”的根本原因和总指挥。理解了主应力，才能理解栅状结构的成因和分布规律，也才能建立出符合地质规律的模型。</p>
+<hr>
+<h3 id="总结与建议"><a href="#总结与建议" class="headerlink" title="总结与建议"></a>总结与建议</h3><p>您现在的情况非常好，不要迷茫。您已经学完了理论，手上又有完美的数据集，接下来就是<strong>动手实践，把理论变成代码，把代码变成模型</strong>。</p>
+<ul>
+<li><strong>从小处着手：</strong> 先把目标定在成功跑通<strong>目标 A</strong> 上。只要第一个模型能有初步的效果，后面的一切都会水到渠成。</li>
+<li><strong>记录与分析：</strong> 每次实验，都要记录好你的配置、观察到的现象。这不仅仅是编程，这是在<strong>做科研</strong>。</li>
+<li><strong>与师兄交流：</strong> 定期把你的进展（哪怕是失败的尝试）和师兄分享。他会从更高的角度给你指导。</li>
+</ul>
+<p>您正在做一件非常前沿且有意义的事情。这两个月的时间，足够您从一个 ControlNet 的“学习者”成长为一个能用它解决实际科研问题的“实践者”。当新数据到来时，您已经是一个准备充分的“老兵”了。</p>
+<p>祝您好运！如果在任何一步遇到具体代码问题，随时可以来问我。</p>
 ]]></content>
       <categories>
         <category>科研</category>
@@ -1013,20 +1013,115 @@
       </tags>
   </entry>
   <entry>
-    <title>正规方程补充</title>
-    <url>/2025/08/09/%E6%AD%A3%E8%A7%84%E6%96%B9%E7%A8%8B%E8%A1%A5%E5%85%85/</url>
-    <content><![CDATA[<h2 id="正规方程在矩阵不可逆-奇异矩阵-的情况下的解决办法"><a href="#正规方程在矩阵不可逆-奇异矩阵-的情况下的解决办法" class="headerlink" title="正规方程在矩阵不可逆(奇异矩阵)的情况下的解决办法"></a>正规方程在矩阵不可逆(奇异矩阵)的情况下的解决办法</h2><p> 首先呢，这种情况极少数发生，而且即使发生了，如果用octave中的pinv，如果不可逆也能求出伪逆<br><img src="/img/ML/p1.png" alt=""></p>
-<h3 id="为什么-X-TX-会出现不可逆的情况？"><a href="#为什么-X-TX-会出现不可逆的情况？" class="headerlink" title="为什么$X^TX$会出现不可逆的情况？"></a>为什么$X^TX$会出现不可逆的情况？</h3><ol>
-<li>包含了多余的特征，比如一个以米为单位，另一个以英尺为单位，线性相关</li>
-<li>运行的算法的特征太多了($m\le n$)<br>在此情况下，我们通常要删掉一些特征或者使用<strong>正则化</strong></li>
+    <title>本科生科研CV</title>
+    <url>/2025/08/30/%E6%9C%AC%E7%A7%91%E7%94%9F%E7%A7%91%E7%A0%94CV/</url>
+    <content><![CDATA[<h2 id="本科生科研CV"><a href="#本科生科研CV" class="headerlink" title="本科生科研CV"></a>本科生科研CV</h2><ol>
+<li>不要超过一页，word文档一面就行</li>
+<li>东西要写的简单</li>
+<li>从你做的最好的然后一个一个往下写(显得自信，厉害)</li>
+<li>照片弄得好看一点</li>
+<li>说明自己时间充足</li>
 </ol>
 ]]></content>
       <categories>
-        <category>学习</category>
+        <category>科研</category>
       </categories>
       <tags>
-        <tag>正规方程</tag>
+        <tag>简历</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>大二上规划</title>
+    <url>/2025/10/20/%E5%A4%A7%E4%BA%8C%E4%B8%8A%E8%A7%84%E5%88%92/</url>
+    <content><![CDATA[<blockquote>
+<p>最近总是很焦虑，尤其是看到以前不如自己的一些人逐渐地发光发热，归根结底还是因为自己的路已经和他们不同了，这没办法，过去的事情无法改变，但是我们可以把握当下，展望未来，嗯，既然这样，那就好好修改一下目前的学习计划吧，这两个月以来的方向出了点小偏差，也不怪你，换谁谁都迷茫，你选择了坚持地走下去已经非常非常非常不错了</p>
+</blockquote>
+<h3 id="大英"><a href="#大英" class="headerlink" title="大英"></a>大英</h3><p>这学期对大英的要求稍微低一点，四级的话能过就行，重要的是之后的六级。<br>由于英语老师讲课节奏慢，又把大部分精力放在六级词汇上，但是这学期要考的是四级，而且我课下无法花时间再去记了，所以计划如下：</p>
+<ol>
+<li>周一英语课，坐后排偏左侧位置，如果老师讲的是废物内容，那就不听，直接记单词，如果老师一直讲六级词汇，也不听，直接记上面的四级单词，但是课文要读，不认识的词汇但感觉常见的要查</li>
+<li>周四口语课，暂置，还没上，不知道怎么样</li>
+<li>考前一两周左右再开始每天听点听力，做会儿阅读，研究会儿作文，不慌，能过就行</li>
+</ol>
+<h3 id="计算机网络"><a href="#计算机网络" class="headerlink" title="计算机网络"></a>计算机网络</h3><p>服了，我现在也很纠结，到底以梁老师为主还是郑老师为主，郑老师的太长了，算了，先试一下这种方法</p>
+<ol>
+<li>课前预习就湖工大，然后听梁老师讲，没听懂的做好标记，课下研究，等发课件</li>
+<li>周三的课做计网作业</li>
+</ol>
+<h3 id="数据结构"><a href="#数据结构" class="headerlink" title="数据结构"></a>数据结构</h3><ol>
+<li>接着听邓老师的课昂</li>
+<li>周二音乐剧赏析把电脑带去，做作业</li>
+</ol>
+<h3 id="离散数学"><a href="#离散数学" class="headerlink" title="离散数学"></a>离散数学</h3><p>课前预习好，我觉得至少得领先老师一小节，然后的话，没搞懂的地方，下去一定要搞懂，别拖啊，当天晚上就搞明白，绝对不要拖，拖到后面根本不想动</p>
+<h3 id="概率论"><a href="#概率论" class="headerlink" title="概率论"></a>概率论</h3><p>课前也得预习，ppt看快点，然后就是作业，一定要对答案，做错了的，没搞懂的一定得搞懂，并没有叫你花大量时间，但是得把现有的做好啊</p>
+<h2 id="水课以及课余时间安排"><a href="#水课以及课余时间安排" class="headerlink" title="水课以及课余时间安排"></a>水课以及课余时间安排</h2><ol>
+<li><p>周一晚：<br>预习离散数学，预习概率论，完成概率论作业</p>
+</li>
+<li><p>周二上午：<br>搞科研</p>
+</li>
+<li><p>周二晚：<br>晚自习就把电脑带去，做数据结构作业<br>来到图书馆后，先预习一下计网，然后就搞科研</p>
+</li>
+<li><p>周三思政：<br>听数据结构网课</p>
+</li>
+<li><p>周三下午5,6节课：<br>搞科研</p>
+</li>
+<li><p>周三晚：<br>计网作业，九点来图书馆后搞科研</p>
+</li>
+<li><p>周四上午1,2节课与下午与晚上：<br>搞科研，累了就听数据结构网课，做数据结构作业</p>
+</li>
+<li><p>周五上午1,2节课：<br>搞科研</p>
+</li>
+<li><p>周五上午思政：<br> 离散数学预习+概率论作业</p>
+</li>
+<li><p>周六周日：<br>主要是搞科研，学累了就看会儿数据结构网课，做会儿数据结构、计网作业，注意周日晚上要预习计网</p>
+</li>
+<li><p>每天早上必须七点半起床！硬性要求！我绝对不允许你再迟于七点半起床了，不然真的是连锁反应，吃不了早饭记不了单词，去图书馆又去的很晚，难受啊哥们儿</p>
+</li>
+<li><p>每天复习单词＋记新的20个单词，硬性要求，绝对要完成啊 </p>
+</li>
+</ol>
+<h2 id="休闲"><a href="#休闲" class="headerlink" title="休闲"></a>休闲</h2><p>讲道理，这方面我真不太想硬性要求，但是如果不好好安排的话，有时候休息反而觉得煎熬，因为感觉花了时间但却感觉啥也没做</p>
+<p>一天之中有哪几段休息的时间呢？<br>午饭、晚饭、晚上回寝室</p>
+<p>休息手段有哪几种呢？<br>刷短视频，看电影解说，看动漫，看电影，玩游戏</p>
+<p>游戏分为哪几种呢？<br>竞技类游戏，剧情类游戏</p>
+<p>午饭：看动漫吧(因为电脑经常在图书馆)，好多动漫看一点就没看了，未闻花名，JOJO，野良神，尤其JOJO噢，看嘿</p>
+<p>晚饭：与午饭同理</p>
+<p>晚归：可以玩石头门，可以看动漫，但不要玩竞技类游戏，完全是浪费时间，它和无目的地刷视频是最没有意义的东西</p>
+<h2 id="其他的一些补充"><a href="#其他的一些补充" class="headerlink" title="其他的一些补充"></a>其他的一些补充</h2><ol>
+<li>平常晚上十一点半洗漱，十二点上床，十二点半前一定要睡觉</li>
+<li>洗澡日，十一点洗漱，十二点上床，十二点半前睡觉</li>
+<li>枕套两天一换，床单两周一换</li>
+<li>暂时，阿达帕林-休息-水杨酸-休息-阿达帕林….</li>
+<li>如果说没啥紧急任务，学得也差不多，周六周日可以出去吃吃饭，逛一逛，感受一下生活嘛，世界是很精彩的</li>
+</ol>
+<blockquote>
+<p>最后想送给你几句话</p>
+<ol>
+<li>如果你内耗，请写下来，理性分析，这样你就知道到底有没有内耗的必要了</li>
+<li>请相信，你就是最努力的，你就是最棒的，想想你暑假所付出的，想想你平常所付出的，想想你漏考后仍然站起来往前走</li>
+<li>没有什么困难能难倒你，复读那一年所经历的磨难你都挺过来了，这世界上还能有比它更难的事了吗？没有！<br>大一上学期的痛苦期末月，起早贪黑地学c++，大一下学期一天复习完高数，以及那几天通宵做计组课设，几度想放弃但始终坚持下去的你，我去，真的，我说真的，谁能比的上你啊，你的精神，这种不屈的精神，无人能及！</li>
+<li>觉得社恐的时候想想你在哥哥婚礼上的演讲，台下所有人的赞叹，我去，还有什么能让我害怕的啊！</li>
+</ol>
+</blockquote>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>论文复现</title>
+    <url>/2025/11/23/%E8%AE%BA%E6%96%87%E5%A4%8D%E7%8E%B0/</url>
+    <content><![CDATA[<ol>
+<li><p>定方向:<br>去谷歌学术上搜索，先看中文，做一个了解，然后看英文的，没有代码的不看(不开源)！直接看摘要下面有没有附github链接就知道了</p>
+</li>
+<li><p>代码跑通了(复现)再看论文，啥意思呢，就是代码跑通了后的结果和原文相差不大，我们再看论文，这样我们就既有论文又有代码了，然后就可以改进了(其实不太理解哈哈哈哈)</p>
+</li>
+<li><p>根据readme来复现代码，选分辨率最小的数据集，这样快些</p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>科研</category>
+      </categories>
   </entry>
   <entry>
     <title>知识点积累</title>
@@ -1117,20 +1212,37 @@
       </categories>
   </entry>
   <entry>
-    <title>论文复现</title>
-    <url>/2025/11/23/%E8%AE%BA%E6%96%87%E5%A4%8D%E7%8E%B0/</url>
-    <content><![CDATA[<ol>
-<li><p>定方向:<br>去谷歌学术上搜索，先看中文，做一个了解，然后看英文的，没有代码的不看(不开源)！直接看摘要下面有没有附github链接就知道了</p>
-</li>
-<li><p>代码跑通了(复现)再看论文，啥意思呢，就是代码跑通了后的结果和原文相差不大，我们再看论文，这样我们就既有论文又有代码了，然后就可以改进了(其实不太理解哈哈哈哈)</p>
-</li>
-<li><p>根据readme来复现代码，选分辨率最小的数据集，这样快些</p>
-</li>
-</ol>
+    <title>科研重要知识点</title>
+    <url>/2025/11/02/%E7%A7%91%E7%A0%94%E9%87%8D%E8%A6%81%E7%9F%A5%E8%AF%86%E7%82%B9/</url>
+    <content><![CDATA[<h3 id="何为断控"><a href="#何为断控" class="headerlink" title="何为断控"></a>何为断控</h3><p> 一个关键的新概念：“断控体”<br>原文： “…溶蚀作用较弱, 称为“断控体”…”<br>解析： 这是顺北油田区别于塔河油田等其他缝洞型油气藏的核心特征。<br>断溶体 (Fault-Karst Body): “断裂”和“溶蚀”共同作用，且溶蚀作用强。可以想象成先有裂缝，然后水沿着裂缝把岩石溶蚀成大大小小的洞穴。<br>断控体 (Fault-Controlled Body): “断裂”起绝对主导作用，溶蚀作用很弱。储集空间主要是由断裂运动直接产生的裂缝、破碎带构成的。<br>对您课题的意义： 您要建模的对象，其几何形态和内部结构更多地遵循构造物理学的规律，而不是化学溶蚀的规律。</p>
+<h3 id="三大储油空间"><a href="#三大储油空间" class="headerlink" title="三大储油空间"></a>三大储油空间</h3><p>三大储油空间<br>原文： “…沿断裂带发育断裂面、类洞穴和杂乱体三大储集空间。”<br>解析： 这明确了储层不是一整块，而是由三种不同形态的地质体构成的复合体。<br>断裂面 (Fracture Planes): 类似“面”状的储集空间，是油气高速公路。<br>类洞穴 (Cave-like Bodies): 在断裂活动最强烈的地方形成的“团块”状破碎空间，是油气的巨型仓库。<br>杂乱体 (Disordered Bodies): 形态不规则的破碎区域。<br>对您课题的意义： 您的模型需要能够识别并分别刻画这三种不同形态的储集体。</p>
+<h3 id="栅状充填结构"><a href="#栅状充填结构" class="headerlink" title="栅状充填结构"></a>栅状充填结构</h3><p>原文： “…断裂面与类洞穴内部…构造破碎区域被角砾充填, 形成角砾带, 与破碎程度弱的基岩带交替发育, 形成栅状充填结构特征…”<br>解析： 这是最核心、最关键的一句话，直接点明了储层内部的精细结构，也是传统建模方法最头疼的地方。<br>它说明储层内部不是空洞，也不是均匀的砂子填充。<br>它是一种有序的、交替出现的结构。<br>角砾带 (Breccia Belt): 被构造运动震碎的岩石碎块（角砾）堆积区。这里孔隙发育，是优质储层。<br>基岩带 (Bedrock Belt): 相对完整的、破碎程度弱的岩石。这里基本不储油，是非储层。<br>栅状结构 (Grille-like Structure): 这两种“带”像栅栏的木条和空隙一样交替排列，形成了油气的优势渗流通道。<br>对您课题的意义： 您的扩散模型的核心任务，就是要能够生成这种地质意义明确、结构特征清晰的“栅状结构”。 这将是您研究成果的最大亮点。</p>
+<h3 id="最终的研究目标：定量化三维地质模型"><a href="#最终的研究目标：定量化三维地质模型" class="headerlink" title="最终的研究目标：定量化三维地质模型"></a>最终的研究目标：定量化三维地质模型</h3><p>原文： “为实现定量化表征…建立定量化的三维油气藏地质模型成为重点研究方向之一…”<br>解析： 这句话指出了最终的落脚点。地质研究不能只停留在定性的描述上，必须转化为定量的、可用于计算的三维数字模型。这个模型是后续进行储量计算、油井部署、开采方案模拟的唯一依据。<br>对您课题的意义： 您用扩散模型生成的，不是一张好看的图片，而是一个包含空间坐标和岩石类型（角砾带/基岩带）属性的三维数据体。</p>
+<h3 id="主应力"><a href="#主应力" class="headerlink" title="主应力"></a>主应力</h3><p>主应力是描述物体（岩石）内部受力状态的最简化方式。</p>
+<p>它由三个相互垂直、没有剪切力（纯挤压或拉伸）的应力（σ₁, σ₂, σ₃）组成。</p>
+<p>主应力的大小和方向，决定了岩石将会如何破裂以及裂缝的走向。</p>
+<p>岩石最容易沿着一个与最大主应力（σ₁）方向成大约 30 度角的方向发生剪切破裂。</p>
+<p>在您的课题中，主应力是形成储层内部“栅状结构”的根本原因和总指挥。理解了主应力，才能理解栅状结构的成因和分布规律，也才能建立出符合地质规律的模型。</p>
 ]]></content>
       <categories>
         <category>科研</category>
       </categories>
+  </entry>
+  <entry>
+    <title>正规方程补充</title>
+    <url>/2025/08/09/%E6%AD%A3%E8%A7%84%E6%96%B9%E7%A8%8B%E8%A1%A5%E5%85%85/</url>
+    <content><![CDATA[<h2 id="正规方程在矩阵不可逆-奇异矩阵-的情况下的解决办法"><a href="#正规方程在矩阵不可逆-奇异矩阵-的情况下的解决办法" class="headerlink" title="正规方程在矩阵不可逆(奇异矩阵)的情况下的解决办法"></a>正规方程在矩阵不可逆(奇异矩阵)的情况下的解决办法</h2><p> 首先呢，这种情况极少数发生，而且即使发生了，如果用octave中的pinv，如果不可逆也能求出伪逆<br><img src="/img/ML/p1.png" alt=""></p>
+<h3 id="为什么-X-TX-会出现不可逆的情况？"><a href="#为什么-X-TX-会出现不可逆的情况？" class="headerlink" title="为什么$X^TX$会出现不可逆的情况？"></a>为什么$X^TX$会出现不可逆的情况？</h3><ol>
+<li>包含了多余的特征，比如一个以米为单位，另一个以英尺为单位，线性相关</li>
+<li>运行的算法的特征太多了($m\le n$)<br>在此情况下，我们通常要删掉一些特征或者使用<strong>正则化</strong></li>
+</ol>
+]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>正规方程</tag>
+      </tags>
   </entry>
   <entry>
     <title>科研竞赛规划</title>
